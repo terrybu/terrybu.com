@@ -40,7 +40,7 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>I learned basic HTML at age 12 and picked up programming again at age 25. I started out studying JavaScript/Rails and then discovered a full-time iOS bootcamp at TurnToTech in New York City. There, we studied object-oriented programming, C and Objective-C. Currently, I have a working knowledge of Java/Android, Swift, Angular and Flask from past projects, and feel comfortable with Rails, JavaScript and Git. My next goal is to be a "Triple-Threat" across three domains: iOS, Android and Web Dev.</p>
+          <p>After dabbling in web dev as a teenager, I picked up programming again at age 25, studying Rails and JS by myself and then iOS at TurnToTech bootcamp in NYC. I am now proficient in Objective-C/Swift, JavaScript, Ruby on Rails and Git. I also have a working knowledge of Java/Android, and AngularJS from past projects. </p>
           <p>I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
         </div>
      </div>
@@ -53,7 +53,7 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>After working in the business side of digital marketing and IT, I went on a mission to find myself a career that I personally felt was more fulfilling and aligned with my talents. This led me to the world of computer programming where I was inspired by becoming a driver of innovation and creator of new possibilities for the future. After intense studying throughout 2014, I became a full-time programmer in 2015. Currently, I work as a Software Engineer at the Hackerati, a boutique high-end consulting start-up here in NYC.</p>
+      <p>After working in digital marketing and B2B sales for about 2 years, I wanted to find a career that was more aligned with my talents and passion. That led me to pursue stand-up comedy and computer programming. I am inspired by becoming a driver of innovation and new possibilities for the future. After freelancing and interning as an iOS Developer in 2014, I became a Software Engineer at the Hackerati, a high-end consulting startup.</p>
       <p>Please refer to <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> for details.</p>
          </div>
       </div>
@@ -66,7 +66,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>The internet has changed the way we learn, but I think we can make it even better. I want to help create better accessibility to free knowledge and information for people all over the world. I also am deeply curious about the future of tech entrepreneurship and want to help create lasting progress. </p>
+      <p>The internet has changed the way we learn, but I think we can make it even better. I want to help create better accessibility to free knowledge and education for people all over the world. I also am deeply curious about the future of tech entrepreneurship and want to help connect people to new bodies of knowledge. </p>
       <p>In the short term, I want to keep growing and developing my skills at a place where I can make an impact. </p>
          </div>
       </div>

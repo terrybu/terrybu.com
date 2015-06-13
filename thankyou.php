@@ -4,16 +4,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!--LOAD jQuery -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="_javascript/vendor/jquery-1.11.1.min.js"><\/script>')</script>
-  <script src="_javascript/vendor/bootstrap.min.js"></script>
-  <!--LOAD YOUR STYLESHEETS -->
-<link href="_css/application.css" rel="stylesheet" type="text/css">
-<link href="_css/contact.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="dist/js/bootstrapValidator.js"></script>
-<link rel="stylesheet" href="dist/css/bootstrapValidator.css"/>
-
 <script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
 <!-- BeginOAWidget_Shared_2187524 -->
 <!-- EndOAWidget_Shared_2187524 -->
@@ -24,6 +14,7 @@
 </oa:widgets>
 -->
 </script>
+<?php include ("_includes/standardHeadImports.php"); ?>
 <title>Terry Bu - Portfolio Website | Contact Terry</title>
 </head>
 <body>
@@ -32,6 +23,7 @@
     <?php include("_includes/gotSocial.php"); ?>
       <?php include("_includes/welcomeNav.php"); ?>
       <?php include("_includes/kyotoImage.php"); ?>
+  </div>
 
 <div id="bodyContent">
 <p align="center">Thank you, I will be in contact with you shortly.</p>

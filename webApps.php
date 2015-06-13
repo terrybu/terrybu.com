@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <?php include ("_includes/standardHeadImports.php"); ?>
-  <title>Terry Bu - Portfolio Website | Ruby on Rails </title>
+  <title>Terry Bu - Portfolio Website | Web Apps </title>
 </head>
 <body>
   <!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
@@ -18,18 +18,25 @@
 <img src="_images/rubyonrails.png" id="headImageRails">
 
 <div id="bodyContent">
-  <h1 style="color: #C63B3B">Ruby on Rails Projects</h1>
+  <h1 style="color: #C63B3B">Web Applications</h1>
   <div class="projectsDiv"  id="projectsRails">
    <ul>
     <li>
-    <h3><a href="https://terrysnotes.herokuapp.com/" target="_blank">Personal Rails Project: Terry's Book Notes</h3>    
+    <h3><a href="https://terrysnotes.herokuapp.com/" target="_blank">Personal Rails Project: Terry's Book Notes</h3>
       <img src="_images/_booknotes.png"></a>
     </li>
     <li>
     <h3><a href="https://terrysquotes.herokuapp.com/" target="_blank">Personal Rails Project: Terry's Quotes Database</h3>
     <img src="_images/s1quote.png"></a>
     </li>
-
+          <li>
+        <h3><a href="https://www.carforo.com">Car Foro</a>, an Angular/Flask web app that connects consumers with car dealerships to negotiate car purchases online (team of 4) </h3>
+        <a href="https://www.carforo.com" target="_blank"><img src="_images/carforo.png"></a>   
+      </li>
+    <ul>
+  </div>
+  <div class="projectsDiv">
+  <ul>
     <li>
         <h3>Helping non-profit organization (<a href="http://www.ourgoods.org">Ourgoods.org</a>) by rebuilding their Admin CMS interface through Rails migrations, model/database manipulation</h3>
         <br>

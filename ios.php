@@ -21,6 +21,15 @@
   <div id="projectsDiviOS">
     <ul id="iosBullets"> 
       <li>
+        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+          <ul>
+            <li>
+            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. Based on Fitzpatrick skin type scale. 
+            </li>
+        </ul>
+      <br>
+
+      <li>
         <h3>Split/Up (Expected Release Spring-Summer 2015) </h3>
           <ul>
           	<li>
@@ -35,13 +44,13 @@
       </li> 
       <br>
       <li>
-        <h3><a href="https://github.com/terrybu/JestNotes" target="blank">Jest Notes</a></h3>
+        <h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
           <ul>
             <li>
-              Productivity app for stand-up comics who need to view and organize their jokes and sets right on the night of their performance 
+              Productivity app for stand-up comics who need to write and organize their jokes and performance sets
             </li>
             <li>
-              Rails Web App & iOS integration through Parse.com back-end
+              Rails Web App & iOS integration through Parse.com API backend 
             </li>
             <li>
               Core Data Local Caching for Offline Capability. 
@@ -51,6 +60,12 @@
       <br>
       <li>
       <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>
+      </li>
+      <li>
+      Trackerati (internal app for The Hackerati for employers to track and record employee billable hours)
+      </li>
+      <li>
+      Face Morpher (internapp for The Hackerati to leverage Open Frameworks to merge your face with another mask image of your choosing)
       </li>
 
     </ul>
