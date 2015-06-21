@@ -22,8 +22,9 @@
 
 <div id="bodyContent">
 <h1>Contact Terry</h1>
-  <p align='center'>Please email me at <a href="mailto:burea1124@gmail.com" target="_blank">burea1124@gmail.com</a> or contact me via the form below.</p>
-<div id="large">
+  <p align='center'>Please email me at <a href="mailto:burea1124@gmail.com" target="_blank">burea1124@gmail.com</a>
+  </p>
+<!-- <div id="large">
 
 <div id="mapCanvas"></div>
 
@@ -45,7 +46,7 @@
   </form>
   <p>&nbsp;</p>
 </div>
-</div>
+</div> -->
 
 </div> <!-- /bodyContent -->  
 </div> <!-- /container -->  
