@@ -8,8 +8,7 @@
   <title>Terry Bu - Portfolio Website | Web Apps </title>
 </head>
 <body>
-  <!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
-  </div>
+<?php include_once("analyticstracking.php") ?>
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>

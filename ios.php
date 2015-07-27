@@ -8,8 +8,8 @@
   <title>Terry Bu - Portfolio Website | iOS </title>
 </head>
 <body>
-  <!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
-  </div>
+<?php include_once("analyticstracking.php") ?>
+
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>
@@ -72,6 +72,10 @@
   </div>
 
 </div> <!-- /bodyContent -->  
+
+<!-- START OF HIT COUNTER CODE -->
+<br><script language="JavaScript" src="http://www.counter160.com/js.js?img=3"></script><br><a href="http://www.000webhost.com"><img src="http://www.counter160.com/images/3/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/3/right.png" border="0" align="texttop"></a>
+<!-- END OF HIT COUNTER CODE -->
 
 </div> <!-- /container -->  
 

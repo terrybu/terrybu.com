@@ -29,6 +29,7 @@ Do the following if you're using your customized build of modernizr (http://www.
 <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 
 <div class="gridContainer clearfix">
 <div id="browser">
