@@ -24,8 +24,12 @@
         <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
           <ul>
             <li>
-            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. Based on Fitzpatrick skin type scale. 
+            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
             </li>
+            <li>Based on Fitzpatrick skin type scale. 
+            </li>
+             <img src="_images/skinType.gif" class="reflectorImage">
+
         </ul>
       <br>
 
@@ -40,6 +44,7 @@
 			</li>
             <li><a href="https://github.com/terrybu/AddressbookPull-MultiSelect" target="_blank">Addressbook Contacts Multi-Selection functionality for "Invite Your Friends" Functionality </a></li>
             <li><a href="https://github.com/terrybu/Parallax-Header" target="blank">Parallax UI Header Effect (making your tableview/imageview scroll prettier) </a></li>   
+            <img src="_images/parallax.gif" class="reflectorImage">
           </ul>
       </li> 
       <br>
@@ -57,16 +62,27 @@
             </li>
           </ul>
       </li>
-      <br>
+      <li>
+      <h3>
+      Trackerati
+      </h3>
+      <ul>
+        <li>B2B app for third-party consultants to report and track billable hours to clients</li>
+        <img src="_images/trackerati.gif" class="reflectorImage">
+      </ul>
+      </li>
+
+      <li>
+      Face Morpher (Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)
+      </li>
+      <img src="_images/openFrameworks.gif" class="reflectorImage">
+
+<br>
+
       <li>
       <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>
       </li>
-      <li>
-      Trackerati (internal app for The Hackerati for employers to track and record employee billable hours)
-      </li>
-      <li>
-      Face Morpher (internapp for The Hackerati to leverage Open Frameworks to merge your face with another mask image of your choosing)
-      </li>
+
 
     </ul>
   </div>
