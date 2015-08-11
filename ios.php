@@ -21,23 +21,10 @@
   <div id="projectsDiviOS">
     <ul id="iosBullets"> 
       <li>
-        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+        <h3><a href="https://itunes.apple.com/us/app/up-anonymously-spread-kindness/id985699487?mt=8" target="blank">Up: anonymously spread kindness</a></h3>
           <ul>
             <li>
-            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
-            </li>
-            <li>Based on Fitzpatrick skin type scale. 
-            </li>
-             <img src="_images/skinType.gif" class="reflectorImage">
-
-        </ul>
-      <br>
-
-      <li>
-        <h3>Split/Up (Expected Release Spring-Summer 2015) </h3>
-          <ul>
-          	<li>
-          	Split/Up is a geolocation-based anonymous app
+            Description: Up is a simple app with a huge mission -- to make the world a better place. UP, allows you to anonymously send positive and encouraging messages to your phone contacts. Anonymous kindness is the best kind. It frees the recipient from embarrassment and the burden of feeling any need to reciprocate.
           	</li>
             <li>
 			<a href="https://github.com/terrybu/javaAtTurnToTech" target="blank">Notifications Queue/Event Processor Back-End System using APNS, Java, Pushy and Redis</a>
@@ -62,25 +49,56 @@
             </li>
           </ul>
       </li>
+
+        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+          <ul>
+            <li>
+            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
+            </li>
+            <li>Based on Fitzpatrick skin type scale. 
+            </li>
+             <img src="_images/skinType.gif" class="reflectorImage">
+
+        </ul>
+      <br>
+
       <li>
       <h3>
-      Trackerati
+      Trackerati 
       </h3>
       <ul>
-        <li>B2B app for third-party consultants to report and track billable hours to clients</li>
+        <li>Internal app for The Hackerati for 3rd party contractors and consultants to track, record and report billable hours to clients</li>
         <img src="_images/trackerati.gif" class="reflectorImage">
       </ul>
       </li>
+      <br>
 
       <li>
-      Face Morpher (Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)
+      <h3>
+      <a href="https://github.com/terrybu/TBVideoSplashScreen" target="_blank">TBVideoSplashScreen</a>
+      </h3>
+        <ul>
+        <li>Cocoapod library for showing a short video on app launch instead of static launchscreen</li>
+        </ul>
       </li>
-      <img src="_images/openFrameworks.gif" class="reflectorImage">
-
-<br>
 
       <li>
+      <h3>
+      <a href="https://github.com/terrybu/TBFaceMorpherPhoto">
+      TBFaceMorpher
+      </a>
+      </h3>
+      <ul>
+      <li>(Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)</li>
+      </li>
+      </ul>
+      <img src="_images/openFrameworks.gif" class="reflectorImage">
+      <br>
+
+      <li>
+      <h3>
       <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>
+      </h3>
       </li>
 
 
