@@ -40,8 +40,7 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>After picking up HTML in elementary school, I returned to programming again at age 25 as an adult. I learned Ruby on Rails and JavaScript through self-study and then iOS mobile development at TurnToTech in NYC. I am now proficient across mobile and web development with Objective-C/Swift being my favorite. I also have a working knowledge of Java/Android, AngularJS and Node.js from past projects. </p>
-          <p>I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
+          <p>After picking up HTML in elementary school, I returned to programming again at age 25. I learned Ruby on Rails and JavaScript through self-study and then iOS mobile development at TurnToTech in NYC. I am now proficient across mobile and web development with Objective-C/Swift being my favorite. I also have a working knowledge of Java/Android and M.E.A.N (Mongo, Express, Angular, Node) stack from past projects. I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
         </div>
      </div>
    </div>
@@ -53,7 +52,7 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>After initially considering Consulting/Finance positions out of college and then exploring Digital Marketing and Sales for about 3 years, I wanted to find a career that felt more aligned with my strengths and passion. That initially led me to pursue stand-up comedy (naturally?) and then computer programming. I do consider myself a Generalist with diverse interests and hope to ultimately find a career where I can combine all that I've learned and and think broadly. In early 2015, I became a Software Engineer at the Hackerati, a boutique consulting startup.</p>
+      <p>After initially exploring digital marketing/sales for about 3 years, I decided to find a career more aligned with my strengths and passions as well as the current needs of society. That decision eventually led me to technology (although preceded by a somewhat serious stint as a stand-up comedian!). I do consider myself a Generalist with diverse interests and hope to ultimately find a career where I can combine all that I've learned and think broadly. In early 2015, I became a Software Engineer at the Hackerati, a boutique consulting startup.</p>
       <p>Please refer to <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> for details.</p>
          </div>
       </div>
@@ -66,7 +65,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>I am deeply curious about the future of tech entrepreneurship. I would be very happy working alongside driven entrepreneurs and learning from them. </p>
+      <p>I am deeply curious about the future of tech entrepreneurship. I am happy working alongside driven entrepreneurs and engineers and learning from them. As a big fan of entrepreneurs like Jobs, Cuban, Zuckerberg, Andreessen, Horowitz, Thiel, Hastings, Hoffman, Stoppelman, Graham and many others, I want to get up to speed on both engineering and entrepreneurial knowledge so that I can start my own vision. </p>
       <p>In the short term, I want to keep growing and developing my Engineering skills at a place where I can make an impact. </p>
          </div>
       </div>

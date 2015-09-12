@@ -28,7 +28,7 @@
                 <li>
                     <h3>Nestle Waters - MEAN stack web application for internal employees</h3>
                     <img src="_images/JS_Nestle.png">
-                    <img src="_images/JS_Nestle1.png">
+                    <img src="_images/JS_Nestle2.png">
                 </li>
             <li>
                 <a href="https://bucifer-lifeclock.herokuapp.com/" target="_blank">

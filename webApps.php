@@ -25,12 +25,12 @@
         <a href="https://www.carforo.com" target="_blank"><img src="_images/carforo.png"></a>   
       </li>
       <li>
-        <h3><a href="https://terrysnotes.herokuapp.com/" target="_blank">Rails Project: Terry's Book Notes</h3>
-        <img src="_images/_booknotes.png"></a>
-      </li>
-      <li>
         <h3><a href="https://terrysquotes.herokuapp.com/" target="_blank">Rails Project: Terry's Quotes Database</h3>
         <img src="_images/s1quote.png"></a>
+      </li>
+       <li>
+        <h3><a href="https://terrysnotes.herokuapp.com/" target="_blank">Rails Project: Terry's Book Notes</h3>
+        <img src="_images/_booknotes.png"></a>
       </li>
       <ul>
       </div>

@@ -1,25 +1,17 @@
 @-webkit-keyframes cf3FadeInOut {
-  /* line 2, ../sass/android.scss */
   0% {
     opacity: 1;
   }
-
-  /* line 5, ../sass/android.scss */
   40% {
     opacity: 1;
   }
-
-  /* line 8, ../sass/android.scss */
   80% {
     opacity: 0;
   }
-
-  /* line 11, ../sass/android.scss */
   100% {
     opacity: 0;
   }
 }
-
 /* line 16, ../sass/android.scss */
 #androidImage {
   width: 468px;

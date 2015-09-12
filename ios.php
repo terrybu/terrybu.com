@@ -23,7 +23,7 @@
         <li>
           <h3><a href="https://itunes.apple.com/us/app/up-anonymously-spread-kindness/id985699487?mt=8" target="blank">Up: anonymously spread kindness</a></h3>
           <ul>
-            <li> <img src="_images/iOS_UP.jpeg"></li>
+    <img src="_images/iOS_UP.jpeg" style="max-height: 300px; max-width: 300px;">
             <li>
               Description: Up is a simple app with a huge mission -- to make the world a better place. UP, allows you to anonymously send positive and encouraging messages to your phone contacts. Anonymous kindness is the best kind. It frees the recipient from embarrassment and the burden of feeling any need to reciprocate.
             </li>
@@ -43,14 +43,14 @@
         <li>
           <h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
           <ul>
-            <li> <img src="_images/iOS_jestnotes_icon.jpeg"></li>
+         <img src="_images/iOS_jestnotes_icon.png">
             <li>
               Productivity app for stand-up comics who need to write and organize their jokes and performance sets
             </li>
             <li>
               Rails Web App & iOS integration through Parse.com API backend 
             </li>
-            <li> <img src="_images/iOS_jestnotes_web.jpeg"></li>
+  <img src="_images/iOS_jestnotes_web.png"  style="height: auto; max-width: 500px;">
             <li>
               Core Data Local Caching for Offline Capability. 
             </li>
@@ -59,6 +59,7 @@
         <br>
         <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
         <ul>
+              <img src="_images/iOS_sunlight.png">
           <li>
             Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
           </li>
@@ -70,12 +71,12 @@
         </ul>
         <br>
 
-        <li>
           <h3>
             Trackerati 
           </h3>
           <ul>
             <li>Internal app for The Hackerati for 3rd party contractors and consultants to track, record and report billable hours to clients</li>
+            <br>
             <img src="_images/trackerati.gif" class="reflectorImage">
           </ul>
         </li>
@@ -87,6 +88,7 @@
           </h3>
           <ul>
             <li>Cocoapod library for showing a short video on app launch instead of static launchscreen</li>
+             <br> <img src="_images/splashScreenDemo.gif">
           </ul>
         </li>
 
@@ -99,8 +101,9 @@
           <ul>
             <li>(Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)</li>
           </li>
-        </ul>
+        <br>
         <img src="_images/openFrameworks.gif" class="reflectorImage">
+        </ul>
         <br>
 
         <li>
