@@ -37,49 +37,17 @@
             <li><a href="https://github.com/terrybu/Parallax-Header" target="blank">Parallax UI Header Effect (making your tableview/imageview scroll prettier) </a></li>   
             <br>
             <img src="_images/parallax.gif" class="reflectorImage">
+           </li> 
           </ul>
-        </li> 
-        <br>
-        <li>
-          <h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
-          <ul>
-         <img src="_images/iOS_jestnotes_icon.png">
-            <li>
-              Productivity app for stand-up comics who need to write and organize their jokes and performance sets
-            </li>
-            <li>
-              Rails Web App & iOS integration through Parse.com API backend 
-            </li>
-  <img src="_images/iOS_jestnotes_web.png"  style="height: auto; max-width: 500px;">
-            <li>
-              Core Data Local Caching for Offline Capability. 
-            </li>
-          </ul>
-        </li>
-        <br>
-        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
-        <ul>
-              <img src="_images/iOS_sunlight.png">
-          <li>
-            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
-          </li>
-          <li>Based on Fitzpatrick skin type scale. 
-          </li>
-          <br>
-          <img src="_images/skinType.gif" class="reflectorImage">
 
-        </ul>
         <br>
-
-          <h3>
-            Trackerati 
-          </h3>
+          <li><h3>Trackerati</h3>
           <ul>
             <li>Internal app for The Hackerati for 3rd party contractors and consultants to track, record and report billable hours to clients</li>
             <br>
             <img src="_images/trackerati.gif" class="reflectorImage">
+          </li>
           </ul>
-        </li>
         <br>
 
         <li>
@@ -104,8 +72,42 @@
         <br>
         <img src="_images/openFrameworks.gif" class="reflectorImage">
         </ul>
-        <br>
 
+        <br>
+        <li><h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
+          <ul>
+         <img src="_images/iOS_jestnotes_icon.png">
+            <li>
+              Productivity app for stand-up comics who need to write and organize their jokes and performance sets
+            </li>
+            <li>
+              Rails Web App & iOS integration through Parse.com API backend 
+            </li>
+  <img src="_images/iOS_jestnotes_web.png"  style="height: auto; max-width: 500px;">
+            <li>
+              Core Data Local Caching for Offline Capability. 
+            </li>
+          </ul>
+        </li>
+        <br>
+         <li>
+          <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+        <ul>
+              <img src="_images/iOS_sunlight.png">
+          <li>
+            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
+          </li>
+          <li>Based on Fitzpatrick skin type scale. 
+          </li>
+          <br>
+          <img src="_images/skinType.gif" class="reflectorImage">
+        </li>
+        </ul>
+
+
+
+
+        <br>
         <li>
           <h3>
             <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>

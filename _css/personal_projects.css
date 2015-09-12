@@ -1,0 +1,16 @@
+/* line 1, ../sass/personal_projects.scss */
+#mainContent {
+  clear: both;
+}
+
+/* line 5, ../sass/personal_projects.scss */
+#projectsJavascript {
+  max-width: 1500px;
+  min-width: 1000px;
+  width: 100%;
+}
+
+/* line 11, ../sass/personal_projects.scss */
+#bubbleName {
+  margin-left: 1%;
+}

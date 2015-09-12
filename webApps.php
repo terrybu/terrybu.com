@@ -1,39 +1,43 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <?php include ("_includes/standardHeadImports.php"); ?>
-  <title>Terry Bu - Portfolio Website | Web Apps </title>
-</head>
-<body>
-  <?php include_once("analyticstracking.php") ?>
-  <div class="container">
-    <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
-    <?php include("_includes/gotSocial.php"); ?>
-    <?php include("_includes/welcomeNav.php"); ?>
-  </div>
-  <img src="_images/rubyonrails.png" id="headImageRails">
-
-  <div id="bodyContent">
-    <h1 style="color: #C63B3B">Web Applications</h1>
-    <div class="projectsDiv"  id="projectsRails">
-     <ul>
-      <li>
-        <h3><a href="https://www.carforo.com">CarForo</a>, an Angular/Flask web app that connects consumers with car dealerships to negotiate car purchases online (team of 4) </h3>
-        <a href="https://www.carforo.com" target="_blank"><img src="_images/carforo.png"></a>   
-      </li>
-      <li>
-        <h3><a href="https://terrysquotes.herokuapp.com/" target="_blank">Rails Project: Terry's Quotes Database</h3>
-        <img src="_images/s1quote.png"></a>
-      </li>
-       <li>
-        <h3><a href="https://terrysnotes.herokuapp.com/" target="_blank">Rails Project: Terry's Book Notes</h3>
-        <img src="_images/_booknotes.png"></a>
-      </li>
-      <ul>
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <?php include ("_includes/standardHeadImports.php"); ?>
+      <title>Terry Bu - Portfolio Website | Web Apps </title>
+    </head>
+    <body>
+      <?php include_once("analyticstracking.php") ?>
+      <div class="container">
+        <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
+        <?php include("_includes/gotSocial.php"); ?>
+        <?php include("_includes/welcomeNav.php"); ?>
       </div>
+      <img src="_images/rubyonrails.png" id="headImageRails">
+
+      <div id="bodyContent">
+        <h1 style="color: #C63B3B">Web Applications/Development</h1>
+        <div class="projectsDiv">
+         <ul>
+           <li>
+             <h3>Nestle Waters - MEAN stack web application for Nestle internal employees to report safety issues. Implemented database model using MongoDB and Mongoose + server-side API routes and leveraged bower/npm for libraries such as Node Mailer for emailing and excel exporting capabilities.</h3>
+             <br>
+             <img src="_images/JS_Nestle.png">
+             <img src="_images/JS_Nestle2.png">
+           </li>
+         </ul>
+       </div>    
+       <hr>  
+       <div class="projectsDiv">
+        <ul>
+          <li>
+            <h3><a href="https://www.carforo.com">CarForo</a>, an Angular/Flask web app that connects consumers with car dealerships to negotiate car purchases online (team of 4). Worked across AngularJS, Python Flask backend REST API and features like Facebook posting to pages using Facebook SDK. </h3>
+            <a href="https://www.carforo.com" target="_blank"><img src="_images/carforo.png"></a>   
+          </li>
+        </ul>
+      </div>
+
       <hr> 
       <div class="projectsDiv">
         <ul>
@@ -51,6 +55,15 @@
          </li>
        </ul>
      </div>
+     <hr>
+       <div class="projectsDiv">
+        <ul>
+          <li>
+            <h3><a href="http://www.lifeandstylemag.com/" target="_blank">Bauer Media Life And Style Magazine</a>, Email development using HTML and Sailthru Zephyr</h3>
+            <a href="http://www.lifeandstylemag.com/" target="_blank"><img src="_images/bauerEmail.png"></a>   
+          </li>
+        </ul>
+      </div>
 
    </div> <!-- /bodyContent -->  
 
