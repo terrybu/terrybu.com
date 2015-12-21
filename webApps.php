@@ -17,14 +17,14 @@
       <img src="_images/rubyonrails.png" id="headImageRails">
 
       <div id="bodyContent">
-        <h1 style="color: #C63B3B">Web Applications/Development</h1>
+        <h1 style="color: #C63B3B">Web Application Development</h1>
         <div class="projectsDiv">
          <ul>
            <li>
              <h3>Nestle Waters - MEAN stack web application for Nestle internal employees to report safety issues. Implemented database model using MongoDB and Mongoose + server-side API routes and leveraged bower/npm for libraries such as Node Mailer for emailing and excel exporting capabilities.</h3>
              <br>
-             <img src="_images/JS_Nestle.png">
-             <img src="_images/JS_Nestle2.png">
+             <li><img src="_images/JS_Nestle.png"></li>
+             <li><img src="_images/JS_Nestle2.png"></li>
            </li>
          </ul>
        </div>    
