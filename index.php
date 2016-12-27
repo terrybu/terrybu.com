@@ -27,8 +27,8 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>As impressed as we already are with the exponential advancement in technology (mobile, cloud, IoE) in recent years, I believe we've only scratched the surface. </p>
-          <p>Technology will continue to be the glue that binds information and knowledge across all disciplines. I'm excited by the future where technology and entrepreneurship continue to be more and more closely intertwined, and we are enabled to create and transform things we could not fathom before. </p>
+          <p>As impressed as we already are with the exponential advancement in technology (mobile, AI, IoE) in recent years, I believe we've only scratched the surface. </p>
+          <p>Technology will continue to be the glue that binds knowledge across all disciplines and the driver of progress. I'm excited by the future where technology and entrepreneurship continue to be more and more closely intertwined, and we are enabled to create and transform the future. </p>
          </div>
       </div>
    </div>
@@ -40,7 +40,7 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>After picking up HTML in elementary school, I returned to programming again at age 25. I learned Ruby on Rails and JavaScript through self-study and then iOS mobile development at TurnToTech in NYC. I am now proficient across mobile and web development with Objective-C/Swift being my favorite. I also have a working knowledge of Java/Android and M.E.A.N (Mongo, Express, Angular, Node) stack from past projects. I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
+          <p>After teaching myself HTML in elementary school, I returned to programming again at age 25. I self-studied Ruby on Rails and JavaScript and then learned iOS mobile development through a full-time curriculum at TurnToTech in NYC. I am now proficient across mobile and web development with Swift being my favorite. I also have a working knowledge of Java/Android and M.E.A.N (Mongo, Express, Angular, Node) stack from past projects. I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
         </div>
      </div>
    </div>
@@ -52,7 +52,7 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>After initially exploring digital marketing/sales for about 3 years, I decided to find a career more aligned with my strengths and passions as well as the current needs of society. That decision eventually led me to technology (although preceded by a somewhat serious stint as a stand-up comedian!). I do consider myself a Generalist with diverse interests and hope to ultimately find a career where I can combine all that I've learned and think broadly. In early 2015, I became a Software Engineer at the Hackerati, a boutique consulting startup.</p>
+      <p>In early 2015, I became a Software Engineer at the Hackerati, a boutique consulting startup in NYC that had notable clients like Viacom and Nestle. In later 2015, I was the lead iOS Developer at an early stage startup called Tastii and then moved on to Sogeti, whose client was Johnson &amp; Johnson in Raritan, NJ. My prior background to transitioning into programming was in digital marketing and sales. </p>
       <p>Please refer to <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> for details.</p>
          </div>
       </div>
@@ -65,8 +65,8 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>I am deeply curious about the future of tech entrepreneurship. I am happy working alongside driven entrepreneurs and engineers and learning from them. As a big fan of entrepreneurs like Jobs, Cuban, Zuckerberg, Andreessen, Horowitz, Thiel, Hastings, Hoffman, Stoppelman, Graham and many others, I want to get up to speed on both engineering and entrepreneurial knowledge so that I can start my own vision. </p>
-      <p>In the short term, I want to keep growing and developing my Engineering skills at a place where I can make an impact. </p>
+      <p>I am deeply curious about the future of tech entrepreneurship. I become inspired when I am working alongside driven entrepreneurs and engineers and learning from them. As a big fan of entrepreneurs like Steve Jobs, Mark Cuban, Mark Zuckerberg, Marc Andreessen, Ben Horowitz, Peter Thiel, Reed Hastings, Reid Hoffman, Jeremy Stoppelman, Paul Graham and many others, I want to get up to speed on both engineering and entrepreneurial knowledge so that I can start my own vision. </p>
+      <p>In the short term, I want to keep growing and developing my engineering skills at a place where I can make an impact. </p>
          </div>
       </div>
      </div>

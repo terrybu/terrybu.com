@@ -10,8 +10,7 @@
 	</div>
 
 	<div id="welcome">
-	  <p>Hi, I'm Terry Bu, iOS/Web Developer in NYC. Thank you for visiting. </p>
-	  <p>(On a side note, I'm also a standup comic)</p>
+	  <p>Hi, I'm Terry Bu, iOS/Web Applications Developer. Thank you for visiting my portfolio. </p>
 	  <p><em>Bootstrap, SASS, jQuery and responsive design was used for this website. </em></p>
 	</div>
 
