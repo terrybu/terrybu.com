@@ -4,7 +4,9 @@
 
 <a href="http://www.twitter.com/burownrice" target="_blank" onmouseover="document.getElementById('1up').play()"><img src="_images/icon_twitter.png" alt="terry twitter"></a>
 
-<a href="http://www.facebook.com/JupiterOuroboros" target="_blank" onmouseover="document.getElementById('1up').play()"><img src="_images/icon_facebook.png" alt="terry fb"></a>
+<a href="http://www.youtube.com/burownrice" target="_blank" onmouseover="document.getElementById('1up').play()"><img src="_images/icon_youtube.png" alt="terry youtube"></a>
+
+<a href="http://www.facebook.com/burownrice" target="_blank" onmouseover="document.getElementById('1up').play()"><img src="_images/icon_facebook.png" alt="terry fb"></a>
 
 <a href="http://www.linkedin.com/in/terrybu" target="_blank"><img src="_images/icon_linked.png" alt="terry linkedin" onmouseover="document.getElementById('1up').play()"></a>
 

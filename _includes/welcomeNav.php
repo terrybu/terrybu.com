@@ -2,16 +2,20 @@
 
 <div id='welcomeNav'>
 
-	<div id="logoHello">
-		<a href="index.php">
-		<img class="bottom" src="_images/logo_remake_crossfade.jpg">
-		<img class="top" src="_images/logo_remake_nocross.jpg">
-		</a>
-	</div>
+ <div id="logoHello">
+	<p></p>  
+	   	<p></p>  
+	<p></p>  
+	<p></p>  
+
+ </div>
 
 	<div id="welcome">
-	  <p>Hi, I'm Terry Bu, iOS/Web Applications Developer. Thank you for visiting my portfolio. </p>
-	  <p><em>Bootstrap, SASS, jQuery and responsive design was used for this website. </em></p>
+	  <p><b>Terry Bu</b></p>
+	  <p>Programming Skills: Web, iOS (Swift, Objective-C), Ruby on Rails, JavaScript, CSS 
+	  </p>
+	  <p>Other Skills: Stand-up Comedy, Public Speaking, Digital Marketing, Social Media, Teaching 
+	  </p>
 	</div>
 
 	<div id="nav">

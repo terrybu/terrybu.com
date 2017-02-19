@@ -54,7 +54,6 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>The list of companies I've worked for include ... </p>
       <p>Ogilvy &amp; Mather: Global advertising agency founded by David Ogilvy: Account Management Intern</p>
       <p>Epsilon: Global digital marketing agency with presence in NYC and Boston: Marketing Associate</p>
       <p>Logicalis &amp; Cisco: Cisco Sales Academy 2013, Sales Account Executive </p>
@@ -68,12 +67,14 @@
    <div id="CollapsiblePanel4" class="panel panel-default">
       <div href="#collapseFour" class="panel-heading" id="p4">
          <h4 class="panel-title">
-               <span class='glyphicon glyphicon-eye-open'></span> VISION
+               <span class='glyphicon glyphicon-eye-open'></span> FUTURE VISION
          </h4>
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Let's change the world together ;) </p>
+      <p>My current vision is -3.75 </p>
+      <p>So my future vision would probably be worse</p>
+      <p>JUST KIDDING, JE RIGOLE</p>
          </div>
       </div>
      </div>
