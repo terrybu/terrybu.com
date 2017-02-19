@@ -27,8 +27,7 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>As impressed as we already are with the exponential advancement in technology (mobile, AI, IoE) in recent years, I believe we've only scratched the surface. </p>
-          <p>Technology will continue to be the glue that binds knowledge across all disciplines and the driver of progress. I'm excited by the future where technology and entrepreneurship continue to be more and more closely intertwined, and we are enabled to create and transform the future. </p>
+          <p>Technology binds knowledge across all disciplines and drives progress. The Future will be driven by the Creators and the Movers of Technology. </p>
          </div>
       </div>
    </div>
@@ -40,7 +39,10 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>After teaching myself HTML in elementary school, I returned to programming again at age 25. I self-studied Ruby on Rails and JavaScript and then learned iOS mobile development through a full-time curriculum at TurnToTech in NYC. I am now proficient across mobile and web development with Swift being my favorite. I also have a working knowledge of Java/Android and M.E.A.N (Mongo, Express, Angular, Node) stack from past projects. I graduated with a Bachelor's in Business Administration and a minor in Japanese from UNC - Chapel Hill in 2011. </p>
+          <p>Seoul, South Korea (1988 - 1995): 위례초등학교 </p>
+          <p>Tokyo, Japan (1995 - 1999): 佃島小学校　</p>
+          <p>Connecticut, USA (2000 - 2007): Peck Place Elementary ~ Amity High School </p>
+          <p>Chapel Hill, NC, USA (2007 - 2011): The University of North Carolina at Chapel Hill <br>B.S. in Business Administration with a Minor in Japanese Language </p>
         </div>
      </div>
    </div>
@@ -52,8 +54,14 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>In early 2015, I became a Software Engineer at the Hackerati, a boutique consulting startup in NYC that had notable clients like Viacom and Nestle. In later 2015, I was the lead iOS Developer at an early stage startup called Tastii and then moved on to Sogeti, whose client was Johnson &amp; Johnson in Raritan, NJ. My prior background to transitioning into programming was in digital marketing and sales. </p>
-      <p>Please refer to <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> for details.</p>
+      <p>The list of companies I've worked for include ... </p>
+      <p>Ogilvy &amp; Mather: Global advertising agency founded by David Ogilvy: Account Management Intern</p>
+      <p>Epsilon: Global digital marketing agency with presence in NYC and Boston: Marketing Associate</p>
+      <p>Logicalis &amp; Cisco: Cisco Sales Academy 2013, Sales Account Executive </p>
+      <p>Hackerati: A boutique consulting company for web and mobile software, Software Engineer</p>
+      <p>Tastii: Lead iOS Engineer </p>
+      <p>Sogeti: Sr. iOS Consultant for Johnson &amp; Johnson</p>
+      <p>Please refer to my <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
          </div>
       </div>
    </div>
@@ -65,8 +73,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>I am deeply curious about the future of tech entrepreneurship. I become inspired when I am working alongside driven entrepreneurs and engineers and learning from them. As a big fan of entrepreneurs like Steve Jobs, Mark Cuban, Mark Zuckerberg, Marc Andreessen, Ben Horowitz, Peter Thiel, Reed Hastings, Reid Hoffman, Jeremy Stoppelman, Paul Graham and many others, I want to get up to speed on both engineering and entrepreneurial knowledge so that I can start my own vision. </p>
-      <p>In the short term, I want to keep growing and developing my engineering skills at a place where I can make an impact. </p>
+      <p>Let's change the world together ;) </p>
          </div>
       </div>
      </div>
