@@ -12,9 +12,9 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Programming Skills: Web, iOS (Swift, Objective-C), Ruby on Rails, JavaScript, CSS 
+	  <p>Programming Skills: Web Dev, iOS, JavaScript, CSS, Ruby on Rails 
 	  </p>
-	  <p>Other Skills: Stand-up Comedy, Public Speaking, Digital Marketing, Social Media, Teaching 
+	  <p>Other Skills: Stand-up Comedy, Private Coach for Public Speaking, Digital Marketing
 	  </p>
 	</div>
 

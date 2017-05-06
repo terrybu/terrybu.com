@@ -54,12 +54,13 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Global advertising agency founded by David Ogilvy: Account Management Intern</p>
-      <p>Epsilon: Global digital marketing agency with presence in NYC and Boston: Marketing Associate</p>
-      <p>Logicalis &amp; Cisco: Cisco Sales Academy 2013, Sales Account Executive </p>
-      <p>Hackerati: A boutique consulting company for web and mobile software, Software Engineer</p>
+      <p>Ogilvy &amp; Mather: Account Management Intern</p>
+      <p>Epsilon: Digital marketing agency in NYC and Boston. Marketing Associate</p>
+      <p>Logicalis: Cisco Sales Academy 2013. IT Sales Account Executive </p>
+      <p>Hackerati: Software Engineer</p>
       <p>Tastii: Lead iOS Engineer </p>
-      <p>Sogeti: Sr. iOS Consultant for Johnson &amp; Johnson</p>
+      <p>Sogeti: Sr. iOS Consultant for client Johnson &amp; Johnson</p>
+      <p>Verizon: iOS Engineer</p>
       <p>Please refer to my <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
          </div>
       </div>
