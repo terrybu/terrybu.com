@@ -12,9 +12,11 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Programming Skills: Web Dev, iOS, JavaScript, CSS, Ruby on Rails 
+	  <p>Programming Skills: iOS (Swift, Objective-C), Web Development, JavaScript, CSS, RoR 
 	  </p>
-	  <p>Other Skills: Stand-up Comedy, Private Coach for Public Speaking, Digital Marketing
+	  <p>Other Skills: 1-on-1 coach for Public-Speaking, Stand-Up Comedy</p>
+	  <p>
+	  	  Please refer to <a href="https://about.me/terrybu">https://about.me/terrybu</a> if you'd like to book public-speaking coaching sessions.  
 	  </p>
 	</div>
 
@@ -31,7 +33,7 @@
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
 	      </ul>
 	    </li>
-	    <li><a href="http://terrybu.blogspot.com" target="blank"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a>    </li>
+	    <li><a href="http://terrybububu.blogspot.com" target="blank"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a>    </li>
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
 	  </ul>
 	</div>
