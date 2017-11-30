@@ -72,10 +72,6 @@
      </div>
     </div> <!-- /bodyContent -->  
 
-<!-- START OF HIT COUNTER CODE -->
-<br><script language="JavaScript" src="http://www.counter160.com/js.js?img=3"></script><br><a href="http://www.000webhost.com"><img src="http://www.counter160.com/images/3/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/3/right.png" border="0" align="texttop"></a>
-<!-- END OF HIT COUNTER CODE -->
-
   </div> <!-- /container -->  
   <?php include("_includes/viewSizeDisplay.php"); ?>
 
