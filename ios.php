@@ -20,10 +20,47 @@
     <h1 style="color: blue; clear: both;">iOS</h1>
     <div id="projectsDiviOS">
       <ul id="iosBullets"> 
+
+        <li>
+          <h3><a href="https://itunes.apple.com/us/app/win2/id1280580526?ls=1&mt=8" target="blank">Win2 Church App</a></h3>
+          <ul>
+            <img src="_images/win2icon.png" style="max-height: 300px; max-width: 300px;">
+            <li>
+             I was part of a volunteer app-development project that developed this Swift iOS App for local NYC church located called Onnuri. THe purpose of the app was to help various youth groups within the church to keep upto date with latest events and collaborate together. We worked in a small team comprised of 1 UX Designer, 1 UI Designer, 1 Project Manager, 1 Android Developer and me as the iOS Developer. I pitched the initial idea to church leadership and was responsible for kickoff of the project. 
+            </li>
+            <li>
+            300+ installs through App Store. 100 User Signups. 
+            </li>
+            <li>
+             I leveraged popular libraries such as FBSDKCoreKit, Firebase and many others. 
+            </li>
+            <li>
+              <a href="http://vision.onnuri.org/in2/" target="blank">http://vision.onnuri.org/in2/</a>
+            </li>
+            <li>
+              <img src="_images/win21.png" style="max-height: 300px; max-width: 300px;">
+            </li>
+            <li>
+              <img src="_images/win22.png" style="max-height: 300px; max-width: 300px;">
+            </li>
+            <li>
+              <img src="_images/win23.png" style="max-height: 300px; max-width: 300px;">
+            </li>
+            <li>
+              <img src="_images/win24.png" style="max-height: 300px; max-width: 300px;">
+            </li>
+            <li>
+            <img src="_images/win25.png" style="max-height: 300px; max-width: 300px;">
+            </li>
+            <br>
+          </li> 
+        </ul>
+        <br>
+
         <li>
           <h3><a href="https://itunes.apple.com/us/app/up-anonymously-spread-kindness/id985699487?mt=8" target="blank">Up: anonymously spread kindness</a></h3>
           <ul>
-    <img src="_images/iOS_UP.jpeg" style="max-height: 300px; max-width: 300px;">
+            <img src="_images/iOS_UP.jpeg" style="max-height: 300px; max-width: 300px;">
             <li>
               Description: Up is a simple app with a huge mission -- to make the world a better place. UP, allows you to anonymously send positive and encouraging messages to your phone contacts. Anonymous kindness is the best kind. It frees the recipient from embarrassment and the burden of feeling any need to reciprocate.
             </li>
@@ -37,17 +74,17 @@
             <li><a href="https://github.com/terrybu/Parallax-Header" target="blank">Parallax UI Header Effect (making your tableview/imageview scroll prettier) </a></li>   
             <br>
             <img src="_images/parallax.gif" class="reflectorImage">
-           </li> 
-          </ul>
-
+          </li> 
+        </ul>
         <br>
-          <li><h3>Trackerati</h3>
+
+        <li><h3>Trackerati</h3>
           <ul>
             <li>Internal app for The Hackerati for 3rd party contractors and consultants to track, record and report billable hours to clients</li>
             <br>
             <img src="_images/trackerati.gif" class="reflectorImage">
           </li>
-          </ul>
+        </ul>
         <br>
 
         <li>
@@ -56,7 +93,7 @@
           </h3>
           <ul>
             <li>Cocoapod library for showing a short video on app launch instead of static launchscreen</li>
-             <br> <img src="_images/splashScreenDemo.gif">
+            <br> <img src="_images/splashScreenDemo.gif">
           </ul>
         </li>
 
@@ -69,31 +106,31 @@
           <ul>
             <li>(Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)</li>
           </li>
-        <br>
-        <img src="_images/openFrameworks.gif" class="reflectorImage">
+          <br>
+          <img src="_images/openFrameworks.gif" class="reflectorImage">
         </ul>
 
         <br>
         <li><h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
           <ul>
-         <img src="_images/iOS_jestnotes_icon.png">
-            <li>
-              Productivity app for stand-up comics who need to write and organize their jokes and performance sets
-            </li>
-            <li>
-              Rails Web App & iOS integration through Parse.com API backend 
-            </li>
-  <img src="_images/iOS_jestnotes_web.png"  style="height: auto; max-width: 500px;">
-            <li>
-              Core Data Local Caching for Offline Capability. 
-            </li>
-          </ul>
-        </li>
-        <br>
-         <li>
-          <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+           <img src="_images/iOS_jestnotes_icon.png">
+           <li>
+            Productivity app for stand-up comics who need to write and organize their jokes and performance sets
+          </li>
+          <li>
+            Rails Web App & iOS integration through Parse.com API backend 
+          </li>
+          <img src="_images/iOS_jestnotes_web.png"  style="height: auto; max-width: 500px;">
+          <li>
+            Core Data Local Caching for Offline Capability. 
+          </li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
         <ul>
-              <img src="_images/iOS_sunlight.png">
+          <img src="_images/iOS_sunlight.png">
           <li>
             Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
           </li>
@@ -102,27 +139,27 @@
           <br>
           <img src="_images/skinType.gif" class="reflectorImage">
         </li>
-        </ul>
-
-
-
-
-        <br>
-        <li>
-          <h3>
-            <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>
-          </h3>
-        </li>
-
-
       </ul>
-    </div>
 
-  </div> <!-- /bodyContent -->  
 
-  <!-- START OF HIT COUNTER CODE -->
-  <br><script language="JavaScript" src="http://www.counter160.com/js.js?img=3"></script><br><a href="http://www.000webhost.com"><img src="http://www.counter160.com/images/3/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/3/right.png" border="0" align="texttop"></a>
-  <!-- END OF HIT COUNTER CODE -->
+
+
+      <br>
+      <li>
+        <h3>
+          <a href="https://github.com/terrybu/YelpAPIOnMapViewARC" target="_blank">Yelp API (Forked existing Github repo and enabled ARC)</a>
+        </h3>
+      </li>
+
+
+    </ul>
+  </div>
+
+</div> <!-- /bodyContent -->  
+
+<!-- START OF HIT COUNTER CODE -->
+<br><script language="JavaScript" src="http://www.counter160.com/js.js?img=3"></script><br><a href="http://www.000webhost.com"><img src="http://www.counter160.com/images/3/left.png" alt="Free web hosting" border="0" align="texttop"></a><a href="http://www.hosting24.com"><img alt="Web hosting" src="http://www.counter160.com/images/3/right.png" border="0" align="texttop"></a>
+<!-- END OF HIT COUNTER CODE -->
 
 </div> <!-- /container -->  
 
