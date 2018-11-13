@@ -7,16 +7,12 @@
 	   	<p></p>  
 	<p></p>  
 	<p></p>  
-
  </div>
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Programming Skills: iOS (Swift, Objective-C), Web Development, JavaScript, CSS, RoR 
-	  </p>
-	  <p>Other Skills: 1-on-1 coach for Public-Speaking, Stand-Up Comedy</p>
-	  <p>
-	  	  Please refer to <a href="https://about.me/terrybu">https://about.me/terrybu</a> if you'd like to book public-speaking coaching sessions.  
+	  <p>Programmer, Group Organizer, Writer, Startup Enthusiast</p>
+	  <p>Other Skills: Stand-Up Comedy</p>
 	  </p>
 	</div>
 
