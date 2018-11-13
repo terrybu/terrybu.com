@@ -39,10 +39,10 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>Seoul, South Korea (1988 - 1995): 위례초등학교 </p>
-          <p>Tokyo, Japan (1995 - 1999): 佃島小学校　</p>
-          <p>Connecticut, USA (2000 - 2007): Peck Place Elementary ~ Amity High School </p>
-          <p>Chapel Hill, NC, USA (2007 - 2011): The University of North Carolina at Chapel Hill <br>B.S. in Business Administration with a Minor in Japanese </p>
+          <p>Seoul, South Korea (1988 - 1995)</p>
+          <p>Tokyo, Japan (1995 - 1999)</p>
+          <p>Connecticut (2000 - 2007)</p>
+          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill <br>B.S. in Business Administration with a Minor in Japanese </p>
         </div>
      </div>
    </div>
@@ -54,28 +54,27 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management Intern</p>
-      <p>Epsilon: Digital/Data Marketing agency. Marketing Associate</p>
+      <p>Ogilvy &amp; Mather: Account Management</p>
+      <p>Epsilon: Digital Marketing agency. Marketing Associate</p>
       <p>Logicalis: B2B Cloud Services. Account Executive </p>
-      <p>Hackerati: Software Engineer </p>
-      <p>Tastii:  Seed startup. Lead iOS Engineer</p>
+      <p>Hackerati: Software Engineer</p>
+      <p>Tastii: Lead iOS Engineer</p>
       <p>Sogeti: Sr. iOS Consultant for Johnson &amp; Johnson</p>
-      <p>Verizon: iOS Developer </p>
-      <p>Please refer to my <a href="http://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
+      <p>Verizon: iOS Developer</p>
+      <p>Payfone: Sales Engineer</p>
+      <p>Please refer to my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
          </div>
       </div>
    </div>
    <div id="CollapsiblePanel4" class="panel panel-default">
       <div href="#collapseFour" class="panel-heading" id="p4">
          <h4 class="panel-title">
-               <span class='glyphicon glyphicon-eye-open'></span> FUTURE VISION
+               <span class='glyphicon glyphicon-eye-open'></span> CURRENT GOALS
          </h4>
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>My current vision is -3.75 </p>
-      <p>So my future vision would probably be worse</p>
-      <p>JUST KIDDING</p>
+      <p>To be able to challenge the status quo and help others</p>
          </div>
       </div>
      </div>

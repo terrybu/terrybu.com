@@ -18,7 +18,7 @@ ini_set('display_errors', 'On');
 
  // you can specify which email you want your contact form to be emailed to here
 
-  $toemail = "burea1124@gmail.com";
+  $toemail = "terrybu88@gmail.com";
   $subject = "from terrybu.com";
 
   $headers = "MIME-Version: 1.0\n"
