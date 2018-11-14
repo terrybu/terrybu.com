@@ -11,7 +11,7 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Programmer, Group Organizer, Writer, Startup Enthusiast</p>
+	  <p>Programmer, Meetup Organizer, Writer, Startup Enthuasiast, Aspiring Entrepreneur</p>
 	  <p>Other Skills: Stand-Up Comedy</p>
 	  </p>
 	</div>
