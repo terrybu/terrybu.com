@@ -1,0 +1,11 @@
+
+
+6/13/2015
+000webhost is giving me headaches.
+I thought that formmail contact form was working for the longest time, and it looks like it's working, but instead, it just doesn't send the email to me. 
+stackoverflow says that 000webhost free version doesn't support formmail using php?
+
+
+11/15/2014
+Php includes were giving me a headache. 
+For example, if you move all your project files to a folder named ¡°portfolio¡± and just re-organize your folder structure, it won¡¯t work, php complaining about the paths of includes and etc. I tried doing absolute path and etc, but it was hassle so gave up. 
