@@ -20,12 +20,15 @@
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>
       <?php include("_includes/welcomeNav.php"); ?>
-      <?php include("_includes/kyotoImage.php"); ?>
+      <?php include("_includes/mainLandingLeftImage.php"); ?>
 
 <div id="bodyContent">
-<h1>Contact Terry</h1>
+  <br>
+  <br>
+  <br>
   <p align='center'>Please email me at <a href="mailto:terrybu88@gmail.com" target="_blank">terrybu88@gmail.com</a>
   </p>
+
 <!-- <div id="large">
 
 <div id="mapCanvas"></div>

@@ -14,7 +14,7 @@
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>
       <?php include("_includes/welcomeNav.php"); ?>
-      <?php include("_includes/kyotoImage.php"); ?>
+      <?php include("_includes/mainLandingLeftImage.php"); ?>
 
   <div id="bodyContent">
     <div class="panel-group" id="accordion">
@@ -27,7 +27,8 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology binds knowledge across multiple disciplines and drives global progress. The Future will be driven by the Creators and the Movers of Technology. I would love to play a role in that movement. </p>
+          <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely driven by the creators and the movers of technology. </p>
+          <p>But there is something very distasteful about "tech bros" so I try to stay away from that stereotype ;) </p>
          </div>
       </div>
    </div>
@@ -41,8 +42,8 @@
         <div class="panel-body">
           <p>Seoul, South Korea (1988 - 1995)</p>
           <p>Tokyo, Japan (1995 - 1999)</p>
-          <p>Connecticut (2000 - 2007)</p>
-          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill <br>B.S. in Business Administration with a Minor in Japanese </p>
+          <p>Connecticut (2000 - 2007): Amity High School</p>
+          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Bachelor's Degree in Business. Keio Study Abroad 
         </div>
      </div>
    </div>
@@ -74,7 +75,8 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>To be able to challenge the status quo and help others</p>
+      <p>To be able to challenge the status quo and help others. </p>
+      <p>But first, I gotta level up a little bit. </p>
          </div>
       </div>
      </div>

@@ -68,12 +68,12 @@ body:after {
 #gotSocial span {
   font-family: 'gotmilk';
   font-size: 3.5em;
-  margin-top: -3.5%;
+  margin-top: -2.5%;
   display: inline-block;
 }
 /* line 60, ../sass/_base.scss */
 #gotSocial img {
-  margin-top: -7%;
+  margin-top: -5.5%;
 }
 
 /* ROTATING MY SOCIAL MEDIA ICONS EFFECT ON HOVER */
@@ -294,13 +294,17 @@ h1 {
 
 /* END NameLogo&Welcome.php */
 /* line 36, ../sass/application.scss */
-#kyotoImage {
-  width: 380px;
-  height: 480px;
+
+
+#mainLandingLeftImage {
+
 }
-/* line 40, ../sass/application.scss */
-#kyotoImage img {
-  border: 5px black solid;
+
+#mainLandingLeftImage img {
+  width: 250px;
+  height: 250px;
+  border: 4px black solid;
+  float: right;
 }
 
 /* line 45, ../sass/application.scss */
@@ -308,6 +312,10 @@ h1 {
   width: 100%;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.container img {
+  margin-top: 100px;
 }
 
 /* line 52, ../sass/application.scss */

@@ -22,7 +22,7 @@
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>
       <?php include("_includes/welcomeNav.php"); ?>
-      <?php include("_includes/kyotoImage.php"); ?>
+      <?php include("_includes/mainLandingLeftImage.php"); ?>
   </div>
 
 <div id="bodyContent">
