@@ -42,8 +42,9 @@
         <div class="panel-body">
           <p>Seoul, South Korea (1988 - 1995)</p>
           <p>Tokyo, Japan (1995 - 1999)</p>
-          <p>Connecticut (2000 - 2007): Amity High School</p>
-          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Bachelor's Degree in Business. Keio Study Abroad 
+          <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
+          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Bachelor's Degree in Business. Keio Study Abroad </p>
+          <p>New York, NY (2014-2015): TurnToTech Full-Time iOS Immersive Program in Mobile Applications and Software Development
         </div>
      </div>
    </div>
@@ -56,11 +57,9 @@
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
       <p>Ogilvy &amp; Mather: Account Management</p>
-      <p>Epsilon: Digital Marketing agency. Marketing Associate</p>
+      <p>Epsilon: Data-Driven Digital Marketing Agency. Marketing Associate</p>
       <p>Logicalis: B2B Cloud Services. Account Executive </p>
       <p>Hackerati: Software Engineer</p>
-      <p>Tastii: Lead iOS Engineer</p>
-      <p>Sogeti: Sr. iOS Consultant for Johnson &amp; Johnson</p>
       <p>Verizon: iOS Developer</p>
       <p>Payfone: Sales Engineer</p>
       <p>Please refer to my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
@@ -76,7 +75,7 @@
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
       <p>To be able to challenge the status quo and help others. </p>
-      <p>But first, I gotta level up a little bit. </p>
+      <p>But I need a lot of help before I can do that ;) </p>
          </div>
       </div>
      </div>
