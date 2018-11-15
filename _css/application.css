@@ -68,12 +68,12 @@ body:after {
 #gotSocial span {
   font-family: 'gotmilk';
   font-size: 3.5em;
-  margin-top: -2.5%;
+  margin-top: -3.5%;
   display: inline-block;
 }
 /* line 60, ../sass/_base.scss */
 #gotSocial img {
-  margin-top: -5.5%;
+  margin-top: -7%;
 }
 
 /* ROTATING MY SOCIAL MEDIA ICONS EFFECT ON HOVER */
@@ -290,21 +290,34 @@ h1 {
   clear: both;
   font-family: Verdana, Geneva, sans-serif;
   text-size: 2em;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
 }
 
 /* END NameLogo&Welcome.php */
-/* line 36, ../sass/application.scss */
-
-
-#mainLandingLeftImage {
-
-}
-
+/* line 37, ../sass/application.scss */
 #mainLandingLeftImage img {
   width: 250px;
   height: 250px;
   border: 4px black solid;
   float: right;
+}
+/* line 26, ../sass/_base.scss */
+#mainLandingLeftImage img img {
+  position: absolute;
+  opacity: 1;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+/* line 35, ../sass/_base.scss */
+#mainLandingLeftImage img img.top:hover {
+  opacity: 0;
+}
+/* line 39, ../sass/_base.scss */
+#mainLandingLeftImage img img.placeholder {
+  position: relative;
+  visibility: hidden;
 }
 
 /* line 45, ../sass/application.scss */
@@ -312,10 +325,6 @@ h1 {
   width: 100%;
   margin-top: 10px;
   margin-bottom: 10px;
-}
-
-.container img {
-  margin-top: 100px;
 }
 
 /* line 52, ../sass/application.scss */
@@ -416,13 +425,6 @@ h1 {
 .reflectorImage {
   width: 640px;
   height: 320px;
-}
-
-#terryProfilePic img {
-  width: 300px;
-  height: 300px;
-  overflow: hidden;
-  border-radius:50%;
 }
 
 /* SIZE DISPLAY DIFFERENCES */

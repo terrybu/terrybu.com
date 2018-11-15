@@ -33,13 +33,13 @@ h1 {
 }
 /* END NameLogo&Welcome.php */
 
-#kyotoImage {
-    width: 380px;
-    height: 480px;
+
+#mainLandingLeftImage img {
+    width: 250px;
+    height: 250px;
     @include transformImage;
-        img {
-        border: 5px black solid;
-        }
+    border: 4px black solid;
+    float: right; 
 }
 
 .container {
