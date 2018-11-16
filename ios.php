@@ -24,9 +24,9 @@
         <li>
           <h3><a href="https://itunes.apple.com/us/app/win2/id1280580526?ls=1&mt=8" target="blank">Win2 Church App</a></h3>
           <ul>
-            <img src="_images/win2icon.png" style="max-height: 300px; max-width: 300px;">
+            <img src="_images/win2Logo.png" style="max-height: 300px; max-width: 300px;">
             <li>
-             I was part of a volunteer app-development project that developed this Swift iOS App for local NYC church located called Onnuri. THe purpose of the app was to help various youth groups within the church to keep upto date with latest events and collaborate together. We worked in a small team comprised of 1 UX Designer, 1 UI Designer, 1 Project Manager, 1 Android Developer and me as the iOS Developer. I pitched the initial idea to church leadership and was responsible for kickoff of the project. 
+             Between April of 2015 to March of 2016, I founded and led a mobile app development project at a local Korean-American Christian community called Onnuri. The purpose of the app was to help various youth groups within the church to keep up-to date with latest events and collaborate together. We worked in a small team comprised of 1 UX Designer, 1 UI Designer, 1 Project Manager, 1 Android Developer and me as the iOS Developer. I pitched the initial idea to church leadership and was responsible for kickoff of the project. 
             </li>
             <li>
             300+ installs through App Store. 100 User Signups. 
@@ -38,21 +38,14 @@
               <a href="http://vision.onnuri.org/in2/" target="blank">http://vision.onnuri.org/in2/</a>
             </li>
             <li>
-              <img src="_images/win21.png" style="max-height: 300px; max-width: 300px;">
+              <img src="_images/win2LandingPage.png" style="max-height: 300px; max-width: 300px;">
             </li>
             <li>
-              <img src="_images/win22.png" style="max-height: 300px; max-width: 300px;">
+              <img src="_images/win2Menu.png" style="max-height: 300px; max-width: 300px;">
             </li>
             <li>
-              <img src="_images/win23.png" style="max-height: 300px; max-width: 300px;">
+              <img src="_images/win2Gallery.png" style="max-height: 300px; max-width: 300px;">
             </li>
-            <li>
-              <img src="_images/win24.png" style="max-height: 300px; max-width: 300px;">
-            </li>
-            <li>
-            <img src="_images/win25.png" style="max-height: 300px; max-width: 300px;">
-            </li>
-            <br>
           </li> 
         </ul>
         <br>
