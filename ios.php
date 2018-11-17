@@ -22,7 +22,7 @@
       <ul id="iosBullets"> 
 
         <li>
-          <h3><a href="https://itunes.apple.com/us/app/win2/id1280580526?ls=1&mt=8" target="blank">Win2 Church App</a></h3>
+          <h3><a href="https://itunes.apple.com/us/app/win2/id1280580526?ls=1&mt=8" target="blank">Win2</a></h3>
           <ul>
             <img src="_images/win2Logo.png" style="max-height: 300px; max-width: 300px;">
             <li>
@@ -49,17 +49,7 @@
           </li> 
         </ul>
         <br>
-
-        <li>
-          <h3><a href="https://itunes.apple.com/us/app/up-anonymously-spread-kindness/id985699487?mt=8" target="blank">Up: anonymously spread kindness</a></h3>
-          <ul>
-            <img src="_images/iOS_UP.jpeg" style="max-height: 300px; max-width: 300px;">
-            <li>
-              Description: Up is a simple app with a huge mission -- to make the world a better place. UP, allows you to anonymously send positive and encouraging messages to your phone contacts. Anonymous kindness is the best kind. It frees the recipient from embarrassment and the burden of feeling any need to reciprocate.
-            </li>
-            <li>
-              <a href="http://wakeupuseup.com/" target="blank">http://wakeupuseup.com</a>
-            </li>
+        <ul>
             <li>
               <a href="https://github.com/terrybu/javaAtTurnToTech" target="blank">Notifications Queue/Event Processor Back-End System using APNS, Java, Pushy and Redis</a>
             </li>
@@ -67,7 +57,6 @@
             <li><a href="https://github.com/terrybu/Parallax-Header" target="blank">Parallax UI Header Effect (making your tableview/imageview scroll prettier) </a></li>   
             <br>
             <img src="_images/parallax.gif" class="reflectorImage">
-          </li> 
         </ul>
         <br>
 
@@ -104,7 +93,7 @@
         </ul>
 
         <br>
-        <li><h3><a href="https://itunes.apple.com/us/app/jest-notes/id956914230?mt=8s" target="blank">Jest Notes</a></h3>
+        <li><h3>Jest Notes</h3>
           <ul>
            <img src="_images/iOS_jestnotes_icon.png">
            <li>
