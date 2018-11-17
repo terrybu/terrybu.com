@@ -25,7 +25,7 @@
 <div id="bodyContent" style="clear: both;">
 	<hr>
 	<div id="androidApps">
-	<h1><a href="https://play.google.com/store/apps/details?id=com.bucifer.lifeclock_english" target="_blank">24-Hour Life Age Clock (English + Korean) </a></h1>
+	<h1>24-Hour Life Age Clock (English + Korean)</h1>
   <ul>
     <li>See your life in a 80-year journey and see how that compares to where you are at in a 24-hour clock</li>
     <li><a href="https://play.google.com/store/apps/details?id=com.bucifer.lifeclock" target="_blank">Korean Version: 아프니까 인생시계</a></li>
