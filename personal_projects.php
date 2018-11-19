@@ -5,7 +5,7 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <?php include ("_includes/standardHeadImports.php"); ?>
- <script type="text/javascript" src="http://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
+ <script type="text/javascript" src="https://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
  <link href="_css/personal_projects.css" rel="stylesheet" type="text/css">
  <link rel="stylesheet" type="text/css" href="_css/colorbox.css">
  <title>Terry Bu - Portfolio Website | Personal Projects (Rails, JS)</title>
