@@ -28,7 +28,6 @@
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
           <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely driven by the creators and the movers of technology. </p>
-          <p>But there is something very distasteful about "tech bros" so I try to stay away from that stereotype ;) </p>
          </div>
       </div>
    </div>
