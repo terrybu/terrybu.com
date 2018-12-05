@@ -4,11 +4,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<?php include ("_includes/standardHeadImports.php"); ?>
+	<?php include ("_includes/standardHeadImports.php"); ?>
   <title>Terry Bu - Portfolio Website | Home</title>
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
 
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>

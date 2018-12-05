@@ -11,7 +11,6 @@
  <title>Terry Bu - Portfolio Website | Personal Projects (Rails, JS)</title>
 </head>
 <body>
-    <?php include_once("analyticstracking.php") ?>
 
     <!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
     <div class="container">

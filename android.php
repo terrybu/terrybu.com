@@ -4,14 +4,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<?php include ("_includes/standardHeadImports.php"); ?>
+  <?php include ("_includes/standardHeadImports.php"); ?>
   <link href="_css/android.css" rel="stylesheet" type="text/css">
-
   <title>Terry Bu - Portfolio Website | Android </title>
-  <!--[if lt IE 9]><script src="/js/vendor/html5-3.6-respond-1.1.0.min.js"></script><![endif]-->
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
     <?php include("_includes/gotSocial.php"); ?>
