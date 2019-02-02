@@ -6,6 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <?php include ("_includes/standardHeadImports.php"); ?>
       <title>Terry Bu - Portfolio Website | Web Apps </title>
+      <?php include_once("analyticstracking.php") ?>
     </head>
     <body>
       <?php include_once("analyticstracking.php") ?>

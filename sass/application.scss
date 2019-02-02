@@ -29,7 +29,7 @@ h1 {
     clear: both;
     font-family: Verdana, Geneva, sans-serif;
     text-size: 2em;
-    text-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+    text-shadow: 0.5px 0.5px 4px rgba(0,0,0,0.2);
 }
 /* END NameLogo&Welcome.php */
 
@@ -145,6 +145,10 @@ h1 {
 .reflectorImage {
     width: 640px;
     height: 320px;
+}
+
+#gotSocial {
+    margin-top: 7.0px;
 }
 
 /* SIZE DISPLAY DIFFERENCES */

@@ -4,11 +4,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<?php include ("_includes/standardHeadImports.php"); ?>
+	<?php include ("_includes/standardHeadImports.php"); ?>
   <title>Terry Bu - Portfolio Website | Home</title>
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
 
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
@@ -27,8 +26,9 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely driven by the creators and the movers of technology. </p>
-          <p>But there is something very distasteful about "tech bros" so I try to stay away from that stereotype ;) </p>
+          <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely impacted by the creators and the movers of technology. </p>
+          <p>I also believe that not all technology is created equal. Perhaps it's the human purpose behind the creation and the correct application of its power that dictates its value and usefulness. We can create new tools and leverage its power to either hoard knowledge for the few, or to spread informational freedom to every person in the world. </p>
+          <p>I look forward to a future where a even higher level of knowledge transfer is possible to allow for complete transparency into all industries of the world, where we work together to define and pursue the truth and informational accuracy in all things. </p>
          </div>
       </div>
    </div>
@@ -44,7 +44,7 @@
           <p>Tokyo, Japan (1995 - 1999)</p>
           <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
           <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Bachelor's Degree in Business. Keio Study Abroad </p>
-          <p>New York, NY (2014-2015): TurnToTech Full-Time iOS Immersive Program in Mobile Applications and Software Development
+          <p>New York, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering
         </div>
      </div>
    </div>
@@ -74,8 +74,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>To be able to challenge the status quo and help others. </p>
-      <p>But I need a lot of help before I can do that ;) </p>
+      <p>To be able to challenge the status quo and create new ways to benefit the collective society. </p>
          </div>
       </div>
      </div>

@@ -8,7 +8,6 @@
   <title>Terry Bu - Portfolio Website | iOS </title>
 </head>
 <body>
-  <?php include_once("analyticstracking.php") ?>
 
   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
