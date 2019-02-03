@@ -26,9 +26,8 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely impacted by the creators and the movers of technology. </p>
-          <p>I also believe that not all technology is created equal. Perhaps it's the human purpose behind the creation and the correct application of its power that dictates its value and usefulness. We can create new tools and leverage its power to either hoard knowledge for the few, or to spread informational freedom to every person in the world. </p>
-          <p>I look forward to a future where a even higher level of knowledge transfer is possible to allow for complete transparency into all industries of the world, where we work together to define and pursue the truth and informational accuracy in all things. </p>
+          <p>Technology binds knowledge across multiple disciplines and drives global progress and innovation. I believe the future will be largely impacted by the creators and the movers of technology. That's why I was inspired to add computer programming to my skill set after graduating from undergraduate business school.</p>
+          <p>I look forward to a future where a even higher level of knowledge transfer is possible to allow for complete transparency into all industries of the world and allow people to collaborate in ways never imagined before to create new value. </p>
          </div>
       </div>
    </div>
@@ -43,8 +42,8 @@
           <p>Seoul, South Korea (1988 - 1995)</p>
           <p>Tokyo, Japan (1995 - 1999)</p>
           <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
-          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Bachelor's Degree in Business. Keio Study Abroad </p>
-          <p>New York, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering
+          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill - Bachelor's Degree in Business Administration from Kenan-Flagler Business School</p>
+          <p>New York, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
         </div>
      </div>
    </div>
@@ -56,10 +55,11 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management</p>
-      <p>Epsilon: Data-Driven Digital Marketing Agency. Marketing Associate</p>
-      <p>Logicalis: B2B Cloud Services. Account Executive </p>
+      <p>Ogilvy &amp; Mather: Account Management Intern</p>
+      <p>Epsilon: Digital Marketing Associate</p>
+      <p>Logicalis: B2B Sales Account Executive. Graduate of Cisco Partner Sales Academy</p>
       <p>Hackerati: Software Engineer</p>
+      <p>Tastii: Lead iOS Engineer</p>
       <p>Verizon: iOS Developer</p>
       <p>Payfone: Sales Engineer</p>
       <p>Please refer to my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
@@ -69,12 +69,12 @@
    <div id="CollapsiblePanel4" class="panel panel-default">
       <div href="#collapseFour" class="panel-heading" id="p4">
          <h4 class="panel-title">
-               <span class='glyphicon glyphicon-eye-open'></span> CURRENT GOALS
+               <span class='glyphicon glyphicon-eye-open'></span> VISION
          </h4>
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>To be able to challenge the status quo and create new ways to benefit the collective society. </p>
+      <p>Currently I am deeply involved in my sales engineering role at one of the fastest-growing digital identity technology companies in the country. My current focus is to keep growing and evolving as a versatile technologist and a business communicator that can help make a strong impact in any organization. I attribute my growth to great mentors I've met at my current role.</p>
          </div>
       </div>
      </div>

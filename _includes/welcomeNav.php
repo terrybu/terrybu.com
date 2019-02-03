@@ -11,8 +11,7 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Meetup Organizer, Writer, Programmer, Startup Enthuasiast, Aspiring Entrepreneur</p>
-	  <p>Other Skills: Stand-Up Comedy</p>
+	  <p>Thank you for visiting my website.</p>
 	  </p>
 	</div>
 
@@ -29,7 +28,7 @@
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
 	      </ul>
 	    </li>
-	    <li><a href="http://terrysoldblog.blogspot.com" target="blank"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a>    </li>
+	    <li><a href="https://terrybusblog.blogspot.com/" target="blank"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a>    </li>
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
 	  </ul>
 	</div>
