@@ -33,8 +33,8 @@
             <li>
                 <p>2012 to 2016 - Standup Comedy</p>
                 <img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 500px; max-width: 500px;">
-                <iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/dGxV3Q0TdRQ?ecver=2" style="height: 100%; left: 0; position: absolute; width: 100%;" width="400"></iframe>
-                <iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/9g_1bIP7duY?ecver=2" style="height: 100%; left: 0; position: absolute; width: 100%;" width="400"></iframe></div>
+                <iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/dGxV3Q0TdRQ?ecver=2" style="height: 50%; width: 50%;" width="400"></iframe>
+                <iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/9g_1bIP7duY?ecver=2" style="height: 50; width: 50%;" width="400"></iframe>
             </li>
             <li>
                 <p>2016 - Hackerati Co-workers NYC</p>
