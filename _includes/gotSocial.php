@@ -10,7 +10,7 @@
 
 <a href="http://www.quora.com/Terry-Bu" target="_blank"><img src="_images/icon_quora.png" alt="terry quora" onmouseover="document.getElementById('1up').play()"></a>
 
-<a href="https://github.com/terrybu" target="_blank"><img src="_images/github.png" alt="terry twitter" onmouseover="document.getElementById('1up').play()" width="45" height="45"></a>
+<a href="https://github.com/terrybu" target="_blank"><img src="_images/github.png" alt="terry github" onmouseover="document.getElementById('1up').play()" width="45" height="45"></a>
 
 <a href="https://stackoverflow.com/story/terrybu" target="_blank"><img src="_images/icon_stack.png" alt="terry stackoverflow" onmouseover="document.getElementById('1up').play()" width="45" height="45"></a>
 
