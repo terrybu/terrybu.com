@@ -26,7 +26,7 @@
    	        <li><a href="personal_projects.php">Projects</a></li>
 	        <li><a href="android.php">Android</a></li>
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
-	        <li><a href="personal_photos.php">Personal</a></li>
+	        <li><a href="personal_photos.php">Photos</a></li>
 	      </ul>
 	    </li>
 	    <li><a href="https://terrybusblog.blogspot.com/" target="blank"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a>    </li>
