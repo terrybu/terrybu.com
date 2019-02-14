@@ -23,39 +23,39 @@
           <h1 style="color: #C63B3B; clear: both;">Personal Photos</h1>
           <ul>
             <li>
-                <p>2009 - UNC</p>
+                <p>2009: UNC DSP International Business Fraternity</p>
                 <img src="_images/personal_photos/dsp_guitar.jpg" style="max-height: 500px; max-width: 500px;">
                 <br><br>
             </li>
             <li>
-                <p>2011 - UNC Acapella Group Founder & Leader</p>
+                <p>2011: UNC Acapella Group Founder</p>
                 <img src="_images/personal_photos/asap_acapella.jpg" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2012 to 2016 - Standup Comedy</p>
+                <p>2012 to 2016: NYC Standup Comedy (Booked on Broadway, Greenwich Village, Gotham Comedy clubs)</p>
                 <img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 500px; max-width: 500px;">
-                <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/dGxV3Q0TdRQ?ecver=2" style="height: 100%; width: 50%;" width="400"></iframe>
-                <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/9g_1bIP7duY?ecver=2" style="height: 100%; width: 50%;" width="400"></iframe>
+                <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dGxV3Q0TdRQ"></iframe>
+                <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/9g_1bIP7duY"></iframe>
                                 <br><br>
 
             </li>
             <li>
-                <p>2016 - Happy Hour with Hackerati Co-workers NYC</p>
+                <p>2016: Happy Hour with Co-workers at Hackerati (boutique consulting startup)</p>
                 <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2018 - <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC Accountability Meetup </a> Founder & Leader</p>
+                <p>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC Group Accountability Meetup </a> Founder & Organizer</p>
                 <img src="_images/personal_photos/JuntoNYC.JPG" style="max-height: 500px; max-width: 500px;">
                 <img src="_images/personal_photos/JuntoNYC2.JPG" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2018 to Present - Payfone</p>
+                <p>2018 to Present: Payfone</p>
                 <img src="_images/personal_photos/payfone_island.jpg" style="max-height: 500px; max-width: 500px;">
             </li>
         </ul>
