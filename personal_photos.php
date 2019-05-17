@@ -42,7 +42,7 @@
 
             </li>
             <li>
-                <p>2016: Happy Hour with Co-workers at Hackerati (boutique consulting startup)</p>
+                <p>2016: Happy Hour with coworkers from The Hackerati (consulting & engineering startup founded in Cooper Union)</p>
                 <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
 
