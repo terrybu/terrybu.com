@@ -42,13 +42,13 @@
 
             </li>
             <li>
-                <p>2016: Happy Hour with coworkers from The Hackerati (consulting & engineering startup founded in Cooper Union)</p>
+                <p>2016: Happy Hour with coworkers from The Hackerati (software consulting & engineering startup founded in Cooper Union)</p>
                 <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC Group Accountability Meetup </a> Founder & Organizer</p>
+                <p>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC Goals & Accountability Meetup </a> Founder & Organizer</p>
                 <img src="_images/personal_photos/JuntoNYC.JPG" style="max-height: 500px; max-width: 500px;">
                 <img src="_images/personal_photos/JuntoNYC2.JPG" style="max-height: 500px; max-width: 500px;">
                                 <br><br>
