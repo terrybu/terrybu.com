@@ -8,7 +8,7 @@
  <script type="text/javascript" src="https://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
  <link href="_css/personal_projects.css" rel="stylesheet" type="text/css">
  <link rel="stylesheet" type="text/css" href="_css/colorbox.css">
- <title>Terry Bu - Portfolio Website | Personal Projects (Rails, JS)</title>
+ <title>Terry Bu - Personal Website | Web Projects (Rails, JS)</title>
 </head>
 <body>
 
@@ -20,7 +20,7 @@
         <?php include("_includes/mainLandingLeftImage.php"); ?>
 
         <div id="bodyContent">
-          <h1 style="color: #C63B3B; clear: both;">Personal Projects Portfolio</h1>
+          <h1 style="color: #C63B3B; clear: both;">Web Projects Portfolio</h1>
           <div class="projectsDiv" id="projectsJavascript">
             <ul>
                 <li>

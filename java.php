@@ -8,7 +8,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Terry Bu - Portfolio Website | Java</title>
+<title>Terry Bu - Personal Website | Java</title>
 <link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <link href="boilerplate.css" rel="stylesheet" type="text/css">
 <link href="main.css" rel="stylesheet" type="text/css">

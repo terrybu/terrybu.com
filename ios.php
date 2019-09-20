@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php include ("_includes/standardHeadImports.php"); ?>
-  <title>Terry Bu - Portfolio Website | iOS </title>
+  <title>Terry Bu - Personal Website | iOS </title>
 </head>
 <body>
 

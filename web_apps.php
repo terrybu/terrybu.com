@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <?php include ("_includes/standardHeadImports.php"); ?>
-      <title>Terry Bu - Portfolio Website | Web Apps </title>
+      <title>Terry Bu - Personal Website | Web Apps </title>
       <?php include_once("analyticstracking.php") ?>
     </head>
     <body>
@@ -18,7 +18,7 @@
       <img src="_images/rubyonrails.png" id="headImageRails">
 
       <div id="bodyContent">
-        <h1 style="color: #C63B3B">Web Application Development</h1>
+        <h1 style="color: #C63B3B">Web Application Development Work</h1>
         <div class="projectsDiv">
          <ul>
            <li>

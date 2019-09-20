@@ -8,7 +8,7 @@
    <script type="text/javascript" src="https://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
    <link href="_css/personal_projects.css" rel="stylesheet" type="text/css">
    <link rel="stylesheet" type="text/css" href="_css/colorbox.css">
-   <title>Terry Bu - Portfolio Website | Personal Photos</title>
+   <title>Terry Bu - Personal Website | Personal Photos</title>
 </head>
 <body>
 

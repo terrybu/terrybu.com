@@ -15,7 +15,7 @@
 -->
 </script>
 <?php include ("_includes/standardHeadImports.php"); ?>
-<title>Terry Bu - Portfolio Website | Contact Terry</title>
+<title>Terry Bu - Personal Website | Contact Terry</title>
 </head>
 <body>
   <div class="container">

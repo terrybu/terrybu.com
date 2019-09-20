@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php include ("_includes/standardHeadImports.php"); ?>
   <link href="_css/android.css" rel="stylesheet" type="text/css">
-  <title>Terry Bu - Portfolio Website | Android </title>
+  <title>Terry Bu - Personal Website | Android </title>
 </head>
 <body>
   <div class="container">

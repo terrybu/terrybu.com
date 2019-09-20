@@ -11,7 +11,7 @@
 <script type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANc2OOYLVVwOz0rgpkiv78vHVIHnNyA70"></script>
 <script src="_javascript/googlemaps.js"></script>
-<title>Terry Bu - Portfolio Website | Contact Terry</title>
+<title>Terry Bu - Personal Website | Contact Terry</title>
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>

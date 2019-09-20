@@ -11,7 +11,7 @@
   <!--LOAD YOUR STYLESHEETS -->
 <link href="_css/application.css" rel="stylesheet" type="text/css">
 <link href="_css/sketchpad.css" rel="stylesheet" type="text/css">
-<title>Terry Bu - Portfolio Website | JavaScript/jQuery</title>
+<title>Terry Bu - Personal Website | JavaScript/jQuery</title>
 <script type="text/javascript" src="_javascript/sketchpad.js"></script>
   <!--[if lt IE 9]><script src="/js/vendor/html5-3.6-respond-1.1.0.min.js"></script><![endif]-->
 </head>
