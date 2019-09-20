@@ -26,13 +26,13 @@
             <img src="_images/Win2_app_team.jpg" style="max-height: 500px; max-width: 500px;">
             <img src="_images/win2Logo.png" style="max-height: 300px; max-width: 300px;">
             <li>
-             Between April of 2015 to March of 2016, I founded and led a mobile app development project at a local Korean-American Christian community called Onnuri. The purpose of the app was to help various youth groups within the church to keep up-to date with latest events and collaborate together. We worked in a small team comprised of 1 UX Designer, 1 UI Designer, 1 Project Manager, 1 Android Developer and me as the iOS Developer. I pitched the initial idea to church leadership and was responsible for kickoff of the project. 
+             Between April of 2015 to March of 2016, I founded and led a mobile app development project at a NYC Korean Christian church called Onnuri. The purpose of the app was to help various youth groups within the church to keep up-to date with latest events. We worked in a small team comprised of 1 UX Designer, 1 UI Designer, 1 Project Manager, 1 Android Developer and myself as the iOS Developer. The project is currently not maintained. 
             </li>
             <li>
             300+ installs through App Store. 100 User Signups. 
             </li>
             <li>
-             I leveraged popular libraries such as FBSDKCoreKit, Firebase and many others. 
+            Leveraged third-party libraries such as FBSDKCoreKit, Firebase and many others. 
             </li>
             <li>
               <a href="http://vision.onnuri.org/in2/" target="blank">http://vision.onnuri.org/in2/</a>
@@ -110,21 +110,16 @@
       </li>
       <br>
       <li>
-        <h3><a href="https://itunes.apple.com/us/app/how-much-sunlight-do-you-need/id979996036?mt=8" target="blank">How Much Sunlight Do You Need?</a></h3>
+        <h3><a href="https://github.com/terrybu/How-Much-Sunlight-Do-You-Need" target="blank">How Much Sunlight Do You Need?</a></h3>
         <ul>
           <img src="_images/iOS_sunlight.png">
           <li>
-            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. 
-          </li>
-          <li>Based on Fitzpatrick skin type scale. 
+            Figure out how much sunlight exposure you need to get your healthy daily dosage of vitamin D, depending on your location and weather. Based on Fitzpatrick skin type scale. 
           </li>
           <br>
           <img src="_images/skinType.gif" class="reflectorImage">
         </li>
       </ul>
-
-
-
 
       <br>
       <li>

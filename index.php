@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include ("_includes/standardHeadImports.php"); ?>
-  <title>Terry Bu - Portfolio Website | Home</title>
+  <title>Terry Bu - Personal Website | Home</title>
 </head>
 <body>
 
@@ -29,8 +29,8 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology binds knowledge across multiple disciplines and drives global innovation. I believe the future will be largely impacted by the creators and the movers of technology.</p>
-          <p>I look forward to a future where an even higher level of knowledge transfer is possible between all industries of the world and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
+          <p>Technology drives global innovation across multiple disciplines. I believe the future will be transformed by the creators and the movers of technology (software and hardware) because of their limitless potential. </p>
+          <p>I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
          </div>
       </div>
    </div>
@@ -45,7 +45,7 @@
           <p>Seoul, South Korea (1988 - 1995)</p>
           <p>Tokyo, Japan (1995 - 1999)</p>
           <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
-          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA Kenan-Flagler Business School</p>
+          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Kenan-Flagler Business School</p>
           <p>New York, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
         </div>
      </div>
@@ -58,14 +58,14 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management Intern</p>
-      <p>Epsilon: Digital Marketing Associate</p>
-      <p>Logicalis: B2B Sales Account Executive. Graduate of Cisco Partner Sales Academy</p>
-      <p>Hackerati: Software Engineer</p>
-      <p>Tastii: Lead iOS Engineer</p>
-      <p>Verizon: iOS Developer</p>
-      <p>Payfone: Sr. Sales Engineer</p>
-      <p>Please check out my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a></p>
+      <p>Ogilvy &amp; Mather: Account Management Intern (2010)</p>
+      <p>Epsilon: Digital Marketing Associate (2011-2012)</p>
+      <p>Logicalis: B2B Sales Account Executive. Graduate of Cisco Partner Sales Academy (2013-2014)</p>
+      <p>Hackerati: Software Engineer (2015)</p>
+      <p>Tastii: Lead iOS Engineer (2016)</p>
+      <p>Verizon: iOS Developer (2017)</p>
+      <p>Payfone: R&D Engineer (2019-Present) & Former Sr. Sales Engineer (2018-2019)</p>
+      <p>Here's my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> profile</p>
          </div>
       </div>
    </div>
@@ -77,7 +77,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>My current focus is to keep growing and evolving as a versatile leader. I attribute my growth to great mentors I've met at past and current organizations.</p>
+      <p>My current focus is to keep evolving my skillset, versatility and leadership abilities. I attribute my growth to kind and knowledgeable mentors I've met at past and current organizations.</p>
          </div>
       </div>
      </div>
