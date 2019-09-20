@@ -12,7 +12,8 @@
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
 	  <p>Thank you for visiting my website.</p>
-	  </p>
+	  <p>I like to code, write and make people laugh.</p>
+	  <p>I am older than I look.</p>
 	</div>
 
 	<div id="nav">
