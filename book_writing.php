@@ -19,7 +19,7 @@
           <ul>
                <h2 style="color: black">당찬 가족의 성공유학 프로젝트 (2005)</h2>
                <p>Translation: “Successful Study Abroad Project of a Courageous Family"</p>
-               <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Tips and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
+               <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Stories and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
                 <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=573396" target="blank">Korean Book Site Link</a></p>
                 <img src="_images/book_writing/dangchan_cover.jpg" style="max-height: 500px; max-width: 500px;">
                 <img src="_images/book_writing/dangchan_sample.jpg" style="max-height: 500px; max-width: 500px;">
@@ -30,7 +30,7 @@
                 <br>
 
                 <h2 style="color: black">Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America (2019)</h2>
-                <p>A non-fiction memoir and a self-help book dedicated to the author's older sister. This book goes into the types of thought patterns and cognitive distortions that might cause obsessive, harmful overthinking known as rumination which has been proven to be a major cause of major depression. It also discusses possible solutions at both individual and community levels, and why we need to address societal issues such as our definition of success, especially in South Korean and Asian-American communities.</p>
+                <p>A non-fiction memoir and a self-help book dedicated to the author's older sister. This book goes into the types of thought patterns and mental distortions that may cause obsessive, harmful overthinking known as rumination which has  proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success, especially in South Korean and Asian-American communities.</p>
                 <p>Projected Release Date: December 2019 on Amazon Kindle and Apple iBooks</p>
                 <img src="_images/book_writing/diaries_cover.jpg" style="max-height: 500px; max-width: 500px;">
           </ul>
