@@ -33,6 +33,40 @@
                 <p>A non-fiction memoir and a self-help book dedicated to the author's older sister. This book goes into the types of thought patterns and mental distortions that may cause obsessive, harmful overthinking known as rumination which has  proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success, especially in South Korean and Asian-American communities.</p>
                 <p>Projected Release Date: December 2019 on Amazon Kindle and Apple iBooks</p>
                 <img src="_images/book_writing/diaries_cover.jpg" style="max-height: 500px; max-width: 500px;">
+                
+                <p></p>
+
+                <pre>
+                  Table of Contents 3
+                  I: Observing Our Mind’s Stories 13
+                  Chapter 1: “I am not good enough” 14
+                  Chapter 2: “I am so ugly and unattractive” 18
+                  Chapter 3: “I am so behind compared to others” 21
+                  Chapter 4: “I should have, I would have, I could have” 25
+                  Chapter 5: “I must always be perfect” 28
+                  Chapter 6: “I am a total failure” 31
+                  II: What Creates Our Mind’s Stories 35
+                  Chapter 7: Our Brain (Part I) 35
+                  Chapter 8: Our Brain (Part II) 41
+                  Chapter 9: Culture 45
+                  Chapter 10: People Around You 53
+                  Chapter 11: Childhood Conditioning 58
+                  Chapter 12: Your Self-Identity 67
+                  III: Taking Control of Our Mind’s Stories 70
+                  Chapter 13: The Current State of Depression Treatment and Understanding 71
+                  Chapter 14: Awareness and Presence 79
+                  Chapter 15: Downward Spiral, Upward Spiral 83
+                  Chapter 16: The Power of Appreciation 87
+                  Chapter 17: Top-Down, Bottom-Up 93
+                  Chapter 18: &quot;An Idle Mind is the Devil&#39;s Workshop&quot; 97
+                  Chapter 19: Faith, Spirituality and My Testimony 100
+                  Dear Asian Parents 107
+                  Epilogue 111
+                  Acknowledgements 116
+                  A Letter to Korean Readers 117
+                  About the Author 120
+                  References 121
+                </pre>
           </ul>
         </div>
     </div>
