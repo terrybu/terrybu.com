@@ -5,6 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php include ("_includes/standardHeadImports.php"); ?>
+  <link href="_css/books.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="dist/css/bootstrapValidator.css"/>
   <title>Terry Bu - Personal Website | Books & Writing </title>
 </head>
 <body>
@@ -36,7 +38,7 @@
                 <br>
 
                 <h2 style="color: black">Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America (2019)</h2>
-                <p>A non-fiction memoir and a self-help book dedicated to the author's older sister. This book goes into the types of thought patterns and mental distortions that may cause obsessive, harmful overthinking known as rumination which has  proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success, especially in South Korean and Asian-American communities.</p>
+                <p>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister. This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) and mental distortions that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success. We also need to challenge the traditional understanding of depression that says it's caused by an unexplainable "chemical imbalance in the brain" that can only be addressed by medication. We need to take individual and group responsibility to better identify, understand and research the underlying causes and patterns behind depression instead of treating the brain as a "black box." </p>
                 <p>Projected Release Date: December 2019 on Amazon Kindle and Apple iBooks</p>
                 <img src="_images/book_writing/diaries_cover.jpg" style="max-height: 500px; max-width: 500px;">
                 
@@ -74,6 +76,7 @@
                   References 121
                 </pre>
           </ul>
+        </div>
         </div>
     </div>
 
