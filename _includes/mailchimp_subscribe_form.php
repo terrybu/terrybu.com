@@ -8,7 +8,7 @@
 <div id="mc_embed_signup">
 <form action="https://meetup.us19.list-manage.com/subscribe/post?u=e60e54b51b43065d4f0e7af91&amp;id=c8ea51321c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe now for a FREE COPY of "Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America" sent to your email</h2>
+	<h2>Subscribe now for a FREE COPY of "Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America" sent to your email (Estimated Delivery December of 2019) </h2>
 </h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
