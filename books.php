@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php include ("_includes/standardHeadImports.php"); ?>
-  <title>Terry Bu - Personal Website | Book Writing </title>
+  <title>Terry Bu - Personal Website | Books & Writing </title>
 </head>
 <body>
     <div class="container">
@@ -15,6 +15,12 @@
         <?php include("_includes/mainLandingLeftImage.php"); ?>
 
         <div id="bodyContent">
+
+          <div>
+              <?php include ("_includes/mailchimp_subscribe_form.php"); ?>
+          </div>
+
+
           <h1 style="color: #C63B3B; clear: both;">Authored Books</h1>
           <ul>
                <h2 style="color: black">당찬 가족의 성공유학 프로젝트 (2005)</h2>
