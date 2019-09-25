@@ -9,16 +9,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include ("_includes/standardHeadImports.php"); ?>
   <title>Terry Bu - Personal Website | Home</title>
-
-
-
-    <script type='text/javascript'>
-      if (window.location.pathname == '/book' || window.location.pathname == '/diaries' || window.location.pathname == '/diariesofmyoldersister') {
-        window.location.href = '/books.php';
-      } 
-    </script>
-
-
 </head>
 <body>
 
