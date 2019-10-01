@@ -13,7 +13,8 @@ function playclip() {
 	}
 
 function playclip2() {
-		var audio2 = document.getElementsByTagName("audio")[1];
-		audio2.play();
+		var audio2 = document.getElementsByTagName("audio")[1].play().catch(function() {
+    	// do something
+		});
 	}
 
