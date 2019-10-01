@@ -31,6 +31,11 @@ h1 {
     text-size: 2em;
     text-shadow: 0.5px 0.5px 4px rgba(0,0,0,0.2);
 }
+
+#welcomeNav {
+    margin-top: 50px;
+}
+
 /* END NameLogo&Welcome.php */
 
 
@@ -163,11 +168,14 @@ h1 {
     #gotSocial {
         font-size: 1em;
         span {  display: block;
-                margin-bottom: 0.25em;
+                margin-bottom: 0.01em;
             }
+        img {
+            margin-top: 0.25px;
+        }
     }
-    #logoHello {
-        padding-top: 5px;
+    #welcomeNav {
+        margin-top: 150px;
     }
 }
 
@@ -188,12 +196,9 @@ h1 {
         max-width: 80%;
         margin: 0 auto;
         #welcomeNav {
-            padding-top: 10px;
+            margin: 0 auto;
+            margin-top: 100px;
             max-width: 550px;
-            margin: 0 auto;
-            #logoHello {
-            margin: 0 auto;
-            }
             #welcome {
                 font-size: 1.2em;
                 text-align: center;
@@ -207,12 +212,11 @@ h1 {
             }
             margin-bottom: 3%;
         }
-        #kyotoImage {
-           max-width: 360px;
-           max-height: 480px;
-           float: left;
-           display: inline-block;
-        }
+    }
+
+    #mainLandingLeftImage img {
+        margin-right: 50%;
+        margin-left: 50%;
     }
 
     #bodyContent {

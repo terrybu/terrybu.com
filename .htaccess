@@ -1,6 +1,0 @@
-DirectoryIndex index.php
-php_value auto_prepend_file none
-php_value auto_append_file none
-RewriteEngine On
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

@@ -2,13 +2,6 @@
 
 <div id='welcomeNav'>
 
- <div id="logoHello">
-	<p></p>  
-	   	<p></p>  
-	<p></p>  
-	<p></p>  
- </div>
-
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
 	  <p>Thank you for visiting my website.</p>
@@ -34,5 +27,7 @@
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
 	  </ul>
 	</div>
+
+</div>
 
 </div>
