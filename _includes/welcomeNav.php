@@ -5,7 +5,7 @@
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
 	  <p>Thank you for visiting my website.</p>
-	  <p>I like to write, code and make people laugh.</p>
+	  <p>Comedian | Writer | Software Engineer </p>
 	  <p>I am slightly older than I look.</p>
 	</div>
 

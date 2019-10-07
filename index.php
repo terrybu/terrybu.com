@@ -64,7 +64,7 @@
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Tastii: Lead iOS Engineer (2016)</p>
       <p>Verizon: iOS Developer (2017)</p>
-      <p>Payfone: R&D Engineer (Present) & Former Senior Sales Engineer (2018-2019)</p>
+      <p>Payfone: R&D Engineer (Present) & Former Sr. Sales Engineer (2018-2019)</p>
       <p>Here's my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> profile</p>
          </div>
       </div>
@@ -77,7 +77,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>My current focus is to keep evolving my skillset, versatility and leadership abilities. I attribute my growth to kind and knowledgeable mentors I've met at past and current organizations.</p>
+      <p>My current focus is to keep evolving my skillset, versatility and leadership abilities. I attribute my growth to great mentors I've met at past and current organizations.</p>
          </div>
       </div>
      </div>
