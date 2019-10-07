@@ -3,7 +3,7 @@
 <div id='welcomeNav'>
 
 	<div id="welcome">
-	  <p><b>Terry Bu</b></p>
+	  <p><b>Terry Bu 🇰🇷🇺🇸</b></p>
 	  <p>Thank you for visiting my website.</p>
 	  <p>Comedian | Writer | Software Engineer </p>
 	  <p>I am slightly older than I look.</p>

@@ -26,6 +26,7 @@
           <h1 style="color: #C63B3B; clear: both;">Authored Books</h1>
           <ul>
                <h2 style="color: black">당찬 가족의 성공유학 프로젝트 (2005)</h2>
+               <p>지은이: 부성현, 부경아, 양성희 
                <p>Translation: “Successful Study Abroad Project of a Courageous Family"</p>
                <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Stories and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
                 <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=573396" target="blank">Korean Book Site Link</a></p>
