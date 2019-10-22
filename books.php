@@ -19,7 +19,8 @@
         <div id="bodyContent">
 
           <div>
-              <?php include ("_includes/mailchimp_subscribe_form.php"); ?>
+                <p><a href="https://www.terrybu.com/downloads/diaries.epub">Download EPUB eBook of "Diaries of My Older Sister"</a></p>
+                <p><a href="https://www.terrybu.com/downloads/diaries.pdf">Download PDF eBook of "Diaries of My Older Sister"</a></p>
           </div>
 
 
