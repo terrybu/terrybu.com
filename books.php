@@ -27,7 +27,7 @@
           <ul>
                <h2 style="color: black">당찬 가족의 성공유학 프로젝트 (2005)</h2>
                <p>지은이: 부성현, 부경아, 양성희 
-               <p>Translation: “Successful Study Abroad Project of a Courageous Family"</p>
+               <p>Translation: “Study Abroad Success Project of a Daring Family"</p>
                <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Stories and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
                 <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=573396" target="blank">Korean Book Site Link</a></p>
                 <img src="_images/book_writing/dangchan_cover.jpg" style="max-height: 500px; max-width: 500px;">
@@ -39,8 +39,8 @@
                 <br>
 
                 <h2 style="color: black">Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America (2019)</h2>
-                <p>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister. This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) and cognitive distortions that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success. We also need to challenge the traditional understanding of depression that says it's caused by an unexplainable "chemical imbalance in the brain" that can only be addressed by medication. We need to take individual and group responsibility to better identify, understand and research the underlying causes and patterns behind depression instead of treating the brain as a "black box." </p>
-                <p>Projected Release Date: December 2019 on Amazon Kindle and Apple iBooks</p>
+                <p>A non-fiction memoir and a self-help psychology book dedicated to my older sister. This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) and cognitive distortions that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major cause of clinical depression. It also discusses possible solutions at both individual and societal levels, and why we need to address cultural issues such as status-obsession and our traditional definition of success. We also need to challenge the traditional understanding of depression that says it's caused by an unexplainable "chemical imbalance in the brain" that can only be addressed by medication. We need to take individual and group responsibility to better identify, understand and research the underlying causes and patterns behind depression instead of treating the brain as a "black box." </p>
+                <p>Released on<a href="https://www.amazon.com/Diaries-My-Older-Sister-Depression-ebook/dp/B07ZDJV977/ref=sr_1_1?keywords=terry+bu+diaries&qid=1571772927&sr=8-1" target="blank">Amazon</a> and other retailers</p>
                 <img src="_images/book_writing/diaries_cover.jpg" style="max-height: 500px; max-width: 500px;">
                 
                 <p></p>
