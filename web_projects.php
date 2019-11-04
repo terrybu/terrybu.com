@@ -33,7 +33,7 @@
               </li>
 
             <li>
-              <a href="https://bucifer-lifeclock.herokuapp.com/" target="_blank">
+              <a href="https://terryslifeclock.herokuapp.com/" target="_blank">
                 <h3>"Terry's Life-Clock" - Original JS/jQuery Web App</h3>
                 <img src="_images/js1clock.png">
                 <img src="_images/credits.png">
