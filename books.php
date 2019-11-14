@@ -30,10 +30,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div id="bodyContent">
 
-          <div>
+  <!--         <div>
                 <p><a href="https://www.terrybu.com/downloads/diaries.epub">Download EPUB eBook of "Diaries of My Older Sister"</a></p>
                 <p><a href="https://www.terrybu.com/downloads/diaries.pdf">Download PDF eBook of "Diaries of My Older Sister"</a></p>
-          </div>
+          </div> -->
 
 
           <h1 style="color: #C63B3B; clear: both;">Authored Books</h1>
