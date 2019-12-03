@@ -29,8 +29,7 @@
       </div>
       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across multiple disciplines. I believe the future will be transformed by the creators and the movers of technology (software and hardware) because of their limitless potential. </p>
-          <p>I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
+          <p>Technology drives global innovation across multiple disciplines. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology (software & hardware). I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
          </div>
       </div>
    </div>
@@ -42,11 +41,11 @@
       </div>
       <div id="collapseTwo" class="panel-collapse collapse">
         <div class="panel-body">
-          <p>Seoul, South Korea (1988 - 1995)</p>
-          <p>Tokyo, Japan (1995 - 1999)</p>
+          <p>Seoul, South Korea (Birthplace)</p>
+          <p>Tokyo, Japan (1993 - 1996)</p>
           <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
-          <p>Chapel Hill, NC (2007 - 2011): The University of North Carolina at Chapel Hill. Kenan-Flagler Business School</p>
-          <p>New York, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+          <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA at Kenan-Flagler Business School</p>
+          <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
         </div>
      </div>
    </div>
@@ -58,14 +57,13 @@
       </div>
       <div id="collapseThree" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management Intern (2010)</p>
-      <p>Epsilon: Digital Marketing Associate (2011-2012)</p>
-      <p>Logicalis: B2B Sales Account Executive. Graduate of Cisco Partner Sales Academy (2013-2014)</p>
+      <p>Ogilvy &amp; Mather: Account Management (2010)</p>
+      <p>Epsilon: Digital Marketing Associate (2011)</p>
+      <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
-      <p>Tastii: Lead iOS Engineer (2016)</p>
-      <p>Verizon: iOS Developer (2017)</p>
-      <p>Payfone: R&D Engineer (Present) & Former Sr. Sales Engineer (2018-2019)</p>
-      <p>Here's my <a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn</a> profile</p>
+      <p>Verizon: iOS Engineer (2017)</p>
+      <p>Payfone: R&D Engineer (Present) & Former Sr. Sales Engineer</p>
+      <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
          </div>
       </div>
    </div>
@@ -77,7 +75,7 @@
       </div>
       <div id="collapseFour" class="panel-collapse collapse">
          <div class="panel-body">
-      <p>My current focus is to keep evolving my skillset, versatility and leadership abilities. I attribute my growth to great mentors I've met at past and current organizations.</p>
+      <p>My current focus is to keep evolving my knowledge, versatility, creativity and leadership abilities. I give my sincerest gratitude to great mentors I've met at past and current organizations.</p>
          </div>
       </div>
      </div>

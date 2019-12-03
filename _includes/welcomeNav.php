@@ -5,7 +5,7 @@
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
 	  <p>Thank you for visiting my website.</p>
-	  <p>Comedian | Writer | Software Engineer </p>
+	  <p>Standup Comedian | Writer | Software Engineer </p>
 	  <p>I am slightly older than I look.</p>
 	</div>
 
@@ -22,6 +22,7 @@
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
 	      </ul>
 	    </li>
+	    <li><a href="comedy.php"><span class="glyphicon glyphicon-glass" style="margin-right: 2px;"></span>COMEDY</a></li>
 	   	<li><a href="books.php"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BOOKS</a></li>
 	    <li><a href="personal_photos.php"><span class="glyphicon glyphicon-picture" style="margin-right: 2px;"></span>PHOTOS</a></li>
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>

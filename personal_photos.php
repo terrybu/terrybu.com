@@ -23,40 +23,44 @@
           <h1 style="color: #C63B3B; clear: both;">Photos</h1>
           <ul>
             <li>
-                <p>2009: UNC DSP International Business Fraternity</p>
-                <img src="_images/personal_photos/dsp_guitar.jpg" style="max-height: 500px; max-width: 500px;">
+                <p><h3>2009: UNC DSP International Business Fraternity</p></h3>
+                <img src="_images/personal_photos/dsp_guitar.jpg" style="max-height: 400px; max-width: 400px;">
                 <br><br>
             </li>
             <li>
-                <p>2011: UNC Acapella Group Founder</p>
-                <img src="_images/personal_photos/asap_acapella.jpg" style="max-height: 500px; max-width: 500px;">
+                <p><h3>2011: UNC Acapella Group "ASAP" Founder </p></h3>
+                <img src="_images/personal_photos/asap_acapella.jpg" style="max-height: 400px; max-width: 400px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2012 to 2016: NYC Standup Comedy (Booked on Broadway, Greenwich Village, Gotham Comedy clubs)</p>
-                <img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 500px; max-width: 500px;">
-                <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dGxV3Q0TdRQ"></iframe>
-                <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/9g_1bIP7duY"></iframe>
+                <p><h3>2012 to Present: NYC Standup Comedy</p></h3>
+                <p>Kollaboration 2012</p>
+                <img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
+                <p>Gotham Comedy Club 2013</p>
+                    <ui> <iframe src="https://www.youtube.com/embed/dGxV3Q0TdRQ" width=400px height=400px></iframe></ui>
+                <p>Greenwich Village Comedy Club 2016</p>    
+                    <ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=400px height=400px></iframe></ui>
+                
                                 <br><br>
 
             </li>
             <li>
-                <p>2016: Happy Hour with coworkers from The Hackerati (software consulting & engineering startup founded in Cooper Union)</p>
-                <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 500px; max-width: 500px;">
+                <p><h3>2016: The Hackerati (software consulting & engineering startup in Cooper Union)</p></h3>
+                <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 400px; max-width: 400px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC Goals & Accountability Meetup </a> Founder & Organizer</p>
-                <img src="_images/personal_photos/JuntoNYC.JPG" style="max-height: 500px; max-width: 500px;">
-                <img src="_images/personal_photos/JuntoNYC2.JPG" style="max-height: 500px; max-width: 500px;">
+                <p><h3>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC</a> Group Goal-Setting &  Acountability Meetup</p></h2>
+                <img src="_images/personal_photos/JuntoNYC.JPG" style="max-height: 400px; max-width: 400px;">
+                <img src="_images/personal_photos/JuntoNYC2.JPG" style="max-height: 400px; max-width: 400px;">
                                 <br><br>
 
             </li>
             <li>
-                <p>2018 to Present: Payfone</p>
-                <img src="_images/personal_photos/payfone_island.jpg" style="max-height: 500px; max-width: 500px;">
+                <p><h3>2018 to Present: Payfone (Fastest-growing technology company listed on Deloitte Fast 500)</p></h3>
+                <img src="_images/personal_photos/payfone_island.jpg" style="max-height: 400px; max-width: 400px;">
             </li>
         </ul>
     </div>
