@@ -26,32 +26,8 @@
   <br>
   <br>
   <br>
-  <p align='center'>Please email me at <a href="mailto:terrybu88@gmail.com" target="_blank">terrybu88@gmail.com</a>
+  <p align='center'>Please directly message him on Instagram at <a href="https://www.instagram.com/terrybu">@terrybu</a>
   </p>
-
-<!-- <div id="large">
-
-<div id="mapCanvas"></div>
-
-<div id="reachMe">
-<form id='contactForm' method="post" action="formmail.php">
-  <div class="form-group">
-    <label>Name</label>
-    <input type="text" name="sender" class="form-control" />
-  </div>
-  <div class="form-group">
-    <label>Email</label>
-    <input type="text" name="email" class="form-control" />
-  </div>
-  <div class="form-group">   
-    <label>Message</label><br>
-    <textarea class="form-control" name="mesbody" rows="6" cols='45' placeholder="Enter a short message"></textarea>
-  </div>
-  <button type="submit" name="submitbutton" id="submitbutton" value="Submit" class="btn btn-primary">Submit</button>
-  </form>
-  <p>&nbsp;</p>
-</div>
-</div> -->
 
 </div> <!-- /bodyContent -->  
 </div> <!-- /container -->  
