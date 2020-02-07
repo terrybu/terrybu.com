@@ -88,6 +88,7 @@ require('blog/wp-blog-header.php');
 </div>
 
 
+<!-- There's some problems getting any texts BELOW the four panels to align correctly. Margin and clears are not working" 
 <div style="margin-top: 8em; clear: both;">
   <?php
   $posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
@@ -98,7 +99,7 @@ require('blog/wp-blog-header.php');
     <?php
   endforeach;
   ?>
-</div>
+</div> -->
 
 
 </div> <!-- /bodyContent -->  
