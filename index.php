@@ -13,7 +13,7 @@ require('blog/wp-blog-header.php');
   <meta name="author" content="Terry Bu">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-	<?php include ("_includes/standardHeadImports.php"); ?>
+  <?php include ("_includes/standardHeadImports.php"); ?>
   <title>Terry Bu - Personal Website | Home</title>
 </head>
 <body>
@@ -24,45 +24,45 @@ require('blog/wp-blog-header.php');
     <?php include("_includes/welcomeNav.php"); ?>
     <?php include("_includes/mainLandingLeftImage.php"); ?>
 
-  <div id="bodyContent">
-    <div class="panel-group" id="accordion">
-           <!--COLLAPSIBLE PANELS START HERE -->
-      <div id="CollapsiblePanel1" class="panel panel-default">
-      <div href="#collapseOne" class="panel-heading" id="p1">
+    <div id="bodyContent">
+      <div class="panel-group" id="accordion">
+       <!--COLLAPSIBLE PANELS START HERE -->
+       <div id="CollapsiblePanel1" class="panel panel-default">
+        <div href="#collapseOne" class="panel-heading" id="p1">
          <h4 class="panel-title">
-               <span class="glyphicon glyphicon-flash"></span> TECHNOLOGY
+           <span class="glyphicon glyphicon-flash"></span> TECHNOLOGY
          </h4>
-      </div>
-      <div id="collapseOne" class="panel-collapse collapse">
+       </div>
+       <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
           <p>Technology drives global innovation across multiple disciplines. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology (software & hardware). I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
-         </div>
-      </div>
-   </div>
-   <div id="CollapsiblePanel2" class="panel panel-default">
-      <div href="#collapseTwo" class="panel-heading" id="p2">
-         <h4 class="panel-title">
-               <span class="glyphicon glyphicon-book"></span> BACKGROUND
-         </h4>
-      </div>
-      <div id="collapseTwo" class="panel-collapse collapse">
-        <div class="panel-body">
-          <p>Seoul, South Korea (Birthplace)</p>
-          <p>Tokyo, Japan (1993 - 1996)</p>
-          <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
-          <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA at Kenan-Flagler Business School</p>
-          <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
         </div>
-     </div>
-   </div>
-   <div id="CollapsiblePanel3" class="panel panel-default">
-      <div href="#collapseThree" class="panel-heading" id="p3">
-         <h4 class="panel-title">
-               <span class="glyphicon glyphicon-tasks"></span> EXPERIENCE
-         </h4>
       </div>
-      <div id="collapseThree" class="panel-collapse collapse">
-         <div class="panel-body">
+    </div>
+    <div id="CollapsiblePanel2" class="panel panel-default">
+      <div href="#collapseTwo" class="panel-heading" id="p2">
+       <h4 class="panel-title">
+         <span class="glyphicon glyphicon-book"></span> BACKGROUND
+       </h4>
+     </div>
+     <div id="collapseTwo" class="panel-collapse collapse">
+      <div class="panel-body">
+        <p>Seoul, South Korea (Birthplace)</p>
+        <p>Tokyo, Japan (1993 - 1996)</p>
+        <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
+        <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA at Kenan-Flagler Business School</p>
+        <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+      </div>
+    </div>
+  </div>
+  <div id="CollapsiblePanel3" class="panel panel-default">
+    <div href="#collapseThree" class="panel-heading" id="p3">
+     <h4 class="panel-title">
+       <span class="glyphicon glyphicon-tasks"></span> EXPERIENCE
+     </h4>
+   </div>
+   <div id="collapseThree" class="panel-collapse collapse">
+     <div class="panel-body">
       <p>Ogilvy &amp; Mather: Account Management (2010)</p>
       <p>Epsilon: Digital Marketing Associate (2011)</p>
       <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
@@ -70,35 +70,36 @@ require('blog/wp-blog-header.php');
       <p>Verizon: iOS Engineer (2017)</p>
       <p>Payfone: R&D Engineer (Present) & Former Sr. Sales Engineer</p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
-         </div>
-      </div>
-   </div>
-   <div id="CollapsiblePanel4" class="panel panel-default">
-      <div href="#collapseFour" class="panel-heading" id="p4">
-         <h4 class="panel-title">
-               <span class='glyphicon glyphicon-eye-open'></span> VISION
-         </h4>
-      </div>
-      <div id="collapseFour" class="panel-collapse collapse">
-         <div class="panel-body">
-      <p>My current focus is to keep evolving my knowledge, versatility, creativity and leadership abilities. I give my sincerest gratitude to great mentors I've met at past and current organizations.</p>
-         </div>
-      </div>
-     </div>
-
+    </div>
+  </div>
+</div>
+<div id="CollapsiblePanel4" class="panel panel-default">
+  <div href="#collapseFour" class="panel-heading" id="p4">
+   <h4 class="panel-title">
+     <span class='glyphicon glyphicon-eye-open'></span> VISION
+   </h4>
+ </div>
+ <div id="collapseFour" class="panel-collapse collapse">
+   <div class="panel-body">
+    <p>My current focus is to keep evolving my knowledge, versatility, creativity and leadership abilities. I give my sincerest gratitude to great mentors I've met at past and current organizations.</p>
+  </div>
+</div>
+</div>
+</div>
 
 <?php
 $posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
 foreach ($posts as $post) : setup_postdata( $post ); ?>
-<?php the_date(); echo "<br />"; ?>
-<?php the_title(); ?>    
-<?php the_excerpt(); ?> 
-<?php
+  <?php the_date(); echo "<br />"; ?>
+  <?php the_title(); ?>    
+  <?php the_excerpt(); ?> 
+  <?php
 endforeach;
 ?>
 
-    </div> <!-- /bodyContent -->  
-  </div> <!-- /container -->  
+
+</div> <!-- /bodyContent -->  
+</div> <!-- /container -->  
 
 
 
