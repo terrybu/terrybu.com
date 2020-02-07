@@ -87,7 +87,9 @@ require('blog/wp-blog-header.php');
 </div>
 </div>
 
-<div style="margin-top: 16em;">
+</div> <!-- /bodyContent -->  
+
+<div style="margin-top: 8em;">
   <?php
   $posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
   foreach ($posts as $post) : setup_postdata( $post ); ?>
@@ -99,7 +101,7 @@ require('blog/wp-blog-header.php');
   ?>
 </div>
 
-</div> <!-- /bodyContent -->  
+
 </div> <!-- /container -->  
 
 
