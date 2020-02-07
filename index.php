@@ -1,3 +1,9 @@
+<?php 
+/* Short and sweet */
+define('WP_USE_THEMES', false);
+require('blog/wp-blog-header.php');
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,10 +85,30 @@
          </div>
       </div>
      </div>
-    </div> <!-- /bodyContent -->  
 
+
+<?php
+$posts = get_posts('numberposts=10&order=ASC&orderby=post_title');
+foreach ($posts as $post) : setup_postdata( $post ); ?>
+<?php the_date(); echo "<br />"; ?>
+<?php the_title(); ?>    
+<?php the_excerpt(); ?> 
+<?php
+endforeach;
+?>
+
+    </div> <!-- /bodyContent -->  
   </div> <!-- /container -->  
-  <?php include("_includes/viewSizeDisplay.php"); ?>
+
+
+
+
+
+
+
+
+
+<?php include("_includes/viewSizeDisplay.php"); ?>
 
 
 <!--BELOW is javascript-->
