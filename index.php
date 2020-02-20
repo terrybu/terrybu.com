@@ -35,7 +35,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across multiple disciplines. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology (software & hardware). I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
+          <p>Technology drives global innovation across industries. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology (software & hardware). I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
         </div>
       </div>
     </div>
@@ -63,12 +63,12 @@ require('blog/wp-blog-header.php');
    </div>
    <div id="collapseThree" class="panel-collapse collapse">
      <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management (2010)</p>
+      <p>Ogilvy &amp; Mather: Account Management Intern (2010)</p>
       <p>Epsilon: Digital Marketing Associate (2011)</p>
       <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Payfone: R&D Engineer (Present) & Former Sr. Sales Engineer</p>
+      <p>Payfone: R&D Engineer & Sr. Sales Engineer (2018 - Present) </p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
@@ -81,7 +81,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>My current focus is to keep evolving my knowledge, versatility, creativity and leadership abilities. I give my sincerest gratitude to great mentors I've met at past and current organizations.</p>
+    <p>My current focus is to keep improving my knowledge, versatility, creativity and leadership. I would like to give big thanks to great mentors I've met along the way.</p>
   </div>
 </div>
 </div>
