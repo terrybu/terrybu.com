@@ -23,18 +23,18 @@
           <h1 style="color: #C63B3B; clear: both;">Photos</h1>
           <ul>
             <li>
-                <p><h3>2009: UNC DSP International Business Fraternity</p></h3>
+                <p><h3>2009: UNC DSP Fraternity</p></h3>
                 <img src="_images/personal_photos/dsp_guitar.jpg" style="max-height: 400px; max-width: 400px;">
                 <br><br>
             </li>
             <li>
-                <p><h3>2011: UNC Acapella Group "ASAP" Founder </p></h3>
+                <p><h3>2011: Acapella Group ASAP</p></h3>
                 <img src="_images/personal_photos/asap_acapella.jpg" style="max-height: 400px; max-width: 400px;">
                                 <br><br>
 
             </li>
             <li>
-                <p><h3>2012 to Present: NYC Standup Comedy</p></h3>
+                <p><h3>2012 to Present: Standup</p></h3>
                 <p>Kollaboration 2012</p>
                 <img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
                 <p>Gotham Comedy Club 2013</p>
@@ -46,13 +46,13 @@
 
             </li>
             <li>
-                <p><h3>2016: The Hackerati (software consulting & engineering startup in Cooper Union)</p></h3>
+                <p><h3>2016: The Hackerati (consulting & engineering startup in Cooper Union)</p></h3>
                 <img src="_images/personal_photos/gozChengSergey.png" style="max-height: 400px; max-width: 400px;">
                                 <br><br>
 
             </li>
             <li>
-                <p><h3>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC</a> Group Goal-Setting &  Acountability Meetup</p></h2>
+                <p><h3>2018: <a href="https://www.meetup.com/juntonyc/"target=blank>JuntoNYC</a>  Goal-Setting &  Acountability Meetup</p></h2>
                 <img src="_images/personal_photos/JuntoNYC.JPG" style="max-height: 400px; max-width: 400px;">
                 <img src="_images/personal_photos/JuntoNYC2.JPG" style="max-height: 400px; max-width: 400px;">
                                 <br><br>

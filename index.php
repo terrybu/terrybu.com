@@ -35,7 +35,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology (software & hardware). I look forward to a future where an even higher level of innovation is possible between all industries of the world, and people can collaborate in ways never imagined before to create new solutions to existing problems. </p>
+          <p>Technology drives global innovation across industries. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology. </p>
         </div>
       </div>
     </div>
@@ -47,11 +47,11 @@ require('blog/wp-blog-header.php');
      </div>
      <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Seoul, South Korea (Birthplace)</p>
-        <p>Tokyo, Japan (1993 - 1996)</p>
+        <p>Seoul, South Korea </p>
+        <p>Tokyo, Japan</p>
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
         <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA at Kenan-Flagler Business School</p>
-        <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+        <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
       </div>
     </div>
   </div>
@@ -68,7 +68,7 @@ require('blog/wp-blog-header.php');
       <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Payfone: R&D Engineer & Sr. Sales Engineer (2018 - Present) </p>
+      <p>Payfone: R&D Engineer, Product Innovation (Present) </p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
@@ -81,7 +81,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>My current focus is to keep improving my knowledge, versatility, creativity and leadership. I would like to give big thanks to great mentors I've met along the way.</p>
+    <p>My current focus is to keep growing in knowledge, versatility, creativity and leadership. I give big thanks to great mentors I've met along the way.</p>
   </div>
 </div>
 </div>
