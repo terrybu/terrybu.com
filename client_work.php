@@ -15,8 +15,6 @@
         <?php include("_includes/gotSocial.php"); ?>
         <?php include("_includes/welcomeNav.php"); ?>
       </div>
-      <img src="_images/rubyonrails.png" id="headImageRails">
-
       <div id="bodyContent">
         <h1 style="color: #C63B3B">Professional Web App Development for Clients & Businesses</h1>
         <div class="projectsDiv">

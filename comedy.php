@@ -21,11 +21,12 @@
 
 		<div id="bodyContent">
 
+			<!--
 			<script src="https://apis.google.com/js/platform.js"></script>
 			<div class="g-ytsubscribe" data-channel="burownrice" data-layout="full" data-count="default"></div>
 			<p>Subscribe above on YouTube for more comedy videos!</p>
 			<br><br>
-
+	-->
 			<div>
 			<h4>Festival Credits & Appearances</h4>
 			<p>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club</p>

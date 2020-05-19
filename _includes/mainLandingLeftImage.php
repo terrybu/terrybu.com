@@ -1,4 +1,4 @@
 	<div id="mainLandingLeftImage">
-		<img src="_images/profile_pic_airpod.png">
+		<img src="_images/yinyang.png" style="border:0">
 	</div>
 </div>

@@ -24,7 +24,7 @@ require('blog/wp-blog-header.php');
     <?php include("_includes/welcomeNav.php"); ?>
     <?php include("_includes/mainLandingLeftImage.php"); ?>
 
-    <div id="bodyContent">
+    <div id="bodyContent" style="display: none;">
       <div class="panel-group" id="accordion">
        <!--COLLAPSIBLE PANELS START HERE -->
        <div id="CollapsiblePanel1" class="panel panel-default">

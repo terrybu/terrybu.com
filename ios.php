@@ -14,9 +14,8 @@
     <?php include("_includes/gotSocial.php"); ?>
     <?php include("_includes/welcomeNav.php"); ?>
   </div>
-  <img src="_images/ios.png" id="headImageRails">
+  <img src="_images/ios.png">
   <div id="bodyContent">
-    <h1 style="color: blue; clear: both;">iOS</h1>
     <div id="projectsDiviOS">
       <ul id="iosBullets"> 
 
