@@ -39,7 +39,7 @@
 			<p><h4>Clips</p></h4>
 			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
 			<p><h4>Gotham Comedy Club 2013</p></h4>
-			<ui> <iframe src="https://www.youtube.com/embed/dGxV3Q0TdRQ" width=500px height=500px></iframe></ui>
+			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
 			<p><h4>Greenwich Village Comedy Club 2016</p>   </h4>
 			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
 
