@@ -300,10 +300,8 @@ h1 {
 
 /* END NameLogo&Welcome.php */
 /* line 42, ../sass/application.scss */
-#
-
- img {
-  width: 233px;
+#mainLandingLeftImage img {
+  width: 250px;
   height: 300px;
   border: 4px black solid;
   float: right;
