@@ -302,7 +302,7 @@ h1 {
 /* line 42, ../sass/application.scss */
 #mainLandingLeftImage img {
   width: 250px;
-  height: 300px;
+  height: 250px;
   border: 4px black solid;
   float: right;
 }
