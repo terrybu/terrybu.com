@@ -58,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <br><br>
 
                 <p><a href="https://www.terrybu.com/diaries-kor" target="blank"> 한국어 번역판 2021 무료 다운로드 --> "누나의 일기: 한국 청년들의 우울증과 자살"</a></p>
-
+                <p>Korean translated pdf link above for limited time.</p>
                 <br><br>
 
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from depression and died from suicide at age 20. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
