@@ -57,16 +57,7 @@
             <br>
             <img src="_images/parallax.gif" class="reflectorImage">
         </ul>
-        <br>
-
-        <li><h3>Trackerati</h3>
-          <ul>
-            <li>Internal app for The Hackerati for 3rd party contractors and consultants to track, record and report billable hours to clients</li>
-            <br>
-            <img src="_images/trackerati.gif" class="reflectorImage">
-          </li>
-        </ul>
-        <br>
+        <br> 
 
         <li>
           <h3>
@@ -88,16 +79,8 @@
             <li>(Leverages Open Frameworks and Objective-C++ to merge your face with another mask image of your choosing)</li>
           </li>
           <br>
-          <img src="_images/openFrameworks.gif" class="reflectorImage">
         </ul>
 
-        <br>
-        <li><h3>Jest Notes</h3>
-          <ul>
-           <img src="_images/iOS_jestnotes_icon.png">
-           <li>
-            Productivity app for stand-up comics who need to write and organize their jokes and performance sets
-          </li>
           <li>
             Rails Web App & iOS integration through Parse.com API backend 
           </li>

@@ -20,7 +20,7 @@
         <?php include("_includes/mainLandingLeftImage.php"); ?>
 
         <div id="bodyContent">
-          <h1 style="color: #C63B3B; clear: both;">Personal Web Apps & Hobby Projects</h1>
+          <h1 style="color: #C63B3B; clear: both;">Personal Web Apps & Projects</h1>
           <div class="projectsDiv" id="projectsJavascript">
             <ul>
                 <li>
