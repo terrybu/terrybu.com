@@ -8,7 +8,6 @@ require('blog/wp-blog-header.php');
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="keywords" content="Terry Bu, terrybu, terry bu korean, terry bu nyc, terry bu unc, terry bu standup"> 
   <meta name="description" content="Terry Bu Personal Website with Portfolio">
   <meta name="author" content="Terry Bu">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
