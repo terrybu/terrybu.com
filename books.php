@@ -73,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <p>There is a societal pattern happening globally beyond just a random "chemical imbalance in the brain." There's much bigger forces at work that need to be resolved in order to truly treat this epidemic. Our lack of understanding has to be resolved when it comes to depression.</p>
 
-                <b><p>Now available as paperback, eBook and Kindle on <a href="https://www.amazon.com/Diaries-My-Older-Sister-Depression-ebook/dp/B07ZDJV977/ref=sr_1_1?keywords=terry+bu+diaries&qid=1571772927&sr=8-1" target="blank">Amazon</a>, <a href="https://books.apple.com/us/book/diaries-of-my-older-sister/id1488391741?ls=1" target="blank">Apple Books</a>, Barnes & Noble, Kobo and other retailers!</p></b>
+                <b><p>Available as paperback +eBook on <a href="https://www.amazon.com/Diaries-My-Older-Sister-Depression-ebook/dp/B07ZDJV977/ref=sr_1_1?keywords=terry+bu+diaries&qid=1571772927&sr=8-1" target="blank">Amazon</a>, <a href="https://books.apple.com/us/book/diaries-of-my-older-sister/id1488391741?ls=1" target="blank">Apple Books</a></p></b>
                 
                 <p></p>
 
