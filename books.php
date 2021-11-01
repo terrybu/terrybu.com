@@ -40,7 +40,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  <br><br>
           <ul>
                <h2 style="color: black"><u>당찬 가족의 성공유학 프로젝트 (2005)</h2></u>
-               <p>지은이: 부성현, 부경아, 양성희 
+               <p>지은이: 부성현, 부경아, 양성희 </p>
+               <p>일반적인 학생들이 떠나는 유학과는 거리가 먼 명문대 입학 성공기가 아닌 조금은 평범한 유학 가정의 생활을 담은 책으로, 나이와 사회적 위치가 다른 가족 구성원 세 사람의 눈을 통해 미국 아이들의 학교생활과 교육 전반에 관한 정보와 생활의 이야기들을 생생하게 전하고 있다.</p>
+
                <p>Translation: “Study Abroad Success Project of a Daring Family"</p>
                <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Stories and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
                 <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=573396" target="blank">Korean Book Site Link</a></p>
@@ -58,7 +60,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <br><br>
 
                 <p><a href="https://www.terrybu.com/diaries-kor" target="blank"> 한국어 번역판 2021 무료 다운로드 --> "누나의 일기: 한국 청년들의 우울증과 자살"</a></p>
-                <p>Korean translated pdf link above for limited time.</p>
+
+                <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적이고 다차원적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
+
+
+
+                <p>Free Korean translated pdf watercopy link above for limited time.</p>
                 <br><br>
 
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from major depression. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
