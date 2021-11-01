@@ -59,11 +59,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <br><br>
 
-                <p><a href="https://www.terrybu.com/diaries-kor" target="blank"> 한국어 번역판 2021 무료 다운로드 --> "누나의 일기: 한국 청년들의 우울증과 자살"</a></p>
+                <h1><a href="https://www.terrybu.com/diaries-kor" target="blank"> 한국어 번역판 2021 무료 다운로드 --> "누나의 일기: 한국 청년들의 우울증과 자살에 대한 진실"</a></h1>
 
                 <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적이고 다차원적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
 
 
+                <pre>
+                 I. 우리를 해치는 내적 대화의 종류
+                   Chapter 1 – “난 왜 이렇게 부족할까?” (I am not good enough)
+                   Chapter 2 - “난 왜 이렇게 못생기고 매력이 없을까?” (I am so ugly and unattractive)
+                   Chapter 3 – “난 왜 이렇게 뒤처졌을까?” (I am so behind compard to others)
+                   Chapter 4 – “아, 내가 왜 그랬을까” (I shouldn’t have done that)
+                   Chapter 5 – “난 항상 완벽해야 돼” (I must always be perfect)
+                   Chapter 6 – “난 아무것도 못하는 사람이야" (I am a total failure)
+                 II. 부정적인 내적 대화의 원인
+                   Chapter 7 – 우리의 두뇌
+                   Chapter 8 – 우리의 두뇌 (파트 2)
+                   Chapter 9 – 사회적 가치관과 문화의 영향
+                   Chapter 10 – 주변 사람들과 가족, 친구의 영향
+                   Chapter 11 – 어린 시절 때 배운 사고방식
+                   Chapter 12 – 우리의 자기 정체성과 자기 개념
+                 III. 내적 대화와 우울증에 대처하는 방법
+                   Chapter 13 – 우울증 처방 및 이해도의 현재 상태
+                   Chapter 14 – 현재 의식 (現在意識)
+                   Chapter 15 – 우울증의 하향나선 (downward spiral)
+                   Chapter 16 – 부족의 심리와 감사의 힘
+                   Chapter 17 – 사회의 위에서 아래로, 사회의 아래에서 위로 (Top Down, Bottom Up)
+                   Chapter 18 – “한가한 두뇌는 악마의 작업실이다"
+                   Chapter 19 – 믿음의 힘과 우울증의 관계
+                </pre>
 
                 <p>Free Korean translated pdf watercopy link above for limited time.</p>
                 <br><br>
