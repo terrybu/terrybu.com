@@ -3,8 +3,9 @@
 <div id='welcomeNav'>
 
 	<div id="welcome">
-	  <p><b>Terry Bu</b></p>
+	  <p><b>Terry Bu 부성현</b></p>
 	  <p>Thank you for visiting my website.</p>
+	  <p>방문해주시는 여러분들에게 감사드립니다 🙇</p>
 	</div>
 
 	<div id="nav">
