@@ -25,7 +25,7 @@
 	<h1>24-Hour Life Age Clock (English + Korean)</h1>
   <ul>
     <li>See your life in a 80-year journey and see how that compares to where you are at in a 24-hour clock</li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.bucifer.lifeclock" target="_blank">Korean Version: 아프니까 인생시계</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.bucifer.lifeclock">Korean Version: 아프니까 인생시계 (Currently not maintained)</a></li>
     <li>3000+ organic installs. 4.67 out of 5 stars rating. </li>
   </ul>
   <br>
