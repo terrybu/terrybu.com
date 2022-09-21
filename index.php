@@ -47,8 +47,8 @@ require('blog/wp-blog-header.php');
      <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Seoul, South Korea </p>
-        <p>Tokyo, Japan: Keio University Foreign Exchange Program (2009)</p>
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
+        <p>Tokyo, Japan: Keio University Foreign Exchange Program (2009)</p>
         <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. B.S. in Business Administration from Kenan-Flagler Business School (concentration in Marketing) with a Minor in Japanese </p>
         <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
       </div>
@@ -62,12 +62,12 @@ require('blog/wp-blog-header.php');
    </div>
    <div id="collapseThree" class="panel-collapse collapse">
      <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management Intern (2010)</p>
+      <p>Ogilvy &amp; Mather: Account Management (2010)</p>
       <p>Epsilon: Digital Marketing Associate (2011)</p>
       <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Payfone/Prove: Sr. Sales Engineer, R&D Engineer, Data Engineer </p>
+      <p>Prove: Sr. Sales Engineer, R&D Engineer, Data Engineer </p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
