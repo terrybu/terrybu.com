@@ -23,10 +23,10 @@ require('blog/wp-blog-header.php');
     <?php include("_includes/welcomeNav.php"); ?>
     <?php include("_includes/mainLandingLeftImage.php"); ?>
 
-    <div id="bodyContent" style="display: none;">
+    <div id="bodyContent">
       <div class="panel-group" id="accordion">
        <!--COLLAPSIBLE PANELS START HERE -->
-       <div id="CollapsiblePanel1" class="panel panel-default">
+       <div id="CollapsiblePanel1" class="panel panel-default" style="display: none;">
         <div href="#collapseOne" class="panel-heading" id="p1">
          <h4 class="panel-title">
            <span class="glyphicon glyphicon-flash"></span> TECHNOLOGY
@@ -41,16 +41,16 @@ require('blog/wp-blog-header.php');
     <div id="CollapsiblePanel2" class="panel panel-default">
       <div href="#collapseTwo" class="panel-heading" id="p2">
        <h4 class="panel-title">
-         <span class="glyphicon glyphicon-book"></span> BACKGROUND
+         <span class="glyphicon glyphicon-book"></span> EDUCATION
        </h4>
      </div>
      <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Seoul, South Korea </p>
-        <p>Tokyo, Japan</p>
+        <p>Tokyo, Japan: Keio University Foreign Exchange Program (2009)</p>
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
-        <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. BSBA at Kenan-Flagler Business School</p>
-        <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+        <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. B.S. in Business Administration from Kenan-Flagler Business School (concentration in Marketing) with a Minor in Japanese </p>
+        <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
       </div>
     </div>
   </div>
@@ -67,12 +67,12 @@ require('blog/wp-blog-header.php');
       <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Payfone: R&D Engineer, Product Innovation (Present) </p>
+      <p>Payfone/Prove: Sr. Sales Engineer, R&D Engineer, Data Engineer </p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
 </div>
-<div id="CollapsiblePanel4" class="panel panel-default">
+<div id="CollapsiblePanel4" class="panel panel-default" style="display: none;">
   <div href="#collapseFour" class="panel-heading" id="p4">
    <h4 class="panel-title">
      <span class='glyphicon glyphicon-eye-open'></span> VISION
