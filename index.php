@@ -26,7 +26,7 @@ require('blog/wp-blog-header.php');
     <div id="bodyContent">
       <div class="panel-group" id="accordion">
        <!--COLLAPSIBLE PANELS START HERE -->
-       <div id="CollapsiblePanel1" class="panel panel-default" style="display: none;">
+       <div id="CollapsiblePanel1" class="panel panel-default">
         <div href="#collapseOne" class="panel-heading" id="p1">
          <h4 class="panel-title">
            <span class="glyphicon glyphicon-flash"></span> TECHNOLOGY
@@ -34,7 +34,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. There's little doubt that the future of the world will be heavily transformed by the creators and movers of technology. </p>
+          <p>Technology drives global innovation across industries. I found little doubt that the future of the world will continue to be transformed by the creators and movers of technology, and decided to make a career transition into a full-time software developer in 2014. My original background coming out of UNC was Business, and I intend to combine both my business-acumen and technical skills going forward in my career. I've been a self-taught programmer in JavaScript/HTML/CSS since high school and learned Ruby, Python, MEAN stack and Objective-C/Swift again in my late 20s after a few years in the workforce</p>
         </div>
       </div>
     </div>
@@ -62,25 +62,25 @@ require('blog/wp-blog-header.php');
    </div>
    <div id="collapseThree" class="panel-collapse collapse">
      <div class="panel-body">
-      <p>Ogilvy &amp; Mather: Account Management (2010)</p>
       <p>Epsilon: Digital Marketing Associate (2011)</p>
-      <p>Logicalis: Account Executive. Graduate of Cisco Partner Sales Academy (2013)</p>
+      <p>Logicalis: Account Executive - graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Prove: Sr. Sales Engineer, R&D Engineer, Data Engineer </p>
+      <p>Prove: Sr. Sales Engineer, R&D Engineer(2018-2022)</p>
+      <p>RELEX Solutions: Technical Consultant (2022-Present)</p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
 </div>
-<div id="CollapsiblePanel4" class="panel panel-default" style="display: none;">
+<div id="CollapsiblePanel4" class="panel panel-default">
   <div href="#collapseFour" class="panel-heading" id="p4">
    <h4 class="panel-title">
-     <span class='glyphicon glyphicon-eye-open'></span> VISION
+     <span class='glyphicon glyphicon-eye-open'></span> INTERESTS
    </h4>
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>My current focus is to keep growing in knowledge, versatility, creativity and leadership. I give big thanks to great mentors I've met along the way.</p>
+    <p>Some of my biggest topics of interest include mental health, spirituality (fasting), veganism, environmental sustainability, plant-based diet, meditation, mind-body-spirit connection, food-nutrition-earth connection, social activism and etc. </p>
   </div>
 </div>
 </div>
