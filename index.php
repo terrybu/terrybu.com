@@ -83,7 +83,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Some of my biggest topics of interest include mental health, spirituality (fasting), veganism, environmental sustainability, plant-based diet, meditation, mind-body-spirit connection, food-nutrition-earth connection, social activism and etc. </p>
+    <p>Some of my biggest topics of interest include mental health, spirituality (fasting), veganism, environmental sustainability, plant-based diet, meditation, mind-body-spirit connection, nutrition and our connection to natural/earth/soil, social activism, responsible content creation and etc. </p>
   </div>
 </div>
 </div>
