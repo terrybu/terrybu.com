@@ -48,9 +48,12 @@ require('blog/wp-blog-header.php');
       <div class="panel-body">
         <p>Seoul, South Korea </p>
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
+        <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. B.S. in Business Administration from Kenan-Flagler Business School with a Minor in Japanese </p>
         <p>Tokyo, Japan: Keio University Foreign Exchange Program (2009)</p>
-        <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. B.S. in Business Administration from Kenan-Flagler Business School (concentration in Marketing) with a Minor in Japanese </p>
         <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+        <p>Certified Product Owner/Product Manager through Product HQ (2022) & Machine Learning certification for Product Managers through Duke University</p> 
+        <p>Certified Scrum Master (CSM) through Scrum Alliance (2022)</p>
+        <p>Emerging Renewable Energy Technologies and Innovation through Stanford University of Engineering (2022-2023)</p>
       </div>
     </div>
   </div>
