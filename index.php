@@ -70,8 +70,8 @@ require('blog/wp-blog-header.php');
       <p>Logicalis: Account Executive - graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p><a href="https://www.prove.com/">Prove</a>: Sr. Sales Engineer, R&D Engineer(2018-2022)</p>
-      <p><a href="https://www.relexsolutions.com/">RELEX Solutions: Technical Consultant (2022-Present)</a></p>
+      <p><a href="https://www.prove.com/">Prove</a>: Sr. Sales Engineer, R&D Engineer (2018-2022)</p>
+      <p><a href="https://www.relexsolutions.com/">RELEX Solutions</a>: Technical Consultant (2022-Present)</p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
@@ -84,7 +84,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Responsible Content Creation and etc. </p>
+    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Responsible Content Creation, Asian-American Identity, and etc. </p>
   </div>
 </div>
 </div>
