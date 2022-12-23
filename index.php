@@ -34,7 +34,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. I found little doubt that the future of the world will continue to be transformed by the creators and movers of technology, and decided to make a career transition into a full-time software developer in 2014. My original background coming out of UNC was Business, and I intend to combine both my business-acumen and technical skills going forward in my career. I've been a self-taught programmer in JavaScript/HTML/CSS since high school and learned Ruby, Python, MEAN stack and Objective-C/Swift again in my late 20s after a few years in the workforce</p>
+          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology, and that's why I was motivated to make a career transition into becoming a full-time software engineer in 2015 even though my original background coming out of UNC was Business Administration. Going forward, I want to combine both my business acumen and technical skills, and find ways to make an impact in environmental sustainability and technology/business innovation. </p>
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Some of my biggest topics of interest include mental health, spirituality (fasting), veganism, environmental sustainability, plant-based diet, meditation, mind-body-spirit connection, nutrition and our connection to natural/earth/soil, social activism, responsible content creation and etc. </p>
+    <p>Mental health, Spirituality (fasting), Veganism, Environmental Sustainability, Plant-based diet, Meditatino, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Responsible Content Creation, Purpose-Driven Career, and etc ... </p>
   </div>
 </div>
 </div>
