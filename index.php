@@ -34,7 +34,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology, and that's why I was motivated to make a career transition into becoming a full-time software engineer in 2015 even though my original background coming out of UNC was Business Administration. Going forward, I want to combine both my business acumen and technical skills, and find ways to make an impact in environmental sustainability and technology/business innovation. </p>
+          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology, and that's why I was motivated to make a career transition into becoming a full-time software engineer in 2015 even though my original background coming out of UNC was Business Administration. Going forward, I want to combine both my business acumen and technical skills, and find ways to make an impact in industries such as environmental sustainability and technology/business innovation. </p>
         </div>
       </div>
     </div>
@@ -49,11 +49,12 @@ require('blog/wp-blog-header.php');
         <p>Seoul, South Korea </p>
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
         <p>Chapel Hill, North Carolina (2007 - 2011): The University of North Carolina at Chapel Hill. B.S. in Business Administration from Kenan-Flagler Business School with a Minor in Japanese </p>
-        <p>Tokyo, Japan: Keio University Foreign Exchange Program (2009)</p>
+        <p>Tokyo, Japan (2009): Keio University Foreign Exchange Program </p>
         <p>New York City, NY (2014-2015): TurnToTech Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
-        <p>Certified Product Owner/Product Manager through Product HQ (2022) & Machine Learning certification for Product Managers through Duke University</p> 
-        <p>Certified Scrum Master (CSM) through Scrum Alliance (2022)</p>
-        <p>Emerging Renewable Energy Technologies and Innovation through Stanford University of Engineering (2022-2023)</p>
+        <p>Product HQ (2022): Certified Product Owner/Product Manager</p>
+        <p>Duke University of Engineering (2022): Machine Learning certification for Product Managers</p>
+        <p>Scrum Alliance (2022): Certified Scrum Master (CSM) through</p>
+        <p>Stanford University of Engineering (2022-2023): Energy Innovation and Emerging Technologies Program</p>
       </div>
     </div>
   </div>
@@ -65,12 +66,12 @@ require('blog/wp-blog-header.php');
    </div>
    <div id="collapseThree" class="panel-collapse collapse">
      <div class="panel-body">
-      <p>Epsilon: Digital Marketing Associate (2011)</p>
+      <p><a href="https://www.epsilon.com/us">Epsilon</a>: Digital Marketing Associate (2011)</p>
       <p>Logicalis: Account Executive - graduate of Cisco Partner Sales Academy (2013)</p>
       <p>Hackerati: Software Engineer (2015)</p>
       <p>Verizon: iOS Engineer (2017)</p>
-      <p>Prove: Sr. Sales Engineer, R&D Engineer(2018-2022)</p>
-      <p>RELEX Solutions: Technical Consultant (2022-Present)</p>
+      <p><a href="https://www.prove.com/">Prove</a>: Sr. Sales Engineer, R&D Engineer(2018-2022)</p>
+      <p><a href="https://www.relexsolutions.com/">RELEX Solutions: Technical Consultant (2022-Present)</a></p>
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
@@ -83,7 +84,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Mental health, Spirituality (fasting), Veganism, Environmental Sustainability, Plant-based diet, Meditatino, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Responsible Content Creation, Purpose-Driven Career, and etc ... </p>
+    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Responsible Content Creation and etc. </p>
   </div>
 </div>
 </div>
