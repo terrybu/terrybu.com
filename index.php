@@ -50,10 +50,10 @@ require('blog/wp-blog-header.php');
         <p>Woodbridge, Connecticut (2000 - 2007): Amity High School</p>
         <p>Chapel Hill, North Carolina (2007 - 2011): <a href=https://www.unc.edu/>The University of North Carolina at Chapel Hill</a> B.S. in Business Administration from Kenan-Flagler Business School with a Minor in Japanese </p>
         <p>Tokyo, Japan (2009): Keio University Foreign Exchange Program </p>
-        <p>New York City, NY (2014-2015): <a href=http://turntotech.io/>TurnToTech</a>Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
-        <p><a href=https://producthq.org/>Product HQ</a>(2022): Certified Product Owner/Product Manager</p>
+        <p>New York City, NY (2014-2015): <a href=http://turntotech.io/>TurnToTech</a> Full-Time Immersive Program in iOS, Objective-C, Swift, and the Fundamentals of Software Engineering</p>
+        <p><a href=https://producthq.org/>Product HQ</a> (2022): Certified Product Owner/Product Manager</p>
         <p>Duke University of Engineering (2022): Machine Learning certification for Product Managers</p>
-        <p>Scrum Alliance (2022): Certified Scrum Master (CSM)</p>
+        <p><a href=https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster>Scrum Alliance</a> (2022): Certified Scrum Master (CSM)</p>
         <p>Stanford University of Engineering (2022-2023): Energy Innovation and Emerging Technologies Program</p>
       </div>
     </div>
