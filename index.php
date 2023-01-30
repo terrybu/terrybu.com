@@ -34,7 +34,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology, and that's why I was motivated to make a career transition into becoming a full-time software engineer in 2015 even though my original background coming out of UNC was Business Administration. Going forward, I want to combine both my business acumen and technical skills, and find ways to make an impact in industries such as environmental sustainability and technology/business innovation. </p>
+          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology. I'm a huge believer in technology/business innovation and the role it will play in important industries including environmental sustainability. </p>
         </div>
       </div>
     </div>
