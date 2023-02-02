@@ -54,7 +54,6 @@ require('blog/wp-blog-header.php');
         <p><a href=https://producthq.org/>Product HQ</a> (2022): Certified Product Owner/Product Manager</p>
         <p>Duke University of Engineering (2022): Machine Learning certification for Product Managers</p>
         <p><a href=https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster>Scrum Alliance</a> (2022): Certified Scrum Master (CSM)</p>
-        <p>Stanford University of Engineering (2022-2023): Energy Innovation and Emerging Technologies Program</p>
       </div>
     </div>
   </div>
@@ -84,7 +83,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Responsible Content Creation, Asian-American Identity, and etc. </p>
+    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing,  Content Creation, Asian-American Identity, and etc. </p>
   </div>
 </div>
 </div>
