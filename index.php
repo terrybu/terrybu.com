@@ -38,7 +38,7 @@ require('blog/wp-blog-header.php');
         </div>
       </div>
     </div>
-    <div id="CollapsiblePanel2" class="panel panel-default" hidden>
+    <!-- <div id="CollapsiblePanel2" class="panel panel-default">
       <div href="#collapseTwo" class="panel-heading" id="p2">
        <h4 class="panel-title">
          <span class="glyphicon glyphicon-book"></span> EDUCATION
@@ -57,7 +57,7 @@ require('blog/wp-blog-header.php');
       </div>
     </div>
   </div>
-  <div id="CollapsiblePanel3" class="panel panel-default" hidden>
+  <div id="CollapsiblePanel3" class="panel panel-default">
     <div href="#collapseThree" class="panel-heading" id="p3">
      <h4 class="panel-title">
        <span class="glyphicon glyphicon-tasks"></span> EXPERIENCE
@@ -74,7 +74,7 @@ require('blog/wp-blog-header.php');
       <p><a href="https://www.linkedin.com/in/terrybu" target="_blank">LinkedIn Profile</a></p>
     </div>
   </div>
-</div>
+</div> -->
 <div id="CollapsiblePanel4" class="panel panel-default">
   <div href="#collapseFour" class="panel-heading" id="p4">
    <h4 class="panel-title">
