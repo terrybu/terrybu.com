@@ -85,7 +85,6 @@ Chapter 10 심리학과 교수님과 인터뷰
                 <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1>
                 <br>
 
-<!-- 
                 <pre>
                  I. 우리를 해치는 내적 대화의 종류
                    Chapter 1 – “난 왜 이렇게 부족할까?” (I am not good enough)
@@ -109,9 +108,9 @@ Chapter 10 심리학과 교수님과 인터뷰
                    Chapter 17 – 사회의 위에서 아래로, 사회의 아래에서 위로 (Top Down, Bottom Up)
                    Chapter 18 – “한가한 두뇌는 악마의 작업실이다"
                    Chapter 19 – 믿음의 힘과 우울증의 관계
-                </pre> -->
-
+                </pre> 
                 <p>Free Korean translated pdf link above for limited time.</p>
+
                 <br><br>
 
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from major depression. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
