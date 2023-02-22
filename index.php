@@ -38,7 +38,7 @@ require('blog/wp-blog-header.php');
         </div>
       </div>
     </div>
-    <div id="CollapsiblePanel2" class="panel panel-default">
+    <div id="CollapsiblePanel2" class="panel panel-default" hidden>
       <div href="#collapseTwo" class="panel-heading" id="p2">
        <h4 class="panel-title">
          <span class="glyphicon glyphicon-book"></span> EDUCATION
@@ -57,7 +57,7 @@ require('blog/wp-blog-header.php');
       </div>
     </div>
   </div>
-  <div id="CollapsiblePanel3" class="panel panel-default">
+  <div id="CollapsiblePanel3" class="panel panel-default" hidden>
     <div href="#collapseThree" class="panel-heading" id="p3">
      <h4 class="panel-title">
        <span class="glyphicon glyphicon-tasks"></span> EXPERIENCE
@@ -83,7 +83,7 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Veganism, Mental Health, Fasting, Environmental Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition and our connection to Earth/Soil, Animal Welfare, Social Activism, Purpose-Driven Career, Writing,  Content Creation, Asian-American Identity, and etc. </p>
+    <p>Veganism, Mental Health, Fasting, Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Content Creation, Asian-American Identity </p>
   </div>
 </div>
 </div>
