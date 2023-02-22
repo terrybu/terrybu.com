@@ -62,30 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <!-- <a href="https://www.terrybu.com/diaries-kor" target="blank"> korean-sangshil-v1.0.pdf  -->
 		            <h1><a href="https://terrybu.com/downloads/diaries-korean-water.pdf"> 한국어 번역판 원본 "누나의 일기: 세계의 청년들에게 일어나는 우울증과 자살 " (2022)</a></h1>
-                <br><br>
-                <h1><a href="https://www.terrybu.com/downloads/korean-sangshil-v1.0.pdf" target="blank"> 무료 PDF --> "상실을 넘어서다" (2022) (한국에서 출판가능성이 있었던 원고이지만 제가 개인적으로 작업한 위의 번역판과는 약간 내용이 다릅니다. 둘다 참고해주세요)</a></h1>
-                <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
-
-                <pre>
-프롤로그
-Chapter 1 누나의 샌드위치
-Chapter 2 어린 시절
-Chapter 3 사라지는 인연, 태어나는 인연
-Chapter 4 어른이 되어 방심하면
-Chapter 5 현실도피와 가출
-Chapter 6 최면 치료
-Chapter 7 도파민의 중요성
-Chapter 8 인지 행동 치료 (CBT) 와 자기주장훈련
-Chapter 9 모두 헤매고 있으니까
-Chapter 10 심리학과 교수님과 인터뷰
-에필로그
-                </pre>
-
-                <br>
-                <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1>
-                <br>
-
-                <pre>
+<pre>
                  I. 우리를 해치는 내적 대화의 종류
                    Chapter 1 – “난 왜 이렇게 부족할까?” (I am not good enough)
                    Chapter 2 - “난 왜 이렇게 못생기고 매력이 없을까?” (I am so ugly and unattractive)
@@ -111,6 +88,30 @@ Chapter 10 심리학과 교수님과 인터뷰
                 </pre> 
                 <p>Free Korean translated pdf link above for limited time.</p>
 
+                <br><br>
+                <h1><a href="https://www.terrybu.com/downloads/korean-sangshil-v1.0.pdf" target="blank"> 무료 PDF --> "상실을 넘어서다" (2022) (한국에서 출판가능성이 있었던 원고이지만 제가 개인적으로 작업한 위의 번역판과는 약간 내용이 다릅니다. 둘다 참고해주세요)</a></h1>
+                <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
+                <pre>
+프롤로그
+Chapter 1 누나의 샌드위치
+Chapter 2 어린 시절
+Chapter 3 사라지는 인연, 태어나는 인연
+Chapter 4 어른이 되어 방심하면
+Chapter 5 현실도피와 가출
+Chapter 6 최면 치료
+Chapter 7 도파민의 중요성
+Chapter 8 인지 행동 치료 (CBT) 와 자기주장훈련
+Chapter 9 모두 헤매고 있으니까
+Chapter 10 심리학과 교수님과 인터뷰
+에필로그
+                </pre>
+                <p>Free Korean translated pdf link above for limited time.</p>
+
+                <br>
+                <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1>
+
+
+              
                 <br><br>
 
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from major depression. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
