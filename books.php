@@ -36,7 +36,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div> -->
 
 
-          <h1 style="color: #C63B3B; clear: both;">Authored Books</h1>
+          <h1 style="color: #C63B3B; clear: both;">Writing</h1>
 		  <br><br>
           <ul>
                <h2 style="color: black"><u>당찬 가족의 성공유학 프로젝트 (2005)</h2></u>
@@ -159,6 +159,7 @@ Chapter 10 심리학과 교수님과 인터뷰
                 </pre>
           </ul>
         </div>
+        <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기)</a></h1>
         </div>
     </div>
 
