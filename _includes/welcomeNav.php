@@ -12,6 +12,9 @@
 	  <ul class="nav nav-tabs">
 	   <li><a href="index.php"><span class="glyphicon glyphicon-home"></span>
 	    HOME</a></li>
+	    <li><a href="comedy.php"><span class="glyphicon glyphicon-glass" style="margin-right: 2px;"></span>COMEDY</a></li>
+	   	<li><a href="books.php"><span class="glyphicon glyphicon-book" style="margin-right: 2px;"></span>BOOKS</a></li>
+
 	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-facetime-video	
 " style="margin-right: 5px;"></span>CONTENT<b class="caret"></b></a>
 	      <ul class="dropdown-menu">
@@ -20,7 +23,7 @@
 	      </ul>
 	    </li>
 
-	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-folder-open" style="margin-right: 5px;"></span>PORTFOLIO<b class="caret"></b></a>
+<!-- 	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-folder-open" style="margin-right: 5px;"></span>PORTFOLIO<b class="caret"></b></a>
 	      <ul class="dropdown-menu">
 	        <li><a href="client_work.php">Client Work</a></li>
 	        <li><a href="ios.php">iOS</a></li>
@@ -28,10 +31,8 @@
 	       	<li><a href="web_projects.php">Web Projects</a></li>
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
 	      </ul>
-	    </li>
+	    </li> -->
    	    <li><a href="https://www.terrybu.com/blog"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a></li>
-	   	<li><a href="books.php"><span class="glyphicon glyphicon-book" style="margin-right: 2px;"></span>BOOKS</a></li>
-	    <li><a href="comedy.php"><span class="glyphicon glyphicon-glass" style="margin-right: 2px;"></span>COMEDY</a></li>
 	    <!-- <li><a href="personal_photos.php"><span class="glyphicon glyphicon-picture" style="margin-right: 2px;"></span>PHOTOS</a></li>
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li> -->
 	  </ul>
