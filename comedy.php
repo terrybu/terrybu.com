@@ -42,8 +42,8 @@
 			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
 			<p><h4>Greenwich Village Comedy Club 2016</p>   </h4>
 			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
-
-
+			<br><br>			
+			
 			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
 			<p>Kollaborations showcase NYC 2013</p>
 
