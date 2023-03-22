@@ -47,7 +47,7 @@
 			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
 			<p>Kollaborations showcase NYC 2013</p>
 
-			<img src="_images/personal_photos/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
+			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
 			<p>Caroline's showcase with Linda Smith 2013</p>
 
 		</div>
