@@ -28,10 +28,13 @@
 			<br><br>
 	-->
 			<div>
-			<h4>Festival Credits & Appearances</h4>
-			<p>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club</p>
-			<p>2016: The Stand Comedy Club NYC</p>
-			<p>2016: Las Vegas World Series of Comedy Festival</p>
+			<h4>Festival Credits & Club Appearances</h4>
+			<p>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (NYC) </p>
+			<p>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</p>
+			<p>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
+			<p>2023: 2nd Annual Comedy Chateau International Comedy Festival (Los Angeles, California)</p>
+			<p>2023: Portland Maine Comedy Festival (Portland, Maine)</p>
+			<p>2023: North Carolina Comedy Festival (Greensboro, North Caorlina)</p>
 			</div>
 
 			<br><br>
@@ -40,7 +43,7 @@
 
 			<p><h4>Gotham Comedy Club 2013 (showcase with Cory Kahaney and Harrison Greenbaum) </p></h4>
 			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
-			<p><h4>Greenwich Village Comedy Club 2016</p>   </h4>
+			<p><h4>Greenwich Village Comedy Club 2016 (showcase with Talia Reese)</p>   </h4>
 			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
 			<br><br>			
 			
