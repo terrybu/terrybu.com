@@ -30,7 +30,9 @@
 			<div>
 			<h4>Festival Credits & Club Appearances</h4>
 			<p>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (NYC) </p>
+			<img src="_images/personal_photos/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
 			<p>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</p>
+			<img src="_images/personal_photos/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
 			<p>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
 			<p>2023: 2nd Annual Comedy Chateau International Comedy Festival (Los Angeles, California)</p>
 			<p>2023: Portland Maine Comedy Festival (Portland, Maine)</p>
