@@ -54,7 +54,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <br>
                 <br>
 
-                <h2 style="color: black"><u>Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America (2019)</h2></u>
+                <h2 style="color: black"><u><a href="https://www.amazon.com/Diaries-My-Older-Sister-Depression-ebook/dp/B07ZDJV977/ref=sr_1_1?keywords=terry+bu+diaries&qid=1571772927&sr=8-1" target="blank">Diaries of My Older Sister: Depression and Suicide in Korea, Asia and America (2019)</h2></u></a>
                                 <img src="_images/book_writing/diaries_cover.jpg" style="max-height: 500px; max-width: 500px;">
 
                 <br><br>
