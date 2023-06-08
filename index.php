@@ -75,7 +75,7 @@ require('blog/wp-blog-header.php');
     </div>
   </div>
 </div> -->
-<div id="CollapsiblePanel4" class="panel panel-default">
+<!-- <div id="CollapsiblePanel4" class="panel panel-default">
   <div href="#collapseFour" class="panel-heading" id="p4">
    <h4 class="panel-title">
      <span class='glyphicon glyphicon-eye-open'></span> INTERESTS
@@ -83,10 +83,10 @@ require('blog/wp-blog-header.php');
  </div>
  <div id="collapseFour" class="panel-collapse collapse">
    <div class="panel-body">
-    <p>Veganism, Mental Health, Fasting, Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Nutrition, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Content Creation, Asian-American Identity </p>
+    <p>Veganism, Mental Health, Fasting, Sustainability, Plant-based diet, Meditation, Mind-Body-Spirit connection, Animal Welfare, Social Activism, Purpose-Driven Career, Writing, Content Creation, Asian-American Identity </p>
   </div>
 </div>
-</div>
+</div> -->
 </div>
 
 
