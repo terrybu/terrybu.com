@@ -24,7 +24,7 @@ require('blog/wp-blog-header.php');
     <?php include("_includes/mainLandingLeftImage.php"); ?>
 
     <div id="bodyContent">
-      <div class="panel-group" id="accordion" hidden>
+      <div class="panel-group" id="accordion">
        <!--COLLAPSIBLE PANELS START HERE -->
        <div id="CollapsiblePanel1" class="panel panel-default">
         <div href="#collapseOne" class="panel-heading" id="p1">
@@ -34,7 +34,7 @@ require('blog/wp-blog-header.php');
        </div>
        <div id="collapseOne" class="panel-collapse collapse">
          <div class="panel-body" id="body1">
-          <p>Technology drives global innovation across industries. I believe the future of the world will continue to be transformed by the creators and movers of technology. I'm a huge believer in technology/business innovation and the role it will play in important industries including environmental sustainability. </p>
+          <p>I strongly believe the future of the world will continue to be transformed by the creators and movers of technology. I am a huge believer in technology/business innovation and the role it will continue to play in industries including environmental sustainability and AI. I give my biggest thanks to mentors, colleagues and managers who supported me in my technology career between 2013 to 2023 as a developer, engineer and consultant.</p>
         </div>
       </div>
     </div>
