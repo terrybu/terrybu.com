@@ -34,7 +34,8 @@
 			<p>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</p>
 			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
 			<p>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
-			<p>2023: 2nd Annual Comedy Chateau International Comedy Festival (Los Angeles, California)</p>
+			<p>2023: 2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</p>
+			<img src="_images/chateau.png" style="max-height: 400px; max-width: 400px;">
 			<p>2023: Portland Maine Comedy Festival (Portland, Maine)</p>
 			<p>2023: North Carolina Comedy Festival (Greensboro, North Caorlina)</p>
 			</div>
