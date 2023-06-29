@@ -34,8 +34,14 @@
 			<p>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</p>
 			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
 			<p>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
+
+			<p>2023: Flappers Comedy Club (Burbank, California)</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/HTC6hIr4_nI?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 			<p>2023: 2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</p>
 			<img src="_images/chateau.png" style="max-height: 400px; max-width: 400px;">
+			<img src="_images/chateau-comedy.png" style="max-height: 400px; max-width: 400px;">
+
 			<p>2023: Portland Maine Comedy Festival (Portland, Maine)</p>
 			<p>2023: North Carolina Comedy Festival (Greensboro, North Caorlina)</p>
 			</div>
