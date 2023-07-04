@@ -44,9 +44,9 @@
 			<p><h4>Greenwich Village Comedy Club Showcase with Talia Reese</p></h4>
 			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
 			<br><br>			
-			<p><h4>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (NYC)</h4> </p>
+			<p><h4>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY)</h4> </p>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
-			<p><h4>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</h4></p>
+			<p><h4>2016: The Stand NYC Comedy Club (Laughing Buddha Industry Showcase) (New York, NY)</h4></p>
 			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
 			<p><h4>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</h4></p>
 
