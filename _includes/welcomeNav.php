@@ -33,8 +33,8 @@
 	      </ul>
 	    </li> -->
    	    <li><a href="https://www.terrybu.com/blog"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a></li>
-	    <!-- <li><a href="personal_photos.php"><span class="glyphicon glyphicon-picture" style="margin-right: 2px;"></span>PHOTOS</a></li>
-	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li> -->
+	    <li><a href="https://www.terrybu.com/resume.pdf"><span class="glyphicon glyphicon-picture" style="margin-right: 2px;"></span>RESUME</a></li>
+	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
 	  </ul>
 	</div>
 
