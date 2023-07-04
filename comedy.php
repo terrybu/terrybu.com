@@ -29,6 +29,17 @@
 	-->
 			<div>
 			<h4>Festival Credits & Club Appearances</h4>
+
+			<p><h4>Gotham Comedy Club 2013 (showcase with Cory Kahaney and Harrison Greenbaum) </p></h4>
+			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
+			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
+			<p>Kollaborations showcase NYC 2013</p>
+			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
+			<p>Caroline's showcase with Linda Smith 2013</p>
+			<p><h4>Greenwich Village Comedy Club 2016 (showcase with Talia Reese)</p>   </h4>
+			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
+			<br><br>			
+
 			<p>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (NYC) </p>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
 			<p>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</p>
@@ -43,25 +54,10 @@
 			<img src="_images/chateau-comedy.png" style="max-height: 400px; max-width: 400px;">
 
 			<p>2023: Portland Maine Comedy Festival (Portland, Maine)</p>
-			<p>2023: North Carolina Comedy Festival (Greensboro, North Caorlina)</p>
+			<p>2023: North Carolina Comedy Festival (Greensboro, North Carolina)</p>
 			</div>
 
-			<br><br>
-
-			<p><h4>Clips</p></h4>
-
-			<p><h4>Gotham Comedy Club 2013 (showcase with Cory Kahaney and Harrison Greenbaum) </p></h4>
-			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
-			<p><h4>Greenwich Village Comedy Club 2016 (showcase with Talia Reese)</p>   </h4>
-			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
-			<br><br>			
 			
-			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
-			<p>Kollaborations showcase NYC 2013</p>
-
-			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
-			<p>Caroline's showcase with Linda Smith 2013</p>
-
 		</div>
 	</div>
 
