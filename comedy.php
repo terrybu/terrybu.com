@@ -30,21 +30,27 @@
 			<div>
 			<h1>Festival Credits & Club Appearances</h1>
 
-			<p><h4>Gotham Comedy Club 2013 (showcase with Cory Kahaney and Harrison Greenbaum) </p></h4>
+			<p><h2>2013</h2></p>
+
+			<p><h4>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum</p></h4>
 			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
-			<p>Kollaborations showcase NYC 2013</p>
+			<p>Kollaborations showcase NYC</p>
 			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
-			<p>Caroline's showcase with Linda Smith 2013</p>
+			<p>Caroline's showcase with Linda Smith</p>
 			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
-			<p><h4>Greenwich Village Comedy Club 2016 (showcase with Talia Reese)</p>   </h4>
+
+			<p><h2>2016</h2></p>
+
+			<p><h4>Greenwich Village Comedy Club Showcase with Talia Reese</p></h4>
 			<ui><iframe src="https://www.youtube.com/embed/9g_1bIP7duY" width=500px height=500px></iframe></ui>
 			<br><br>			
-
 			<p><h4>2016: Stand Up 360 Comedy Festival at Broadway Comedy Club (NYC)</h4> </p>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
 			<p><h4>2016: The Stand Comedy Club (Laughing Buddha Industry Showcase) (NYC)</h4></p>
 			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
-			<p>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
+			<p><h4>2016: Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</h4></p>
+
+			<p><h2>2023</h2></p>
 
 			<p><h4>2023: Flappers Comedy Club (Burbank, California)</h4></p>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/HTC6hIr4_nI?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
