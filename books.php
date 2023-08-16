@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <p>일반적인 학생들이 떠나는 유학과는 거리가 먼 명문대 입학 성공기가 아닌 조금은 평범한 유학 가정의 생활을 담은 책으로, 나이와 사회적 위치가 다른 가족 구성원 세 사람의 눈을 통해 미국 아이들의 학교생활과 교육 전반에 관한 정보와 생활의 이야기들을 생생하게 전하고 있다.</p>
 
                <p>Translation: “Study Abroad Success Project of a Daring Family"</p>
-               <p>A family autobiography and a self-help memoir about a Korean-American family and their journey and adventures facing and overcoming cultural obstacles in a foreign country. Stories and advice on how to adjust to an American high school, learn English as a second language and fit into a new community. Primary readership audience were Korean students and parents contemplating immigration to a foreign country.</p>
+               <p>A family autobiography and a self-help memoir about our Korean-American family journey and adventures facing cultural obstacles growing up in the U.S. It is full of humorous and heartwarming stories on adjusting to an American high school, learning English as a second language and fitting into a new small town community in Orange, Connecticut. Primary readership audience were Korean students and parents contemplating immigration to America.</p>
                 <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=573396" target="blank">Korean Book Site Link</a></p>
                 <img src="_images/book_writing/dangchan_cover.jpg" style="max-height: 500px; max-width: 500px;">
                 <img src="_images/book_writing/dangchan_sample.jpg" style="max-height: 500px; max-width: 500px;">
@@ -110,8 +110,6 @@ Chapter 10 심리학과 교수님과 인터뷰
                 <br>
                 <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1>
 
-
-              
                 <br><br>
 
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from major depression. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
