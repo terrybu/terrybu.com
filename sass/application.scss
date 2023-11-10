@@ -41,9 +41,8 @@ h1 {
 
 #mainLandingLeftImage img {
     width: 230px;
-    height: 500px;
+    height: 230px;
     @include transformImage;
-    border: 4px black solid;
     float: right; 
 }
 
