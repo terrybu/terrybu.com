@@ -49,15 +49,18 @@
 			<p><h4>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</h4></p>
 
 			<p><h2>2023-Present</h2></p>
+			<ul>
+				<li>Flappers Comedy Club (Burbank, California)</li>
+				<li>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</li>
+				<li>Portland Maine Comedy Festival (Portland, Maine)</li>
+				<li>North Carolina Comedy Festival (Greensboro, North Carolina)</li>
+				<li>Fourth Wall Comedy Cafe</li>
+				<li>The Hollywood Comedy</li>
+				<li>Comedy Blvd</li>
+				<li>The Ice House Comedy Club Pasadena</li>
+			</ul>
 
-			<p><h4>Flappers Comedy Club (Burbank, California)</h4></p>
-			<p><h4>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</h4></p>
-			<p><h4>Portland Maine Comedy Festival (Portland, Maine)</h4></p>
-			<p><h4>North Carolina Comedy Festival (Greensboro, North Carolina)</h4></p>
-			<p><h4>Fourth Wall Comedy Cafe</h4></p>
-			<p><h4>The Hollywood Comedy</h4></p>
-			<p><h4>Comedy Blvd</h4></p>
-			<p><h4>The Ice House Comedy Club Pasadena</h4></p>
+
 			</div>
 
 			
