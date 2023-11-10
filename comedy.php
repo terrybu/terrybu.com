@@ -30,34 +30,35 @@
 			<div>
 			<h1>Festival Credits & Club Appearances</h1>
 
-			<p><h2>2013</h2></p>
-
-			<p><h4>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum</p></h4>
-			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
-			<p>Kollaborations showcase NYC</p>
-			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
-			<p>Caroline's showcase with Linda Smith</p>
-			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
-
-			<p><h2>2013-2016</h2></p>
-
-			<p><h4>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</p></h4>
-			<p><h4>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY)</h4> </p>
-			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
-			<p><h4>The Stand NYC Comedy Club (New York, NY)</h4></p>
-			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
-			<p><h4>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</h4></p>
-
 			<p><h2>2023-Present</h2></p>
 			<ul>
 				<li>Flappers Comedy Club (Burbank, California)</li>
 				<li>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine)</li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina)</li>
-				<li>Fourth Wall Comedy Cafe</li>
-				<li>The Hollywood Comedy</li>
-				<li>Comedy Blvd</li>
-				<li>The Ice House Comedy Club Pasadena</li>
+				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
+				<li>The Hollywood Comedy (Los Angeles, California)</li>
+				<li>Comedy Blvd (Los Angeles, California)</li>
+				<li>The Ice House Comedy Club Pasadena (Los Angeles, California)</li>
+			</ul>
+
+			<p><h2>2013-2016</h2></p>
+
+			<p>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</p>
+			<p>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </p>
+			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
+			<p>The Stand NYC Comedy Club (New York, NY)</p>
+			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
+			<p>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
+
+			<p><h2>2013</h2></p>
+			<ul>
+			<li>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum</li>
+			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
+			<li>Caroline's showcase with Linda Smith</li>
+			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
+			<li>Kollaborations showcase NYC</li>
+			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
 			</ul>
 
 
