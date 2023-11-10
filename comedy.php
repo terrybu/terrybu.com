@@ -40,7 +40,7 @@
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
 				<li>The Ice House Comedy Club Pasadena (Los Angeles, California)</li>
-				<img src="_images/ice_house_pic.png">
+				<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=utfvjepoAB5VWAhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
 			</ul>
 
 			<p><h2>2013-2016</h2></p>
