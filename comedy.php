@@ -40,16 +40,18 @@
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
 				<li>The Ice House Comedy Club Pasadena (Los Angeles, California)</li>
+				<img src="_images/ice_house_pic.png">
 			</ul>
 
 			<p><h2>2013-2016</h2></p>
-
-			<p>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</p>
-			<p>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </p>
+			<ul>
+			<li>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
+			<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </li>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
-			<p>The Stand NYC Comedy Club (New York, NY)</p>
+			<li>The Stand NYC Comedy Club (New York, NY)</li>
 			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
-			<p>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</p>
+			<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</li>
+			<ul>
 
 			<p><h2>2013</h2></p>
 			<ul>
