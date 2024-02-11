@@ -19,8 +19,8 @@
 	      <ul class="dropdown-menu">
 	        <li><a href="https://www.youtube.com/terrybu">YouTube</a></li> -->
 	        <!-- <li><a href="podcast.php">Podcast</a></li> -->
-	      </ul>
-	    </li>
+	<!--       </ul>
+	    </li> -->
 
 <!-- 	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-folder-open" style="margin-right: 5px;"></span>PORTFOLIO<b class="caret"></b></a>
 	      <ul class="dropdown-menu">
@@ -32,7 +32,7 @@
 	      </ul>
 	    </li> -->
    	    <li><a href="https://www.terrybu.com/blog"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a></li>
-	    <li><a href="https://www.terrybu.com/resume.pdf"><span class="glyphicon glyphicon-paperclip" style="margin-right: 2px;"></span>RESUME</a></li>
+	    <!-- <li><a href="https://www.terrybu.com/resume.pdf"><span class="glyphicon glyphicon-paperclip" style="margin-right: 2px;"></span>RESUME</a></li> -->
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
 	  </ul>
 	</div>
