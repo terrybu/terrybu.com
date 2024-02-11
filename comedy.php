@@ -33,13 +33,14 @@
 			<p><h2>2023-Present</h2></p>
 			<ul>
 				<li>Flappers Comedy Club (Burbank, California)</li>
-				<li>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California)</li>
-				<li>Portland Maine Comedy Festival (Portland, Maine)</li>
-				<li>North Carolina Comedy Festival (Greensboro, North Carolina)</li>
+				<li>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
+				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
+				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
-				<li>The Ice House Comedy Club Pasadena (Los Angeles, California)</li>
+				<li>The Ice House Comedy Club Pasadena</li>
+				<li>The Comedy Store (Los Angeles, California)</li>
 				<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=utfvjepoAB5VWAhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
 			</ul>
 
