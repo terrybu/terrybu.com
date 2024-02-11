@@ -22,11 +22,11 @@ require('blog/wp-blog-header.php');
     <?php include("_includes/gotSocial.php"); ?>
     <?php include("_includes/welcomeNav.php"); ?>
     <?php include("_includes/mainLandingLeftImage.php"); ?>
-
+<!-- 
     <div id="bodyContent">
-      <div class="panel-group" id="accordion">
+      <div class="panel-group" id="accordion"> -->
        <!--COLLAPSIBLE PANELS START HERE -->
-       <div id="CollapsiblePanel1" class="panel panel-default">
+<!--        <div id="CollapsiblePanel1" class="panel panel-default">
         <div href="#collapseOne" class="panel-heading" id="p1">
          <h4 class="panel-title">
            <span class="glyphicon glyphicon-flash"></span> TECHNOLOGY
@@ -37,7 +37,7 @@ require('blog/wp-blog-header.php');
           <p>I give my biggest thanks to mentors, colleagues and managers who supported me in my technology career between 2013 to 2023 as a developer, engineer and consultant.</p>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- <div id="CollapsiblePanel2" class="panel panel-default">
       <div href="#collapseTwo" class="panel-heading" id="p2">
        <h4 class="panel-title">

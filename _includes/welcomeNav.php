@@ -14,11 +14,11 @@
 	    <li><a href="comedy.php"><span class="glyphicon glyphicon-glass" style="margin-right: 2px;"></span>COMEDY</a></li>
 	   	<li><a href="books.php"><span class="glyphicon glyphicon-book" style="margin-right: 2px;"></span>BOOKS</a></li>
 
-	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-facetime-video	
+<!-- 	    <li class="dropdown"><a href="#" id="action" data-toggle="dropdown" class="dropdown-toggle"><span class="glyphicon glyphicon-facetime-video	
 " style="margin-right: 5px;"></span>CONTENT<b class="caret"></b></a>
 	      <ul class="dropdown-menu">
-	        <li><a href="https://www.youtube.com/terrybu">YouTube</a></li>
-	        <li><a href="podcast.php">Podcast</a></li>
+	        <li><a href="https://www.youtube.com/terrybu">YouTube</a></li> -->
+	        <!-- <li><a href="podcast.php">Podcast</a></li> -->
 	      </ul>
 	    </li>
 
