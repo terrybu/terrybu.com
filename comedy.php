@@ -46,7 +46,7 @@
 				<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/XAL2h7bf-68?si=-mn18D9_g7w1jwiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
 			</ul>
 
-			<p><h2>2013-2016</h2></p>
+			<p><h2>Past & NYC</h2></p>
 			<ul>
 			<li>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
 			<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/9g_1bIP7duY?si=o0QQeoEWUtSpAWWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
@@ -56,9 +56,6 @@
 
 			<li>The Stand NYC Comedy Club (New York, NY)</li>
 			<ui><iframe width="560" height="315" src="https://www.youtube.com/embed/DXokKdpo4AU?si=MLjLRO8d7fo-6A_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
-
-			<p><h2>2013</h2></p>
-			<ul>
 			<li>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum</li>
 			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
 			<li>Caroline's showcase with Linda Smith</li>
