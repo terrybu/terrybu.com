@@ -30,10 +30,10 @@
 			<div>
 			<h1>Festival Credits & Club Appearances</h1>
 
-			<p><h2>2023-Present</h2></p>
 			<ul>
+				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
 				<li>Flappers Comedy Club (Burbank, California)</li>
-				<li>2nd Annual Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
+				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
@@ -41,18 +41,20 @@
 				<li>Comedy Blvd (Los Angeles, California)</li>
 				<li>The Ice House Comedy Club Pasadena</li>
 				<li>The Comedy Store (Los Angeles, California)</li>
-				<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=utfvjepoAB5VWAhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
+				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
+				<ui> <iframe width="560" height="315" src="https://youtu.be/XAL2h7bf-68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
 			</ul>
 
 			<p><h2>2013-2016</h2></p>
 			<ul>
 			<li>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
+			<ui> <iframe width="560" height="315" src="https://youtu.be/9g_1bIP7duY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
+
 			<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </li>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
+			
 			<li>The Stand NYC Comedy Club (New York, NY)</li>
-			<img src="_images/the-stand-nyc.png" style="max-height: 400px; max-width: 400px;">
-			<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada)</li>
-			<ul>
+			<ui> <iframe width="560" height="315" src="https://youtu.be/DXokKdpo4AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></ui>
 
 			<p><h2>2013</h2></p>
 			<ul>
