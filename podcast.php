@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <div>
 
-          <iframe src="https://podcasters.spotify.com/pod/show/terry-bu/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/41MKPWhKzka8xw5h7oV7ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
           </div>
