@@ -28,7 +28,7 @@
 			<br><br>
 	-->
 			<div>
-			<h1>Festival Credits & Club Appearances</h1>
+			<h1>Credits & Club Appearances</h1>
 
 			<ul>
 				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
@@ -38,12 +38,17 @@
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
-				<li>The Ice House Comedy Club Pasadena</li>
+				<li>The Ice House Comedy Club, Pasadena</li>
 				<li>The Comedy Store (Los Angeles, California)</li>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
+								<ui> 
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/gtYTayddPwo?si=secG7RirhFFID9-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</ui>
+				<li>The Glendale Room</li>
+				<ui><iframe width="560" height="315" src="https://www.youtube.com/embed/KzkreuNeFg0?si=tb7x7tMOVMXfNqze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
 
-				<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/XAL2h7bf-68?si=-mn18D9_g7w1jwiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
+
 			</ul>
 
 			<p><h2>Past & NYC</h2></p>
