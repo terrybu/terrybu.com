@@ -17,11 +17,11 @@ require('blog/wp-blog-header.php');
 </head>
 <body>
 
-  <div class="container">
+<!--   <div class="container">
     <div id="browser"><p>*Optimal in 1920x1080 resolution/Chrome</p></div>
-    <?php include("_includes/gotSocial.php"); ?>
-    <?php include("_includes/welcomeNav.php"); ?>
-    <?php include("_includes/mainLandingLeftImage.php"); ?>
+    <?php //include("_includes/gotSocial.php"); ?>
+    <?php //include("_includes/welcomeNav.php"); ?>
+    <?php //include("_includes/mainLandingLeftImage.php"); ?> -->
 <!-- 
     <div id="bodyContent">
       <div class="panel-group" id="accordion"> -->
