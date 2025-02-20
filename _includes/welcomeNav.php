@@ -4,7 +4,7 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Standup Comedian</p>
+	  <p>Standup Comedian | LA-Based | Korean-American</p>
 	</div>
 
 	<div id="nav">
