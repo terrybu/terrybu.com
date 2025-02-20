@@ -4,7 +4,7 @@
 
 	<div id="welcome">
 	  <p><b>Terry Bu</b></p>
-	  <p>Thank you for visiting my website.</p>
+	  <p>Standup Comedian</p>
 	</div>
 
 	<div id="nav">
