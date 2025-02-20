@@ -20,15 +20,16 @@
         <?php include("_includes/mainLandingLeftImage.php"); ?>
 
         <div id="bodyContent">
-          <h1 style="color: #C63B3B; clear: both;">Photos</h1>
+          <h1 style="color: #C63B3B; clear: both;">Schedule</h1>
           <ol>
-            <li>
-                <h3>2009:</p></h3>
-            </li>
-            <li>
-                <h3>2011: ASAP</p></h3>
-            </li>
-        </ol>
+            2/20 Flappers Yoohoo
+            3/1 Glendale Room
+            3/7 Fourth wall cafe
+            3/14 Freaky Friday
+            3/16 Flashback
+            3/29 Tao Comedy Studio
+            <a href="https://www.linktree.com/terrybu">https://www.linktree.com/terrybu</a>
+         </ol>
     </div>
 </div>
 
