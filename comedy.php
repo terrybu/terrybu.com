@@ -31,6 +31,7 @@
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
+				<li>Westside Comedy Club (Santa Monica, Los Angeles)</li>
 				<li>Burbank Comedy Festival 2024</li>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
@@ -48,13 +49,13 @@
 				<li>Greenwich Village Comedy Club</li>
 				<li>Caroline's</li>
 				<ui> 
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/6i5gEMHpPyM?si=4gUhSLo7og7DchF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://youtu.be/OYZR9pExN8Q?si=Uywupt3Y3iIdjkJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				</ui>
 			</ul>
 
 			<p><h2>Past & NYC</h2></p>
 			<ul>
-			<li>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
+			<li>2016 Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
 			<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/9g_1bIP7duY?si=o0QQeoEWUtSpAWWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
 
 			<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </li>
