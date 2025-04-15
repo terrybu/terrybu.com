@@ -33,37 +33,37 @@
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>love story</span>
-  <audio src="lovestory.m4a"></audio>
+  <audio src="music/lovestory.m4a"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>busker busker</span>
-  <audio src="busker.m4a"></audio>
+  <audio src="music/busker.m4a"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>isnt she lovely</span>
-  <audio src="isntshe.m4a"></audio>
+  <audio src="music/isntshe.m4a"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>radical dreamers chrono cross</span>
-  <audio src="radical.m4a"></audio>
+  <audio src="music/radical.m4a"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>shepherd of my soul sung by katie in Korean</span>
-  <audio src="shepherd.m4a"></audio>
+  <audio src="music/shepherd.m4a"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>motherland by crystal kay in Japanese sung by Katie</span>
-  <audio src="motherland.m4a"></audio>
+  <audio src="music/motherland.m4a"></audio>
 </div>
 
 <script>
