@@ -57,13 +57,13 @@
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>shepherd of my soul sung by katie in Korean</span>
-  <audio src="music/shepherd.m4a"></audio>
+  <audio src="music/shepherd.mp3"></audio>
 </div>
 
 <div class="track">
   <button onclick="togglePlay(this)">Play</button>
   <span>motherland by crystal kay in Japanese sung by Katie</span>
-  <audio src="music/motherland.m4a"></audio>
+  <audio src="music/motherland.mp3"></audio>
 </div>
 
 <script>
