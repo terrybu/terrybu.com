@@ -66,6 +66,11 @@
   <audio src="music/motherland.mp3"></audio>
 </div>
 
+<div>
+<h2>Terry's Smule Profile Link (I sang a lot of songs on that app)</h2>
+<a href='https://www.smule.com/terrybu?utm_source=web&utm_campaign=share&utm_medium=copylink'>https://www.smule.com/terrybu?utm_source=web&utm_campaign=share&utm_medium=copylink</a>
+</div>
+
 <script>
   let currentlyPlaying = null;
 
