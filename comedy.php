@@ -28,6 +28,9 @@
 			<br><br>
 	-->
 			<div>
+
+			<h3>My material and style spans across setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
+
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
