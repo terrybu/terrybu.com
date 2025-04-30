@@ -31,23 +31,26 @@
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
-				<li>Westside Comedy Club (Santa Monica, Los Angeles)</li>
+				<li>Westside Comedy Club (Santa Monica, Los Angeles) 2025</li>
+				<li>Tao Comedy Studio 2025</li>
 				<li>Burbank Comedy Festival 2024</li>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
-				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
 				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
 				<li>Flappers Comedy Club (Burbank, California)</li>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
-				<li>The Ice House Comedy Club, Pasadena</li>
-				<li>The Comedy Store (Los Angeles, California)</li>
-				<li>The Stand NYC</li>
-				<li>Broadway Comedy Club</li>
-				<li>Greenwich Village Comedy Club</li>
-				<li>Caroline's</li>
+				<li>The Ice House Comedy Club, Pasadena 2024</li>
+				<li>The Comedy Store (Los Angeles, California) 2023</li>
+				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
+				<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) 2016<li>
+				<li>The Stand NYC 2016</li>
+				<li>Broadway Comedy Club 2015</li>
+				<li>Greenwich Village Comedy Club 2015</li>
+				<li>Caroline's 2014</li>
+				<li>Gotham Comedy Club 2014</li>
 				<ui> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OYZR9pExN8Q?si=6-QHTPeyZ2-hb9bX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				</ui>
