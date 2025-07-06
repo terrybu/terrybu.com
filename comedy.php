@@ -29,26 +29,28 @@
 	-->
 			<div>
 
-			<h3>My material and style spans across setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
+			<h3>I dabble across setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
 
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
 				<li>Westside Comedy Club (Santa Monica, Los Angeles) 2025</li>
 				<li>Tao Comedy Studio 2025</li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/DZiXmlVUgzk?si=_d_PYSHlTQKyp2z-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Burbank Comedy Festival 2024</li>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
 				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/3h05HL5drac?si=c4WGQQaEdFlApe8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Flappers Comedy Club (Burbank, California)</li>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
 				<li>The Ice House Comedy Club, Pasadena 2024</li>
 				<li>The Comedy Store (Los Angeles, California) 2023</li>
 				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
-				<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) 2016<li>
+				<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) 2016</li>
 				<li>The Stand NYC 2016</li>
 				<li>Broadway Comedy Club 2015</li>
 				<li>Greenwich Village Comedy Club 2015</li>
