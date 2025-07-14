@@ -29,7 +29,7 @@
 	-->
 			<div>
 
-			<h3>I dabble across setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
+			<h3>I am versatile across traditional setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
 
 			<h1>Credits & Club Appearances</h1>
 
