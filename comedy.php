@@ -46,12 +46,14 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=dvyi2waYUjUgxNST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
-				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
+				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023, 2025 </li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/QdgBpc5DKUw?si=axnXXoL4eU9FrokP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
+				<li>Burbank Comedy Festival 2024,2025</li>
+				<li>Flashback Studios (Low Hanging Fruit show)</li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6i5gEMHpPyM?si=SBTwu9Q8Nq9yZ0Ce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
-				<li>Burbank Comedy Festival 2024,2025</li>
 				<li>The Comedy Store (Los Angeles, California) 2023</li>
 				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
 			</ul>
