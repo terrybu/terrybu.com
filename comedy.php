@@ -36,21 +36,22 @@
 			<ul>
 				<li>Westside Comedy Club (Santa Monica, Los Angeles) 2025</li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/OYZR9pExN8Q?si=6-QHTPeyZ2-hb9bX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<li>Flappers Comedy Club (Burbank, California)</li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/UTErwsN07fc?si=LSLTqO0-TJjmWiQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/3h05HL5drac?si=c4WGQQaEdFlApe8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Tao Comedy Studio 2025</li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/DZiXmlVUgzk?si=_d_PYSHlTQKyp2z-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<li>The Ice House Comedy Club, Pasadena 2024</li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=dvyi2waYUjUgxNST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Burbank Comedy Festival 2024</li>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/QdgBpc5DKUw?si=axnXXoL4eU9FrokP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
-				<li>Fourth Wall Comedy Cafe (Los Angeles, California)</li>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/3h05HL5drac?si=c4WGQQaEdFlApe8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-				<li>Flappers Comedy Club (Burbank, California)</li>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/UTErwsN07fc?si=LSLTqO0-TJjmWiQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
 				<li>Comedy Blvd (Los Angeles, California)</li>
-				<li>The Ice House Comedy Club, Pasadena 2024</li>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=dvyi2waYUjUgxNST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>The Comedy Store (Los Angeles, California) 2023</li>
 				<li>Las Vegas World Series of Comedy Festival (Las Vegas, Nevada) 2016</li>
 			</ul>
