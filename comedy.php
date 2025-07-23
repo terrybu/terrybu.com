@@ -60,19 +60,19 @@
 
 			<p><h2>Past & NYC</h2></p>
 			<ul>
-			<li>2016 Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons</li>
+			<li>Greenwich Village Comedy Club Showcase with Talia Reese/Steve Arons, 2016</li>
 			<ui> <iframe width="560" height="315" src="https://www.youtube.com/embed/9g_1bIP7duY?si=o0QQeoEWUtSpAWWj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
 
-			<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY) </li>
+			<li>Stand Up 360 Comedy Festival at Broadway Comedy Club (New York, NY), 2016</li>
 			<img src="_images/standup-me.jpg" style="max-height: 400px; max-width: 400px;">
 
-			<li>The Stand NYC Comedy Club (New York, NY)</li>
+			<li>The Stand NYC Comedy Club (New York, NY), 2016</li>
 			<ui><iframe width="560" height="315" src="https://www.youtube.com/embed/DXokKdpo4AU?si=MLjLRO8d7fo-6A_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></ui>
-			<li>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum</li>
+			<li>Gotham Comedy Club Showcase with Cory Kahaney and Harrison Greenbaum, 2013</li>
 			<ui> <iframe src="https://www.youtube.com/embed/D5gLAzbEUtY" width=500px height=500px></iframe></ui>
-			<li>Caroline's showcase with Linda Smith</li>
+			<li>Caroline's showcase with Linda Smith, 2013</li>
 			<img src="_images/carolines.jpeg" style="max-height: 400px; max-width: 400px;">
-			<li>Kollaborations showcase NYC</li>
+			<li>Kollaborations showcase NYC, 2012</li>
 			<img src="_images/personal_photos/standup_comedy_2013.jpg" style="max-height: 400px; max-width: 400px;">
 			</ul>
 
