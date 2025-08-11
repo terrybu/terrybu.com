@@ -34,6 +34,8 @@
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
+				<li>Three Clubs Lounge (Los Angeles) 2025</li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGMwG0HuzFA?si=Y0gYxObTRcLOKdFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Westside Comedy Club (Santa Monica, Los Angeles) 2025</li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/OYZR9pExN8Q?si=6-QHTPeyZ2-hb9bX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Flappers Comedy Club (Burbank, California)</li>
