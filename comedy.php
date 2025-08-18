@@ -29,7 +29,8 @@
 	-->
 			<div>
 
-			<h3>I am versatile across traditional setup-punchline, prop comedy, musical comedy, dark humor and alt comedy.</h3>
+			<h3>My comedy style is versatile across traditional setup-punchline, dark humor, alt comedy, musical comedy and prop comedy.</h3>
+			<p>My greatest comedy inspirations include Bill Hicks, Mitch Hedberg, Demetri Martin, George Carlin, Patrice O'Neal, Anthony Jeselnik, John Mulaney, Richard Pryor, Louis CK, Todd Barry, Kevin Hart, Dave Chapelle, Jimmy Yang, Garry Shandling, Andy Kaufman, Steve Martin and more.</p>
 
 			<h1>Credits & Club Appearances</h1>
 
@@ -49,9 +50,9 @@
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
 				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023, 2025 </li>
+				<li>Burbank Comedy Festival 2024,2025 - Best of Fest</li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/QdgBpc5DKUw?si=axnXXoL4eU9FrokP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
-				<li>Burbank Comedy Festival 2024,2025</li>
 				<li>Flashback Studios (Low Hanging Fruit show)</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6i5gEMHpPyM?si=SBTwu9Q8Nq9yZ0Ce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>The Hollywood Comedy (Los Angeles, California)</li>
