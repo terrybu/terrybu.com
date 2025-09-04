@@ -61,56 +61,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                 <!-- <a href="https://www.terrybu.com/diaries-kor" target="blank"> korean-sangshil-v1.0.pdf  -->
-		            <h1><a href="https://terrybu.com/downloads/diaries-korean-water.pdf"> 한국어 번역판 원본 "누나의 일기: 세계의 청년들에게 일어나는 우울증과 자살 " (2022)</a></h1>
-<pre>
-                 I. 우리를 해치는 내적 대화의 종류
-                   Chapter 1 – “난 왜 이렇게 부족할까?” (I am not good enough)
-                   Chapter 2 - “난 왜 이렇게 못생기고 매력이 없을까?” (I am so ugly and unattractive)
-                   Chapter 3 – “난 왜 이렇게 뒤처졌을까?” (I am so behind compard to others)
-                   Chapter 4 – “아, 내가 왜 그랬을까” (I shouldn’t have done that)
-                   Chapter 5 – “난 항상 완벽해야 돼” (I must always be perfect)
-                   Chapter 6 – “난 아무것도 못하는 사람이야" (I am a total failure)
-                 II. 부정적인 내적 대화의 원인
-                   Chapter 7 – 우리의 두뇌
-                   Chapter 8 – 우리의 두뇌 (파트 2)
-                   Chapter 9 – 사회적 가치관과 문화의 영향
-                   Chapter 10 – 주변 사람들과 가족, 친구의 영향
-                   Chapter 11 – 어린 시절 때 배운 사고방식
-                   Chapter 12 – 우리의 자기 정체성과 자기 개념
-                 III. 내적 대화와 우울증에 대처하는 방법
-                   Chapter 13 – 우울증 처방 및 이해도의 현재 상태
-                   Chapter 14 – 현재 의식 (現在意識)
-                   Chapter 15 – 우울증의 하향나선 (downward spiral)
-                   Chapter 16 – 부족의 심리와 감사의 힘
-                   Chapter 17 – 사회의 위에서 아래로, 사회의 아래에서 위로 (Top Down, Bottom Up)
-                   Chapter 18 – “한가한 두뇌는 악마의 작업실이다"
-                   Chapter 19 – 믿음의 힘과 우울증의 관계
-                </pre> 
-
-                <br><br>
-                <h1><a href="https://www.terrybu.com/downloads/korean-sangshil-v1.0.pdf" target="blank">  "상실을 넘어서다" (2022) </a></h1>
-                <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
-                <pre>
-프롤로그
-Chapter 1 누나의 샌드위치
-Chapter 2 어린 시절
-Chapter 3 사라지는 인연, 태어나는 인연
-Chapter 4 어른이 되어 방심하면
-Chapter 5 현실도피와 가출
-Chapter 6 최면 치료
-Chapter 7 도파민의 중요성
-Chapter 8 인지 행동 치료 (CBT) 와 자기주장훈련
-Chapter 9 모두 헤매고 있으니까
-Chapter 10 심리학과 교수님과 인터뷰
-에필로그
-                </pre>
-                <!-- <p>Free Korean translated pdf link above for limited time.</p>
-
-                <br>
-                <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1>
- -->
-                <br><br>
-
+		           
                 <p><b>A non-fiction memoir and a self-help psychology book dedicated to the author's older sister who suffered from major depression. </b>This book goes into the types of thought patterns (comparison thinking, catastrophizing, negative self-talk, perfectionism) that may cause obsessive, harmful overthinking known as 'rumination' which has proven to be a major precursor to depression. It also discusses possible solutions at both individual and societal levels, and why we need to address issues such as status-obsession on social media and our society's skewed definition of the word 'success.'</p>
 
                 <p>Depression and suicide are becoming more prevalent than ever before. In the U.S, suicide rates among young adults have reached their highest point in nearly two decades and are at their highest level since 2000, according to the U.S. News & World Report in 2019. South Korea now leads the OECD world rankings with the highest suicide rate, and Korean celebrities and politicians frequently commit suicide from reasons cited around shame, social pressure, cyberbullying and poor self-image. </p>
@@ -156,6 +107,56 @@ Chapter 10 심리학과 교수님과 인터뷰
                   About the Author 120
                   References 121
                 </pre>
+                <br><br>
+
+ <h1><a href="https://terrybu.com/downloads/diaries-korean-water.pdf"> 한국어 번역판 원본 "누나의 일기: 세계의 청년들에게 일어나는 우울증과 자살 " (2022)</a></h1>
+<pre>
+                 I. 우리를 해치는 내적 대화의 종류
+                   Chapter 1 – “난 왜 이렇게 부족할까?” (I am not good enough)
+                   Chapter 2 - “난 왜 이렇게 못생기고 매력이 없을까?” (I am so ugly and unattractive)
+                   Chapter 3 – “난 왜 이렇게 뒤처졌을까?” (I am so behind compard to others)
+                   Chapter 4 – “아, 내가 왜 그랬을까” (I shouldn’t have done that)
+                   Chapter 5 – “난 항상 완벽해야 돼” (I must always be perfect)
+                   Chapter 6 – “난 아무것도 못하는 사람이야" (I am a total failure)
+                 II. 부정적인 내적 대화의 원인
+                   Chapter 7 – 우리의 두뇌
+                   Chapter 8 – 우리의 두뇌 (파트 2)
+                   Chapter 9 – 사회적 가치관과 문화의 영향
+                   Chapter 10 – 주변 사람들과 가족, 친구의 영향
+                   Chapter 11 – 어린 시절 때 배운 사고방식
+                   Chapter 12 – 우리의 자기 정체성과 자기 개념
+                 III. 내적 대화와 우울증에 대처하는 방법
+                   Chapter 13 – 우울증 처방 및 이해도의 현재 상태
+                   Chapter 14 – 현재 의식 (現在意識)
+                   Chapter 15 – 우울증의 하향나선 (downward spiral)
+                   Chapter 16 – 부족의 심리와 감사의 힘
+                   Chapter 17 – 사회의 위에서 아래로, 사회의 아래에서 위로 (Top Down, Bottom Up)
+                   Chapter 18 – “한가한 두뇌는 악마의 작업실이다"
+                   Chapter 19 – 믿음의 힘과 우울증의 관계
+                </pre> 
+
+                <br><br>
+                <h1><a href="https://www.terrybu.com/downloads/korean-sangshil-v1.0.pdf" target="blank">  "상실을 넘어서다" (2022) </a></h1>
+                <p>지난 5-10년부터 2021년이란 시간동안 한국의 자살률은 세계 최고 수준입니다. OECD 국가 간 자살률을 비교 시 OECD 평균 10.9명에 비해, 한국은 23.5명(2020년 기준)으로 가장 높은 수준을 기록했다고 합니다. 한국의 자살은 10대부터 30대까지 사망원인 순위 1위이고, 40대, 50대에서는 사망원인 순위 2위를 차지했습니다. 저의 친누나는 2005년 심한 우울증을 겪은 뒤 20살의 나이에 대학교 기숙사에서 자결하였고 저는 지난 15년간 누나에게 왜 그런 일이 있어야만 했는지를 알아내기 위해서 우울증의 진리에 대해서 탐구했습니다. 이 책안에서 누나의 개인적인 사정과 정신세계뿐만 아니라 우울증에 취약하신 분들에게 쉽게 일어나는 부정적인 반추 (negative rumination) 와 반복적인 부정적인 사고에 대해서 분석했고 우울증이 일어나는 복합적인 원인, 그리고 장래의 해결책으로서 사회적으로 그리고 개인적으로 할 수 있는 습관들이 무엇인지를 추천해보았습니다. 이 책을 장래의 한국의 청년들을 위해서 바칩니다. </p>
+                <pre>
+프롤로그
+Chapter 1 누나의 샌드위치
+Chapter 2 어린 시절
+Chapter 3 사라지는 인연, 태어나는 인연
+Chapter 4 어른이 되어 방심하면
+Chapter 5 현실도피와 가출
+Chapter 6 최면 치료
+Chapter 7 도파민의 중요성
+Chapter 8 인지 행동 치료 (CBT) 와 자기주장훈련
+Chapter 9 모두 헤매고 있으니까
+Chapter 10 심리학과 교수님과 인터뷰
+에필로그
+                </pre>
+                <!-- <p>Free Korean translated pdf link above for limited time.</p>
+
+                <br>
+                <h1><a href="https://terrybu.com/blog/index.php/2022/06/17/kor-lens-soup/" target="blank"> 스물 네 살에 먹었던 렌즈콩 스프 (단편 일기 2022)</a></h1> -->
+
           </ul>
         </div>
         </div>
