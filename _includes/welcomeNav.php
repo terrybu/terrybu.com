@@ -27,7 +27,7 @@
 	    <!-- <li><a href="https://www.terrybu.com/resume.pdf"><span class="glyphicon glyphicon-paperclip" style="margin-right: 2px;"></span>RESUME</a></li> -->
 	    <!-- <li><a href="music.php"><span class="glyphicon glyphicon-music" style="margin-right: 2px;"></span>MUSIC</a></li> -->
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
-	    <li><a href="LifeClock.php"><span class="glyphicon glyphicon-time" style="margin-right: 2px;"></span>LIFE CLOCK (JS)</a></li>
+	    <li><a href="life-clock/home.html"><span class="glyphicon glyphicon-time" style="margin-right: 2px;"></span>LIFE CLOCK (JS)</a></li>
 
 	  </ul>
 	</div>

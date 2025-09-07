@@ -97,12 +97,6 @@ require('blog/wp-blog-header.php');
 
 
 
-
-
-
-
-
-
 <?php include("_includes/viewSizeDisplay.php"); ?>
 
 

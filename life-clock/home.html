@@ -1,0 +1,90 @@
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Life Clock: If your life could be compared to a 24-hour clock, what hour would it point to? Inspiration from Professor Kim Nan Do in South Korea. Created by Terry Bu. ">
+
+  <title>Life Clock: It's never late to start something. </title>
+
+     <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+<style>
+ #clock {
+    padding: 10px;
+    background-image: url("images/clocknewtry.png");
+    background-size:220px 225px;
+    background-repeat:no-repeat;
+}
+</style>
+</head>
+<body>
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Life Clock</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="korean.html">Korean Version</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Your Life Clock</h1>
+        <div id="result"></div>
+        <div class="well"></div>
+        <div id="disappear">
+        <img id="disappear" src="images/clock.png" alt="clock image">
+      
+        <p>If your life could be compared to a 24-hour clock, what hour would it point to? <br> This is designed to help those who think it is "too late" to start something new or try a new direction in life. This clock will help you gain perspective by giving you a metaphor based on your current age. </p>
+        <br>
+
+    <div id="inputDiv">
+      <div id="inputArea">
+      <p id="sameLine">You are </p>
+      <input id="inputActual" type="text" value="Input Your Age (1-80)"></input><p id="sameLine"> years old </p>
+      <br><br>
+      <div id="errorMsg" class="alert alert-danger" style="display: none">Not a valid input. Please input an age value between 1 and 80.</div>
+      </div>
+      <br>
+  </div> 
+
+<button  id="submit" class="btn btn-primary btn-lg btn-success">Calculate Clock &raquo;</button>
+
+      </div> <!-- disappear ender -->
+
+      </div> <!-- jumbotron ender -->
+  
+            <div class="footer">
+              <p>@Created By <a href="https://www.terrybu.com">Terry Bu</a> at <a href="https://www.github.com/terrybu">github/terrybu</a>.</p>
+            </div>
+          
+
+
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- LIFECLOCK OWN JavaScript Code -->
+   <script src="script.js"></script>
+
+<audio>
+<source src="button.wav"></source>
+</audio>
+
+</body>
+</html>
