@@ -29,12 +29,16 @@
 	-->
 			<div>
 
-			<h3>My comedy style is versatile across traditional setup-punchline, dark humor, alt comedy, musical comedy and prop comedy.</h3>
-			<p>My greatest comedy inspirations include Bill Hicks, Mitch Hedberg, Demetri Martin, George Carlin, Patrice O'Neal, Anthony Jeselnik, John Mulaney, Richard Pryor, Louis CK, Todd Barry, Kevin Hart, Dave Chapelle, Jimmy Yang, Garry Shandling, Andy Kaufman, Steve Martin and more.</p>
+			<h3>Terry's comedy style is versatile across traditional setup-punchline, dark humor, alt comedy, musical comedy and prop comedy.</h3>
+			<p>My comedy inspirations include Todd Barry, Bill Hicks, Mitch Hedberg, Demetri Martin, Anthony Jeselnik, John Mulaney, Richard Pryor, Louis CK, Kevin Hart, Dave Chapelle, Garry Shandling, Andy Kaufman, Steve Martin and more.</p>
 
 			<h1>Credits & Club Appearances</h1>
 
 			<ul>
+
+				<li>Asheville Comedy Festival 2026</li>
+				
+
 				<li>Burbank Comedy Festival 2024,2025 - Best of Fest</li>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/g0Fxndh32Hg?si=PBKQUkfiEzSaCGen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Three Clubs Lounge (Los Angeles) 2025</li>
@@ -50,8 +54,7 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/OR3cOmjJ5rA?si=dvyi2waYUjUgxNST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				<li>Boston Comedy Festival 2024 (Boston, Massachusetts)</li>
 				<li>Portland Maine Comedy Festival (Portland, Maine) 2023 </li>
-				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023, 2025 </li>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/QdgBpc5DKUw?si=axnXXoL4eU9FrokP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<li>North Carolina Comedy Festival (Greensboro, North Carolina) 2023 </li>
 				<li>Comedy Chateau International Comedy Festival - Finalist/Best of Fest (Los Angeles, California) 2023</li>
 				<li>Flashback Studios (Low Hanging Fruit show)</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6i5gEMHpPyM?si=SBTwu9Q8Nq9yZ0Ce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
