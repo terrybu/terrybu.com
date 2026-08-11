@@ -23,7 +23,7 @@
 	        <li><a href="https://github.com/terrybu" target="_blank">GitHub</a></li>
 	      </ul>
 	    </li> -->
-   	    <li><a href="https://terrybu88.blogspot.com/"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a></li>
+   	    <!-- <li><a href="https://terrybu88.blogspot.com/"><span class="glyphicon glyphicon-pencil" style="margin-right: 2px;"></span>BLOG</a></li> -->
 	    <!-- <li><a href="https://www.terrybu.com/resume.pdf"><span class="glyphicon glyphicon-paperclip" style="margin-right: 2px;"></span>RESUME</a></li> -->
 	    <!-- <li><a href="music.php"><span class="glyphicon glyphicon-music" style="margin-right: 2px;"></span>MUSIC</a></li> -->
 	    <li><a href="contact.php"><span class="glyphicon glyphicon-user" style="margin-right: 2px;"></span>CONTACT</a></li>
