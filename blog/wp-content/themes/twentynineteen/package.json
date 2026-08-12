@@ -15,7 +15,7 @@
     "postcss-cli": "^6.1.2",
     "postcss-focus-within": "^3.0.0",
     "rtlcss": "^2.4.0",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.3"
   },
   "rtlcssConfig": {
     "options": {
